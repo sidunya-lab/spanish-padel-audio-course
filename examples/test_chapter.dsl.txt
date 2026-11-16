@@ -1,0 +1,12 @@
+N Тестовая глава
+T Цена корта и бронь
+D A|Hola, ¿cuánto cuesta la pista?
+D B|Treinta euros la hora.
+D A|Vale. ¿Está libre a las seis?
+D B|Sí, a las seis está libre.
+P ¿Cuánto cuesta la pista?|Ты хочешь узнать, сколько стоит корт.|{Pista} — это корт.
+P Treinta euros la hora.|Администратор отвечает, что час стоит тридцать евро.|
+P ¿Está libre a las seis?|Теперь узнай, свободен ли корт в шесть.|{Libre} значит «свободен».
+S Повторим вопрос о цене корта. Задай его сам.|¿Cuánto cuesta la pista?
+V Oye, la pista cuesta treinta euros la hora, pero a las seis ya está casi llena, ¿eh?|Ты услышал, что корт стоит тридцать в час, но в шесть уже почти всё занято.
+E Отлично. Эту главу стоит повторить завтра. До встречи на корте.
