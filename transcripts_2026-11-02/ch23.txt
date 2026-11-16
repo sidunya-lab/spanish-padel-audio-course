@@ -1,0 +1,50 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создана для падал амбассадора. ¶ Глава 23. ¶ После матча, общение и переписка. ¶ Цель главы — обменяться контактами, пригласить навстречу и перенести планы. ¶ Сначала послушай разговор, пока просто слушай.
+   20 ES: Gracias por el partido. || Lo he pasado muy bien. | ᴮYo también. | ᴮ¿Tomamos algo después? | Hoy prefiero descansar. || ¿Y mañana? | ᴮPerfecto. | ᴮTe escribo por WhatsApp. | Vale. || Mándame la ubicación. | ᴮHasta mañana.
+   38 RU: Разговор после игры Часто дает больше практики, чем сам матч. Поблагодари за игру. Задай вопрос и предложи следующий шаг.
+   47 ES: te escribo, napiso a tibia. mándame.
+   50 RU: Пришли мне. Если планы меняются, скажи, что не можешь. И предложи другое время. ¶ Спасибо за игру.
+   57 ES: gracias por el partido.
+   59 RU: Простое завершение матча. Разберём с конца. Повторяй.
+   64 ES: el partido. || por el partido. || gracias por el partido. || gracias por el partido.
+   75 RU: Как сказать, я отлично провел время.
+   78 ES: lo he pasado muy bien.
+   80 RU: Естественная оценка впечатлений. По частям. С конца.
+   85 ES: muy bien. || he pasado muy bien. || Lo he pasado muy bien. || ∅
+   96 RU: Выпьем что-нибудь после.
+   98 ES: ¿Tomamos algo después?
+  100 RU: Не обязательно алкоголи.
+  102 ES: Después. || Algo después. || ¿Tomamos algo después? || ¿Tomamos algo después?
+  113 RU: Еще раз. Спасибо за игру. [P1.8]  [P1.8]
+  117 ES: Gracias por el partido.
+  119 RU: Нужно сказать. Дашь мне свой номер.
+  122 ES: ¿Me pasas tu número?
+  124 RU: Разговорное – просьба обменяться контактами. Повторяй под частям.
+  130 ES: Tu número. || ¿Pasas tu número? || ¿Me pasas tu número? || ¿Me pasas tu número?
+  140 RU: Напишу тебе в WhatsApp.
+  142 ES: Te escribo por WhatsApp.
+  144 RU: Готовая фраза о следующем шаге.
+  146 ES: Por WhatsApp. || Escribo por WhatsApp. || Te escribo por WhatsApp. || Te escribo por WhatsApp.
+  157 RU: Вспомни, дашь мне свой номер. [P1.8]  [P1.8]
+  161 ES: ¿Me pasas tu número? | ACHIPIER.
+  164 RU: Пришли мне геолокацию, пожалуйста.
+  167 ES: Mándame la ubicación. Por favor, | ubicación,
+  170 RU: Здесь, значит, местоположение. еще раз по кусочкам.
+  176 ES: favor, || por favor, || mándame la ubicación, | por favor, || mándame la ubicación, por favor,
+  187 RU: В итоге я не смогу прийти. Перенесем на завтра.
+  191 ES: al final no puedo ir. || ¿Lo dejamos para mañana?
+  195 RU: Отказ сразу с конкретной альтернативой.
+  198 ES: Para mañana. || Dejamos para mañana. || Lo dejamos para mañana. || Al final no puedo ir. || ¿Lo dejamos para mañana? || Al final no puedo ir. || ¿Lo dejamos para mañana?
+  218 RU: Проверим, напишу тебе в WhatsApp. [P1.9]  [P1.9]
+  222 ES: Te escribo por WhatsApp.
+  224 RU: Скажем, спасибо за приглашение, но сегодня я лучше отдохну.
+  229 ES: Gracias por invitarme, pero hoy prefiero descansar.
+  232 RU: Вежливый отказ без придуманных объяснений. Разберём с конца. Повторяй.
+  238 ES: Prefiero descansar. || Hoy prefiero descansar, || pero hoy prefiero descansar. || Gracias por invitarme, pero hoy prefiero descansar. || Gracias por invitarme, pero hoy prefiero descansar.
+  258 RU: Ещё раз. Пришли мне геолокацию, пожалуйста. [P1.9]  [P1.9]
+  263 ES: Mándame la ubicación, por favor.
+  266 RU: Поблагодари за матч, попроси номер и попроси прислать геолокацию. [P2.6]  [P2.6]
+  273 ES: Gracias por el partido. || ¿Me pasas tu número? || Mándame la ubicación, por favor.
+  280 RU: Живая речь. Так это звучит в обычном темпе. ¶ лови знакомые слова.
+  286 ES: ᴮOye, qué buen partido. | ᴮTe agrego al grupo de WhatsApp del club y así te enteras de las próximas quedadas.
+  293 RU: Ты услышал, слушай, отличный матч. Добавлю тебя в клубнюю группу WhatsApp, так ты будешь в курсе следующих встреч. ¶ Уверенное согласие и спокойный вежливый отказ одинаково полезны. До встречи на корте!

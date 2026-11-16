@@ -1,0 +1,22 @@
+N Глава 22
+T Екатеринбург, Алтушкин и RCC Padel
+G Цель главы: рассказать об арене и лиге без неподтверждённых сравнений.
+D B|¿Hay torneos de pádel en Ekaterimburgo?
+D A|Sí, hay una liga internacional llamada erre ce ce Pádel.
+D B|¿Dónde se juega?
+D A|En la arena de pádel, en el antiguo complejo Uralets.
+D B|¿Cuántas pistas tiene la arena?
+D A|La arena principal tiene seis pistas.
+L Несколько проверенных фактов. Игорь Алтушкин — основатель Русской медной компании. Падел-арена РМК появилась после реконструкции бывшего комплекса «Уралец».
+L В основной арене шесть кортов, и у проекта есть международная лига {erre ce ce Pádel}. Призы с другими турами не сравниваем без точных данных.
+P En Ekaterimburgo hay una arena de pádel.|В Екатеринбурге есть падел-арена.|{Hay} вводит новый объект.
+P Ígor Altushkin es el fundador de la Compañía Rusa del Cobre.|Игорь Алтушкин — основатель Русской медной компании.|В испанской фразе название компании переводится.
+P La arena está en el antiguo complejo Uralets.|Арена находится в бывшем комплексе «Уралец».|{Antiguo} здесь значит «бывший».
+P El edificio fue renovado para el pádel.|Здание реконструировали для падела.|Готовая форма описания.
+P La arena principal tiene seis pistas.|В основной арене шесть кортов.|Разные площадки в одно здание не складываем.
+P También hay una liga internacional de pádel.|Ещё есть международная лига по паделу.|{También} значит «также».
+P Se llama erre ce ce Pádel.|Она называется RCC Padel.|Буквы произносим по-испански.
+P ¿Te gustaría venir a ver un torneo?|Хочешь приехать посмотреть турнир?|Приглашение без обещания конкретных дат.
+S Расскажи, что в Екатеринбурге есть падел-арена с шестью кортами и международная лига.|En Ekaterimburgo hay una arena de pádel. La arena principal tiene seis pistas. También hay una liga internacional.
+V ¡Qué pasada! Una arena de pádel en un antiguo complejo deportivo. Si organizáis un torneo, avísame, que me apunto.|Ты услышал: вот это круто, падел-арена в бывшем спортивном комплексе. Если будете устраивать турнир, дай знать, я запишусь.
+E Различай факт и впечатление. Можно сказать, что проект тебе нравится, без громких рекордов. До встречи на корте.

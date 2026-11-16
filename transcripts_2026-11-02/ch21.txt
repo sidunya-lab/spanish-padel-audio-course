@@ -1,0 +1,50 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасадора. ¶ Глава 21. Краснодар, Галецкий и 360 падал. ¶ Цель главы — коротко рассказать испаноязычному собеседнику о спортивных проектах Краснодара. ¶ Сначала послушай разговор. Пока просто слушай.
+   21 ES: ᴮ¿Qué me recomiendas ver en Crasnodar? | El parque y el estadio. || Son proyectos impulsados por Sergei Galitski. | ᴮ¿Y hay Padel?
+   30 RU: Это
+   30 ES: Hay un club llamado 360 Padel. | ᴮ¿Cuántas pistas tiene? | 13, 11 de dobles y 2 individuales.
+   38 RU: глава тренирует небольшой рассказ. ¶ Сергей Галецкий основал сеть Магнит и футбольный клуб Краснодар. ¶ Свою долю в Магните он продал в 2018 году. ¶ В рассказе выделаем клуб, академию, стадион и парк. ¶ Для падла берем клуб 360, 13 кортов, из них 11 парных и 2 одиночных. ¶ Я хочу рассказать тебя о спорте в Краснодаре.
+   66 ES: Quiero hablarte del deporte en Krasnodar. | Hablarte.
+   69 RU: Значит, рассказать тебе. Разберем с конца. Повторяй.
+   74 ES: En Krasnodar. || Del deporte en Krasnodar. || Quiero hablarte del deporte en Krasnodar. || Quiero hablarte del deporte en Krasnodar.
+   88 RU: Как сказать, Сергей Галицкий – российский предприниматель.
+   92 ES: Sergei Galitski es un empresario ruso.
+   95 RU: короткое представление человека по частям с конца
+  100 ES: Sergei. || Presario. || Empresario. || Empresario ruso. || Es un empresario ruso. || Sergei Galitski es un empresario ruso. || Sergei Galitski es un empresario ruso.
+  121 RU: он основал сеть магнит и футбольный клуб краснодар
+  124 ES: Fundó la cadena Magnit y el club de fútbol Krasnodar. | Fundó.
+  128 RU: основал это прошедшее время
+  131 ES: Club de fútbol Krasnodar. || y el club de fútbol Krasnodar. || Cadena Magnit y el club de fútbol Krasnodar. || Fundó la cadena Magnit y el club de fútbol Krasnodar. || Fundó la cadena Magnit y el club de fútbol Krasnodar.
+  152 RU: еще раз сергей галлицкий российский предприниматель [P1.9]  [P1.9]
+  158 ES: Sergei Galitski es un empresario ruso.
+  161 RU: нужно сказать он продал свою долю в магните в 2018 году.
+  166 ES: Vendió su participación en Magnit en 2018.
+  170 RU: Поэтому не называем его нынешним владельцем сети. Повторяй под 6.
+  176 ES: PASSE || TICIPACIÓN || PARTICIPACIÓN || EN 2018 || EN MAGNITEN 2018 || VENDIÓ SU PARTICIPACIÓN EN MAGNITEN 2018 || VENDIÓ SU PARTICIPACIÓN EN MAGNITEN 2018
+  199 RU: Он создал академию, стадион и парк.
+  203 ES: INPULSÓ UNA ACADEMIA Un estadio y un parque.
+  206 RU: Импульшо. Передает вклад в развитие проектов.
+  210 ES: Un parque. || Estadio y un parque. || Un estadio y un parque. || Impulsó una academia. Un estadio y un parque. || Impulsó una academia. Un estadio y un parque.
+  228 RU: Вспомни, он основал сеть магнит? и футбольный клуб Краснодар. [P1.9]  [P1.9]
+  234 ES: Fundó la cadena Magnit y el club de fútbol Krasnodar.
+  237 RU: А теперь в Краснодаре есть клуб 360-падл.
+  242 ES: En Crasnodar hay un club llamado 360 Padel. | ¿Hay?
+  246 RU: Вводит новый объект в рассказ. Ещё раз по кусочкам.
+  251 ES: Llamado 360 Padel. || Un club llamado 360 Padel. || Crasnodar hay un club llamado 360 Padel. || En Krasnodar hay un club llamado 360 Padel. || ∅
+  276 RU: В нём 13 кортов. 11 парных и 2 одиночных.
+  281 ES: Tiene 13 pistas, 11 de dobles y dos individuales.
+  285 RU: различаем общее число и виды.
+  288 ES: Cortov. | ᴮDuales. || Dividuales. || Individuales. || Dos individuales. || Dobles y dos individuales. || Tiene 13 pistas, 11 de dobles y 2 individuales. || Tiene 13 pistas, 11 de dobles y 2 individuales.
+  314 RU: Проверим. В Краснодаре есть клуб 360 подел. [P1.9]  [P1.9]
+  320 ES: En Crasnodar hay un club llamado 360 Padel.
+  323 RU: Скажем, мне хотелось бы тебе его показать.
+  327 ES: Me gustaría enseñártelo.
+  329 RU: Вежливая готовая конструкция без обязательств. Разберем с конца. Повторяй.
+  334 ES: Teló? || Señártelo. || ¡Enseñártelo! || ¡Gustaría enseñártelo! || ¡Me gustaría enseñártelo! || ¡Me gustaría enseñártelo!
+  351 RU: Еще раз. ¶ В Краснодаре есть клуб 360-паддл. ∅ [P1.9]  [P1.9]
+  358 ES: En Krasnodar hay un club llamado 360 Padel.
+  362 RU: В двух или трех предложениях представ галитского и назови число кортов в клубе 360. [P2.5]  [P2.5]
+  370 ES: Sergei Galitski es un empresario ruso. || Fundó el club de fútbol Krasnodar. || El club 360 Padel tiene trece pistas.
+  380 RU: Живая речь, так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  386 ES: ᴮ¿En serio? | ᴮNo tenía ni idea de que en Crasnodar hubiera tanto Padel. | ᴮMe encantaría ir algún día a ver el estadio y jugar allí.
+  394 RU: Ты услышал? Серьезно? Я и не знал, что в Краснодаре столько паделла. ¶ Очень хотел бы как-нибудь съездить, посмотреть стадион и поиграть там. ¶ Факты проверены в октябре 2026 года. Перед реальной поездкой проверих снова. До встречи на Корте!

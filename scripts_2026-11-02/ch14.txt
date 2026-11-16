@@ -1,0 +1,23 @@
+N Глава 14
+T Рассказ о себе, городах и интересах
+G Цель главы: поддержать разговор не только о корте.
+D B|¿Por qué estudias español?
+D A|Para comunicarme mejor y conocer gente nueva.
+D B|¿Te gusta viajar?
+D A|Sí. Paso tiempo en distintos países.
+D B|¿Y qué haces en tu tiempo libre?
+D A|Juego al pádel y escucho audiolibros.
+L Короткий рассказ складывается из трёх частей: откуда ты, чем занимаешься и что тебе нравится.
+L Союз {y} соединяет факты. {Pero}, то есть «но», вводит контраст. {Porque}, «потому что», объясняет причину.
+L Личное мнение удобно выражать через {prefiero}, «я предпочитаю», и {me parece}, «мне кажется».
+P Soy de Rusia y me gusta viajar.|Я из России, и мне нравится путешествовать.|Союз {y} соединяет две мысли.
+P Paso tiempo en distintos países.|Я провожу время в разных странах.|{Distintos países} — разные страны.
+P El pádel es una parte importante de mi vida.|Падел — важная часть моей жизни.|Длинную фразу разбивай на смысловые группы.
+P Me gusta conocer gente nueva.|Мне нравится знакомиться с новыми людьми.|{Conocer gente} — знакомиться с людьми.
+P Estoy aprendiendo español para comunicarme mejor.|Я учу испанский, чтобы лучше общаться.|{Para} плюс действие передаёт цель.
+P Prefiero las ciudades con buen clima.|Я предпочитаю города с хорошим климатом.|Это личное предпочтение, а не общая оценка.
+P Moscú y San Petersburgo me parecen interesantes.|Москва и Санкт-Петербург кажутся мне интересными.|{Me parecen} выражает твоё впечатление.
+P ¿Qué te gusta hacer fuera de la pista?|Что тебе нравится делать вне корта?|Открытый вопрос помогает продолжить разговор.
+S Скажи, откуда ты, назови одно увлечение и зачем учишь испанский. Потом задай вопрос собеседнику.|Soy de Rusia. Me gusta jugar al pádel. Estudio español para comunicarme mejor. ¿Qué te gusta hacer?
+V Pues yo soy de Valencia, pero vivo en Madrid por trabajo. Fuera de la pista me encanta cocinar y salir con los amigos.|Ты услышал: а я из Валенсии, но живу в Мадриде из-за работы. Вне корта обожаю готовить и гулять с друзьями.
+E Составь свою версию рассказа из трёх предложений и меняй детали под ситуацию. До встречи на корте.

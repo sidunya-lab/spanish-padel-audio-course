@@ -1,0 +1,66 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасадора, глава 11, отель, такси и дорога. ¶ Цель главы – заселиться, ¶ назвать пункт назначения и решить простую проблему. ¶ Сначала послушай разговор, пока просто слушай.
+   17 ES: Buenas tardes. || Tengo una reserva a nombre de Alex. | ᴮUn momento, por favor. | ᴮAquí tiene la llave. | Gracias. || ¿A qué hora es el desayuno? | ᴮA las ocho. | ¿Puede pedir un taxi para las cinco? | Sí, claro.
+   33 RU: Поездки многие фразы собираются из знакомого.
+   36 ES: Tengo una reserva. Necesito. ¿Dónde está?
+   40 RU: После. Место отвечает на вопрос «гуда?», ¶ после
+   44 ES: Voy
+   44 RU: «на вопрос где ?»
+   46 ES: al hotel.
+   47 RU: Еду в отель,
+   48 ES: Estoy en el hotel.
+   50 RU: я в отеле, ¶ с водителем и администратором вежливо говорить «на вы».
+   56 ES: ¿Puede?
+   56 RU: Вместо.
+   57 ES: Puedes.
+   58 RU: У меня бронь на имя Алекс.
+   60 ES: Tengo una reserva a nombre de Alex.
+   63 RU: В реальной ситуации назови имя из брони. Разберём с конца. Повторяй.
+   70 ES: De Alex. || A nombre de Alex. || Una reserva a nombre de Alex. || Tengo una reserva a nombre de Alex. || ∅
+   86 RU: Как сказать? Во сколько завтрак?
+   89 ES: ¿A qué hora es el desayuno? | ∅
+   92 RU: Спрашивает о времени события. По частям. С конца.
+   96 ES: ∅ || ∅ || ∅ || ∅ || ∅ || ∅ || ¿A qué hora es el desayuno?
+  114 RU: Ключ не работает.
+  116 ES: La llave no funciona.
+  117 RU: Частицо.
+  119 ES: ¿No?
+  119 RU: Ставим перед глаголом.
+  121 ES: No funciona. || La llave no funciona. || La llave no funciona. || La llave no funciona.
+  133 RU: Ещё раз. ¶ Во сколько завтрак? [P1.9]  [P1.9]
+  138 ES: ¿A qué hora es el desayuno?
+  140 RU: Нужно сказать, вы можете мне помочь, пожалуйста?
+  143 ES: ¿Puede ayudarme? Por favor.
+  145 RU: Вежливое обращение на вы к одному человеку. Повторяй под частям.
+  151 ES: Por favor. || Por favor. || ¿Puede ayudarme? ¿Por favor? || ¿Puede ayudarme? ¿Por favor?
+  161 RU: Впадал клуб, пожалуйста.
+  163 ES: ¿Al club de Padel? ¿Por favor?
+  166 RU: Короткая фраза для водителя.
+  168 ES: ¿Por favor? || ∅ || ¿Al club de Padel? ¿Por favor? || ∅ ∅
+  178 RU: Вспомни. Вы можете мне помочь, пожалуйста? [P1.9]  [P1.9]
+  183 ES: ¿Puede ayudarme? ¿Por favor?
+  185 RU: А теперь сколько времени займёт дорога?
+  188 ES: ¿Cuánto se tarda?
+  189 RU: Спрашиваем о времени, а не о цене. Ещё раз по кусочкам.
+  195 ES: Tarda || Se tarda. || ¿Cuánto se tarda? || ¿Cuánto se tarda?
+  203 RU: Можете остановиться здесь.
+  205 ES: ¿Puede parar aquí?
+  207 RU: Просьба к водителю.
+  209 ES: ¿Aquí? || ¿Parar aquí? || ¿Puede parar aquí? || ¿Puede parar aquí? || ᴮProverim.
+  218 RU: Впадал клуб.
+  219 ES: Pajalosta. || Al club de Padel, por favor.
+  224 RU: Скажем. Мне нужно приехать до шести,
+  228 ES: Necesito llegar antes de las seis. | antes de
+  231 RU: значит до
+  233 ES: ∅
+  234 RU: определенного времени. Разберем с конца, повторяй.
+  238 ES: rangecito || cesito || necesito || las seis || antes de las seis necesito || llegar antes de las seis necesito || llegar antes de las seis
+  258 RU: Еще раз, ¶ сколько времени займет дорога. [P1.9]  [P1.9]
+  263 ES: ¿cuánto se tarda?
+  265 RU: Сообщи оброне, скажи, что ключ не работает и попроси помочь. [P2.6]  [P2.6]
+  271 ES: Tengo una reserva a nombre de Alex. || La llave no funciona. || Puede ayudarme, por favor?
+  278 RU: Скажи таксисту, что нужно в падл-клуб и спроси, сколько ехать. [P2.5]  [P2.5]
+  285 ES: Al club de Padel, por favor. || ¿Cuánto se tarda?
+  289 RU: Живая речь, так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  295 ES: ᴮAl club de Padel, vale. | ᴮCon este tráfico se tarda unos 20 minutos, pero llegamos antes de las 6 tranquilo.
+  302 RU: Ты услышал в падл-клуб хорошо, с такими пробками ехать минут 20, но до шести успеем, не волнуйся. ¶ Не путай, сколько стоит. И сколько ехать? ¶ Адрес держи под рукой, чтобы показать водителю. До встречи на корте!

@@ -1,0 +1,23 @@
+N Глава 19
+T Поездка в академию M3
+G Цель главы: обсудить программу, тренера, уровень и условия обучения.
+D A|Hola, quiero entrenar en M tres.
+D B|¿Qué nivel tienes?
+D A|Intermedio. ¿Podemos hacer una evaluación inicial?
+D B|Sí. ¿Qué quieres mejorar?
+D A|La toma de decisiones y el juego de pared.
+D B|Muy bien. Vamos a preparar un plan.
+L Академию M3 основали Хорхе Мартинес, Давид Моралес и Мигель Матиа, но занятие с конкретным известным тренером не гарантировано.
+L Перед оплатой спрашивай, кто будет вести занятия, сколько человек в группе и что входит в программу.
+L Цифра «три» по-испански {tres}. Поэтому название клуба произносится {eme tres}.
+P Quiero entrenar en M tres.|Я хочу тренироваться в M3.|Название произносим по-испански.
+P ¿Tenéis un programa para mi nivel?|У вас есть программа для моего уровня?|Не каждая программа подходит всем.
+P ¿Quién va a ser mi entrenador?|Кто будет моим тренером?|Уточняем, кто конкретно будет вести.
+P ¿Cuántas personas hay en el grupo?|Сколько человек в группе?|Вопрос о формате занятия.
+P ¿Qué incluye el programa?|Что входит в программу?|Уточняем содержание, а не только название.
+P ¿Podemos hacer una evaluación inicial?|Можем провести начальную оценку уровня?|Так занятия подберут под реальную подготовку.
+P Quiero mejorar la toma de decisiones.|Я хочу научиться лучше принимать решения.|Цель не только в силе удара.
+P ¿Puedes darme un plan para seguir entrenando?|Можешь дать мне план дальнейших тренировок?|Просим продолжение работы после поездки.
+S Спроси о программе для твоего уровня, о тренере и о том, сколько человек в группе.|¿Tenéis un programa para mi nivel? ¿Quién va a ser mi entrenador? ¿Cuántas personas hay en el grupo?
+V El programa incluye dos horas de pista al día, análisis de vídeo y un entrenamiento físico. Los grupos son de cuatro personas como máximo.|Ты услышал: программа включает два часа на корте в день, видеоразбор и физическую тренировку. В группах максимум четыре человека.
+E Отделяй репутацию академии от содержания своей программы. Детали подтверждай до бронирования. До встречи на корте.

@@ -1,0 +1,24 @@
+N Глава 16
+T Удары, стекло и позиция
+G Цель главы: узнавать названия ударов и говорить, что именно хочешь отработать.
+D B|¿Qué quieres trabajar hoy?
+D A|Quiero mejorar mi revés y practicar la volea.
+D B|¿Y la pared?
+D A|Me cuesta jugar después de la pared.
+D B|Empezamos despacio.
+D A|Perfecto. ¿Puedes mostrarme el movimiento?
+L Основные слова: {derecha} — удар справа, {revés} — удар слева, {volea} — удар с лёта, {globo} — свеча, {remate} — завершающий удар сверху.
+L Названия {bandeja y víbora} оставляем как есть, у них нет точного русского аналога. {Pared} на корте — это стена, в том числе стеклянная. {Red} — сетка.
+L Схема {quiero mejorar} позволяет подставить любой удар.
+P Quiero mejorar mi derecha.|Я хочу улучшить удар справа.|Здесь {derecha} означает удар.
+P Quiero trabajar el revés.|Я хочу поработать над ударом слева.|{Trabajar} здесь значит «отрабатывать».
+P Necesito practicar la volea.|Мне нужно потренировать удар с лёта.|{Volea} — удар до отскока от пола.
+P Voy a jugar un globo.|Я сыграю свечу.|{Globo} — высокий мяч через соперников.
+P ¿Puedes enseñarme la bandeja?|Можешь показать мне бандеху?|Просим показать, а не угадываем технику по названию.
+P ¿Cuándo usas la víbora?|Когда ты используешь вибору?|Вопрос о выборе удара.
+P Me cuesta jugar después de la pared.|Мне трудно играть после отскока от стены.|{Me cuesta} значит «мне трудно».
+P ¿Subimos a la red?|Выходим к сетке?|Согласуем действие с партнёром.
+S Попроси поработать над ударом слева и показать бандеху.|Quiero trabajar el revés. ¿Puedes enseñarme la bandeja?
+S Скажи, что тебе трудно играть после стены и нужно потренировать удар с лёта.|Me cuesta jugar después de la pared. Necesito practicar la volea.
+V Cuando el globo es bueno, no intentes rematar. Juega una bandeja tranquila al cristal y vuelve a la red.|Ты услышал: когда свеча хорошая, не пытайся бить смэш. Сыграй спокойную бандеху в стекло и возвращайся к сетке.
+E Учи слово вместе с действием: хочу улучшить, мне трудно, покажи. До встречи на корте.

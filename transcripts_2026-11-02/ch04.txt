@@ -1,0 +1,76 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасадора. ¶ Глава 0,4. Повседневные действия глаголы на R. ¶ Цель главы. ¶ Рассказать, что ты делаешь и задать тот же вопрос собеседнику. ¶ Сначала послушай разговор. Пока просто слушай.
+   19 ES: ¿Entrenas todos los días? | ᴮNo, entreno tres días a la semana. | ¿Trabajas por la mañana? | ᴮSí. | ᴮEntreno por la tarde. | ¿Entrenamos juntos mañana? | ᴮSí, perfecto.
+   31 RU: Возьмём глагол.
+   33 ES: Hablar.
+   33 RU: говорить. Убираем окончание и добавляем новое.
+   37 ES: Hablo.
+   37 RU: Я говорю.
+   38 ES: Hablas.
+   39 RU: Ты говоришь.
+   40 ES: Al.
+   40 RU: Он говорит.
+   41 ES: Hablamos.
+   42 RU: Мы говорим. ¶ Так меняются многие, но не все глаголы на,
+   46 ES: Al.
+   46 RU: например,
+   47 ES: jugar
+   48 RU: играть меняются ¶ иначе. ¶ Я говорю по-испански
+   54 ES: hablo español
+   56 RU: Из
+   56 ES: hablar
+   57 RU: Получается
+   58 ES: hablo
+   59 RU: Разберём с конца Повторяй
+   62 ES: español || hablo español || hablo español
+   68 RU: Как сказать, ты говоришь по-английски
+   71 ES: hablas inglés
+   72 RU: Окончение
+   74 ES: haz
+   74 RU: Показывает обращение на ты По частям С конца
+   79 ES: inglés || hablas inglés || hablas inglés
+   85 RU: Я кренируюсь утро
+   87 ES: entreno por la mañana | por la mañana
+   90 RU: значит
+   91 ES: utrom. | La mañana por || la mañana. || Entreno por la mañana. || Entreno por la mañana.
+  102 RU: еще раз ты говоришь по-английски [P1.9]  [P1.9]
+  107 ES: Hablas inglés.
+  108 RU: нужно сказать ты ¶ тренируешься каждый день
+  112 ES: Entrenas todos los días. | Todos los días.
+  115 RU: значит каждый день повторяй под частям
+  119 ES: Los días. || Todos los días. || Entrenas todos los días. || ¿Entrenas todos los días?
+  131 RU: я работаю во второй половине дня
+  133 ES: Trabajo por la tarde. | Por la tarde.
+  136 RU: это вторая половина дня и ранний вечер
+  139 ES: La tarde. || Por la tarde. || Trabajo por la tarde. || Trabajo por la tarde.
+  149 RU: вспомни я тренируюсь утром. [P1.9]  [P1.9]
+  154 ES: Entreno por la mañana.
+  156 RU: А теперь я отдыхаю по воскресеньям.
+  159 ES: Descanso los domingos. | Los domingos.
+  162 RU: По воскресеньям, то есть регулярно. Еще раз по кусочкам.
+  168 ES: Domingos. || los domingos || descanso los domingos || descanso los domingos
+  180 RU: Мы тренируемся вместе.
+  182 ES: entrenamos juntos
+  184 RU: Окончание
+  185 ES: amos
+  185 RU: обозначает мы.
+  188 ES: namos || trenamos || entrenamos || juntos || entrenamos juntos || entrenamos juntos
+  203 RU: Проверим? Я работаю во второй половине дня. [P1.8]  [P1.8]
+  208 ES: Trabajo por la tarde.
+  210 RU: Скажем, ¶ тренер объясняет упражнение.
+  214 ES: El entrenador explica el ejercicio.
+  216 RU: Для он и Леона окончание. Поэтому
+  220 ES: Explica.
+  221 RU: разберём с конца. Повторяй.
+  224 ES: Nador. || Trenador. || Entrenador. || El ejercicio. || Entrenador explica el ejercicio. || El entrenador explica el ejercicio. || El entrenador explica el ejercicio.
+  245 RU: Ещё раз мы тренируемся вместе. [P1.8]  [P1.8]
+  249 ES: Entrenamos juntos.
+  251 RU: Скажи, что говоришь по-испански и тренируешься утром. [P1.7] Спроси партнера, тренируется ли он каждый день? [P2.5]  [P2.5]
+  262 ES: Hablo español. || Entreno por la mañana. || ¿Entrenas todos los días?
+  268 RU: Предложи потренироваться вместе завтра. [P2.6]  [P2.6]
+  273 ES: ¿Entrenamos juntos mañana?
+  275 RU: Живая речь, так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  281 ES: ᴮYo trabajo por la mañana y entreno por la tarde, casi todos los días. | ᴮLos domingos, descanso, claro.
+  288 RU: Ты услышал, я работаю утром. Отренируюсь во второй половине дня, почти каждый день. По воскресеньям, конечно, отдыхаю. ¶ Держи в памяти четыре формы.
+  299 ES: Hablo, | hablas. | Habla. Hablamos.
+  302 RU: До встречи на корь.

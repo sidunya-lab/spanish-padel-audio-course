@@ -1,0 +1,62 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасадора. ¶ Глава 06 — хай, артикли и ориентирование. ¶ Цель главы — спрашивать, что есть по близости и находить конкретное место. ¶ Сначала послушай разговор, пока просто слушай.
+   18 ES: Perdona, ¿hay una cafetería aquí? | ᴮSí, hay una al lado del gimnasio. | ¿Y dónde están los vestuarios? | ᴮEstán a la izquierda. | ᴮ¿Hay una pista libre? | ᴮSí, la pista 2 está libre.
+   30 RU: Сравни два вопроса. Есть ли здесь кафе? ¶ где находится кафе. ¶ В первом мы выясняем наличие и используем
+   39 ES: ¿Hay?
+   39 RU: во втором говорим о конкретном кафе и используем ∅ ¶ слово.
+   45 ES: ¿Hay?
+   46 RU: Не меняется, даже если предметов несколько. ¶ Существительное учи сразу с артиклем.
+   52 ES: La pista, el club.
+   54 RU: Здесь есть кафель?
+   56 ES: ¿Hay una cafetería aquí?
+   58 RU: Спрашиваем о наличии. Поэтому.
+   60 ES: Hay.
+   61 RU: Разберём с конца. Повторяй.
+   64 ES: Teríe. || Cetería. || Cafetería. || Cafetería aquí. || Una cafetería aquí. || Hay una cafetería aquí. || Hay una cafetería aquí.
+   82 RU: Как сказать, есть два свободных корта.
+   85 ES: Hay dos pistas libres.
+   87 RU: Во множественном числе?
+   88 ES: Hay.
+   89 RU: Остается тем же. По частям. С конца.
+   93 ES: Pistas libres. || Dos pistas libres. || Hay dos pistas libres. || Hay dos pistas libres.
+  105 RU: Где находится кафе?
+  107 ES: ¿Dónde está la cafetería?
+  109 RU: Теперь спрашиваем о конкретном месте.
+  112 ES: Teríe. || Cetería. || Cafetería. || La cafetería. || ¿Está la cafetería? || ¿Dónde está la cafetería? || ¿Dónde está la cafetería?
+  129 RU: Ещё раз. Здесь есть кафе. [P1.9]  [P1.9]
+  134 ES: ¿Hay una cafetería aquí?
+  136 RU: Нужно сказать, стойка регистрации справа.
+  139 ES: La recepción está a la derecha. | A la derecha.
+  142 RU: Значит справа. Повторяй под частям.
+  146 ES: La derecha. || Está a la derecha. || La recepción está a la derecha. || La recepción está a la derecha.
+  158 RU: Раздевалки слева.
+  160 ES: Los vestuarios están a la izquierda.
+  162 RU: Во множественном числе говори.
+  164 ES: Están. | La izquierda. || Están a la izquierda. || Los vestuarios están a la izquierda. || Los vestuarios están a la izquierda.
+  177 RU: Спомни. ¶ стойка регистрации справа, [P1.9]  [P1.9]
+  182 ES: La recepción está a la derecha.
+  184 RU: а теперь ¶ отель рядом с клубом.
+  188 ES: El hotel está cerca del club. | Cerca de.
+  190 RU: Значит, близко к еще раз по кусочкам.
+  195 ES: Del club. || Está cerca del club. || El hotel está cerca del club. || ∅
+  206 RU: Нет места.
+  208 ES: No hay sitio.
+  209 RU: Короткая фраза о том, что свободного места нет.
+  214 ES: ¿Sitio? || Hay sitio. || No hay sitio. || No hay sitio.
+  223 RU: Проверим. Раздевалки слева. [P1.9]  [P1.9]
+  227 ES: Los vestuarios están a la izquierda.
+  229 RU: Скажем, корт рядом с тренажёрным залом.
+  233 ES: La pista está al lado del gimnasio. | Al lado de...
+  236 RU: Значит, рядом с. Разберём с конца, повторяй.
+  241 ES: Del gimnasio. || Al lado del gimnasio. || Pista está al lado del gimnasio. || La pista está al lado del gimnasio. || La pista está al lado del gimnasio.
+  259 RU: Ещё раз. ¶ Нет, места. [P1.9]  [P1.9]
+  264 ES: No hay sitio.
+  265 RU: Спроси, есть ли свободный корт, и где находится стойка регистрации? [P2.5]  [P2.5]
+  272 ES: ᴮ¿Hay una pista libre? || ¿Dónde está la recepción?
+  276 RU: Скажи, что раздевалки слева... А кафе рядом с залом? [P2.6]  [P2.6]
+  282 ES: Los vestuarios están a la izquierda y la cafetería está al lado del gimnasio.
+  287 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  293 ES: ᴮSi hay dos pistas libres, pero primero pasa por recepción, que está ahí a la derecha, al lado de la cafetería.
+  299 RU: Ты услышал? Да, есть два сварбодных корта. Но сначала зайди на ресепшн. Он вон там справа, рядом с кафе. ¶ Запомни.
+  307 ES: ¿Hay?
+  308 RU: Что ты есть? ∅ конкретный преднед где-то находится. ¶ До встречи на Корте!

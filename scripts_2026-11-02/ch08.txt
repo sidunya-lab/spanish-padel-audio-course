@@ -1,0 +1,24 @@
+N Глава 08
+T Хочу, могу, нужно и нравится
+G Цель главы: собирать новые фразы из нескольких универсальных конструкций.
+D A|¿Qué quieres hacer hoy?
+D B|Quiero entrenar, pero necesito descansar un poco.
+D A|¿Prefieres jugar por la tarde?
+D B|Sí. Me gusta jugar contigo.
+D A|¿Podemos empezar a las seis?
+D B|Perfecto. A las ocho tengo que irme.
+L Сегодня четыре опоры: {quiero} — я хочу, {puedo} — я могу, {necesito} — мне нужно, {tengo que} — я должен.
+L После них ставим действие в начальной форме. {Quiero jugar} — хочу играть. Второй глагол не меняем.
+L Отдельно разберём {me gusta jugar} — мне нравится играть. Если нравится несколько предметов, говорим {me gustan}.
+P Quiero jugar.|Я хочу играть.|{Quiero} плюс действие в начальной форме.
+P ¿Puedo entrar?|Можно войти?|Глагол {puedo} помогает вежливо спросить разрешение.
+P Necesito descansar.|Мне нужно отдохнуть.|{Necesito} плюс действие.
+P Tengo que irme.|Мне нужно уйти.|Слово {que} обязательно связывает две части.
+P Me gusta jugar al pádel.|Мне нравится играть в падел.|{Gusta}, потому что нравится действие.
+P Me gustan los deportes.|Мне нравятся виды спорта.|{Gustan}, потому что предметов много.
+P Prefiero entrenar por la mañana.|Я предпочитаю тренироваться утром.|{Prefiero} — ещё одна удобная опора перед действием.
+P ¿Podemos empezar?|Можем начинать?|{Podemos} значит «мы можем».
+S Скажи, что хочешь играть, но сначала тебе нужно отдохнуть. Спроси, можно ли начать позже.|Quiero jugar, pero primero necesito descansar. ¿Podemos empezar más tarde?
+S Скажи, что тебе нравится играть в падел и ты предпочитаешь тренироваться утром.|Me gusta jugar al pádel. Prefiero entrenar por la mañana.
+V Me encanta jugar contigo, pero hoy no puedo quedarme mucho, a las ocho tengo que irme sí o sí.|Ты услышал: мне очень нравится играть с тобой, но сегодня я не могу долго, в восемь мне обязательно нужно уйти.
+E Меняй только действие после знакомой опоры, и из восьми фраз получится гораздо больше. До встречи на корте.

@@ -1,0 +1,24 @@
+N Глава 03
+T Вопросы, отрицание и спасательные фразы
+G Цель главы: переспросить, уточнить смысл и сказать, что ты не понял.
+D B|La clase empieza en la pista de al lado.
+D A|Perdona, no entiendo. ¿Puedes repetir?
+D B|En la otra pista.
+D A|¿Dónde está?
+D B|Está a la derecha.
+D A|Ahora entiendo, gracias.
+L Отрицание делается просто: ставим {no} перед глаголом. {Entiendo} значит «понимаю», а {no entiendo} значит «не понимаю».
+L Для вопроса часто хватает интонации или вопросительного слова. {¿Dónde?} спрашивает о месте, {¿qué?} — о предмете или смысле, {¿cómo?} — о способе.
+L С партнёром по корту говорим на «ты», поэтому {puedes}. В более официальной ситуации услышишь {puede}.
+P No entiendo.|Я не понимаю.|Частица {no} всегда идёт прямо перед глаголом.
+P ¿Puedes repetir, por favor?|Можешь повторить, пожалуйста?|После {puedes} второй глагол остаётся в начальной форме.
+P ¿Qué significa esta palabra?|Что означает это слово?|{Esta palabra} значит «это слово».
+P ¿Cómo se dice esto en español?|Как это сказать по-испански?|Это готовая конструкция, чтобы пополнять словарь.
+P ¿Dónde está la salida?|Где выход?|Ищем, где находится конкретный выход.
+P No hablo muy bien español.|Я не очень хорошо говорю по-испански.|{Muy bien} значит «очень хорошо».
+P ¿Puedes hablar más despacio?|Можешь говорить помедленнее?|Просим изменить темп, а не просто повторить.
+P Ahora entiendo, gracias.|Теперь понимаю, спасибо.|{Ahora} значит «теперь» или «сейчас».
+S Ты не понял объяснение. Попроси повторить и говорить помедленнее.|No entiendo. ¿Puedes repetir, por favor? ¿Puedes hablar más despacio?
+S Спроси, что означает это слово и как это сказать по-испански.|¿Qué significa esta palabra? ¿Cómo se dice esto en español?
+V Vale, mira, la clase de hoy empieza en la pista de al lado, a la derecha, justo después de la cafetería.|Ты услышал: смотри, сегодняшнее занятие начинается на соседнем корте, справа, сразу после кафе.
+E Не жди конца сложного объяснения. Сразу используй короткую просьбу, а потом подтверди, что понял. До встречи на корте.

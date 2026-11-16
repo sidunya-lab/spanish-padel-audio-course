@@ -1,0 +1,58 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасодора, глава 20. Смотрим матч, счет и комментарии. ¶ Цель главы — ловить знакомые сигналы в быстрой речи комментатора. ¶ Сначала послушай разговор, пока просто слушай.
+   17 ES: ¿Cómo van? | ᴮ4 a 3 en el segundo set. | ¿Quién saca? | ᴮLa pareja de la derecha. | ¡Qué buen globo! || ¡Han recuperado la red! | ᴮ¿Qué puntazo?
+   28 RU: Не пытайся переводить все подряд. Сначала лови счет. Название удара и оценку розыгрыша. ¶ Кинфи.
+   34 ES: 30 -40.
+   36 RU: 15, 30, 40.
+   38 ES: Iguales.
+   39 RU: Ровно.
+   40 ES: ¡Ventaja!
+   41 RU: Преимущество. ¶ Бывают разные системы счета с преимуществом золотое очко и старпоинт. Смотри регламент конкретного турнира. ¶ 15. 30 -40. Кинфе.
+   55 ES: 30 -40.
+   57 RU: Основные ступени счета в гейнях. Разберём с конца. Повторяй. Кинфе.
+   63 ES: 30 ᴮ-40.
+   66 RU: Кинфе.
+   67 ES: 30, 40,
+   70 RU: Как сказать, ровно преимущество упадающих.
+   73 ES: iguales, || ventaja al saque, | al saque,
+   77 RU: Указывает на подачу. По частям. С конца.
+   81 ES: C, || al saque, || ventaja al saque, || iguales, || ventaja al saque, || iguales, || ventaja al saque,
+   97 RU: Это... Золотое очко.
+  100 ES: es un punto de oro.
+  101 RU: Так говорят, когда играют по этой системе счета.
+  105 ES: De oro, || un punto de oro, || es un punto de oro, || es un punto de oro,
+  116 RU: Ещё раз ровно преимущество упадающих. [P1.9]  [P1.9]
+  121 ES: igual es. || Ventaja al saque,
+  125 RU: Нужно сказать, ¶ какая хорошая свеча.
+  128 ES: que buen globo, | que,
+  130 RU: Плюс оценка выражает эмоцию. Повторяй. по частям.
+  136 ES: globo, || buen globo, || que buen globo, || que buen globo.
+  144 RU: Они вернули себе сетку.
+  146 ES: han recuperado la red | ∅
+  149 RU: Они вернули.
+  150 ES: ∅ || ∅ || ∅ || ∅ || ∅ || ∅ || que
+  168 RU: Вспомни, ¶ какая хорошая свеча. [P1.8]  [P1.8]
+  173 ES: buen globo,
+  174 RU: А теперь ¶ он допустил невынужденную ошибку.
+  178 ES: ha cometido un error no forzado
+  181 RU: Готовый комментаторский оборот. Еще раз по кусочкам.
+  186 ES: Tido. || Metido. || Cometido. || No forzado. || Un error no forzado. || Ha cometido un error no forzado. || ∅
+  205 RU: У них брейкпоинт.
+  206 ES: Tienen una bola de break.
+  208 RU: Шанс выиграть гейм на подачи соперников.
+  212 ES: ∅ || ∅ || Tienen una bola de break. || ∅
+  222 RU: Проверим. ¶ Он допустил невынужденную ошибку. [P1.9]  [P1.9]
+  228 ES: Ha cometido un error no forzado.
+  230 RU: Скажем, какой розыгрыш?
+  233 ES: ᴮ¿Qué puntazo?
+  234 RU: Эмоциональная оценка яркого очка. Разберём с конца. Повторяй. Унтасо.
+  242 ES: ᴮ¿Qué puntazo? || ᴮ¿Qué puntazo?
+  246 RU: Ещё раз. У них Breakpoint. [P1.9]  [P1.9]
+  251 ES: Tienen una bola de break.
+  253 RU: Прокомментируй хорошую свечу и возвращение к сетке, потом похвали розыгрыш. [P2.5]  [P2.5]
+  260 ES: ¿Qué buen globo? || Han recuperado la red. || ᴮ¿Qué puntazo?
+  266 RU: Живая речь, так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  272 ES: ᴮAtención. | ᴮGlobo perfecto de galán, ᴮchingoto llega con lo justo, y la saca por tres. | ᴮQué locura de puntos señores.
+  280 RU: Комментатор. Внимание. ¶ Идеальная свеча Галана. Чин-год-то еле успевает и выносит мяч за пределы корта через боковую стену. Что за безумный розыгрыш, друзья?
+  293 ES: ᴮIguales en el marcador. | ᴮPunto de oro y resto para la pareja de la derecha.
+  298 RU: Комментатор. На табло ровно. ¶ Золотое очко принимает пара справа. ¶ Сначала узнавать целые блоки. Останови трансляцию после розыглаша. И повторяю одну фразу вслух. До встречи на Корте!

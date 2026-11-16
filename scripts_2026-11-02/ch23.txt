@@ -1,0 +1,22 @@
+N Глава 23
+T После матча: общение и переписка
+G Цель главы: обменяться контактами, пригласить на встречу и перенести планы.
+D A|Gracias por el partido. Lo he pasado muy bien.
+D B|Yo también. ¿Tomamos algo después?
+D A|Hoy prefiero descansar. ¿Y mañana?
+D B|Perfecto. Te escribo por WhatsApp.
+D A|Vale. Mándame la ubicación.
+D B|Hasta mañana.
+L Разговор после игры часто даёт больше практики, чем сам матч. Поблагодари за игру, задай вопрос и предложи следующий шаг.
+L {Te escribo} — напишу тебе. {Mándame} — пришли мне. Если планы меняются, скажи, что не можешь, и предложи другое время.
+P Gracias por el partido.|Спасибо за игру.|Простое завершение матча.
+P Lo he pasado muy bien.|Я отлично провёл время.|Естественная оценка впечатлений.
+P ¿Tomamos algo después?|Выпьем что-нибудь после?|Не обязательно алкоголь.
+P ¿Me pasas tu número?|Дашь мне свой номер?|Разговорная просьба обменяться контактами.
+P Te escribo por WhatsApp.|Напишу тебе в WhatsApp.|Готовая фраза о следующем шаге.
+P Mándame la ubicación, por favor.|Пришли мне геолокацию, пожалуйста.|{Ubicación} здесь значит «местоположение».
+P Al final no puedo ir. ¿Lo dejamos para mañana?|В итоге я не смогу прийти. Перенесём на завтра?|Отказ сразу с конкретной альтернативой.
+P Gracias por invitarme, pero hoy prefiero descansar.|Спасибо за приглашение, но сегодня я лучше отдохну.|Вежливый отказ без придуманных объяснений.
+S Поблагодари за матч, попроси номер и попроси прислать геолокацию.|Gracias por el partido. ¿Me pasas tu número? Mándame la ubicación, por favor.
+V Oye, qué buen partido. Te agrego al grupo de WhatsApp del club y así te enteras de las próximas quedadas.|Ты услышал: слушай, отличный матч. Добавлю тебя в клубную группу WhatsApp, так ты будешь в курсе следующих встреч.
+E Уверенное согласие и спокойный вежливый отказ одинаково полезны. До встречи на корте.

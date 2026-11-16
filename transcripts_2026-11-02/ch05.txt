@@ -1,0 +1,88 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасадора. Глава 05, Комэр, Вивир, Ир, Еда, Жизнь и Движение. ¶ Цель главы — рассказывать о простых привычках и запомнить несколько особых форм. ¶ Сначала послушай разговор, пока просто слушай.
+   19 ES: ᴮ¿Dónde vives? | ᴮVivo en Dubai. | ᴮAhora estoy en Madrid. | ¿A dónde vas? | ᴮVoy al club. | ᴮ¿Vienes conmigo?
+   28 RU: Си.
+   29 ES: ¿Comemos después? | ᴮPerfecto.
+   32 RU: Углаголов.
+   33 ES: No, herir.
+   34 RU: Форма Я тоже заканчивается на О.
+   37 ES: Comer.
+   37 RU: Есть, ¶ даёт.
+   39 ES: ¿Cómo? Vivir.
+   41 RU: Жить, даёт.
+   42 ES: Vivo.
+   43 RU: Отдельно запомним частый клыбол.
+   45 ES: Ir.
+   46 RU: Итти или ехать. ¶ Его форма Я звучит,
+   50 ES: voy,
+   51 RU: а форма мы звучит
+   53 ES: vamos,
+   54 RU: сочетание.
+   55 ES: ayer,
+   55 RU: Сливается в...
+   57 ES: al,
+   57 RU: Поэтому я иду в клуб, звучит...
+   60 ES: voy al club,
+   62 RU: Я живу в Дубай.
+   63 ES: vivo en Dubai,
+   65 RU: Если живёшь в другом месте, просто замени город. Разберём с конца, повторяй.
+   71 ES: Dubai, || en Dubai, || vivo en Dubai, || vivo en Dubai,
+   80 RU: Как сказать, где ты живёшь?
+   82 ES: ᴮdonde vives, | vives,
+   84 RU: Это форма ты от глагола.
+   87 ES: vivir,
+   88 RU: по частям. С конца.
+   90 ES: vives, || ᴮdonde vives? || ᴮ¿Dónde vives?
+   96 RU: Я ем после матча.
+   98 ES: Como después del partido. | Después del.
+  101 RU: Значит, после. ¶ Сочетание
+  104 ES: De y el.
+  105 RU: сливается в...
+  106 ES: De. | Del partido. || Después del partido. || Como después del partido. || Como después del partido.
+  119 RU: Еще раз. Где ты живешь? [P1.9]  [P1.9]
+  123 ES: ᴮ¿Dónde vives?
+  125 RU: Нужно сказать, я пью воду.
+  127 ES: Bebo agua.
+  129 RU: Глагол.
+  129 ES: Bebe. Pich.
+  131 RU: В форме я звучит...
+  132 ES: Bebo,
+  133 RU: Повторяй. по частям.
+  136 ES: agua, || bebo agua, || bebo agua,
+  141 RU: Поедим вместе?
+  143 ES: comemos juntos,
+  144 RU: Форма мы здесь работает как предложение.
+  148 ES: juntos, || comemos juntos, || comemos juntos como
+  155 RU: Вспомни, я ем после матча. [P1.9]  [P1.9]
+  160 ES: después del partido,
+  162 RU: А теперь я иду в клуб.
+  164 ES: voy al club, | voy,
+  166 RU: Особая форма глагола.
+  169 ES: ir,
+  169 RU: Еще раз по кусочкам.
+  172 ES: club, | al club. || voy al club, || vamos
+  179 RU: Мы идём домой.
+  181 ES: a casa, | vamos a
+  183 RU: Значит, мы идём или мы едем.
+  186 ES: casa, || ∅ || vamos a casa, || vamos a casa,
+  194 RU: Проверим. Я иду в клуб. [P1.9]  [P1.9]
+  199 ES: voy al club,
+  200 RU: Скажем, ты пойдёшь со мной?
+  203 ES: vienes conmigo, | vienes,
+  205 RU: Происходит от другого глаголы.
+  207 ES: venir,
+  208 RU: Пока учим, готовый вопрос. Разберём с конца. Повторяй.
+  213 ES: conmigo, || vienes conmigo. || ¿Vienes conmigo?
+  221 RU: Ещё раз. ¶ Мы идём домой. [P1.9]  [P1.9]
+  226 ES: Vamos a casa.
+  227 RU: Скажи, что идёшь в клуб и предложи поесть вместе после матча. [P2.5]  [P2.5]
+  235 ES: Voy al club. || ¿Comemos juntos después del partido?
+  239 RU: Спроси, где живёт собеседник и скажи, где живёшь ты. [P2.5]  [P2.5]
+  245 ES: ᴮ¿Dónde vives? || Yo vivo en Dubai.
+  248 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  254 ES: ᴮMira, ᴮyo vivo cerca del club. | ᴮDespués del partido vamos a comer algo, ᴮ¿vienes con nosotros?
+  261 RU: Ты услышал, смотри, я живу рядом с клубом. После матча мы идём что-нибудь поесть, пойдёшь с нами? ¶ Не путай, где ты живёшь и где ты сейчас.
+  272 ES: Vivo.
+  272 RU: Место жительства.
+  274 ES: Estoy.
+  275 RU: Где ты находишься? До встречи на порте!

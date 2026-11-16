@@ -1,0 +1,72 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбассадора, глава 0.7, ТНР, состояние и описание. ¶ Цель главы — сказать, что у тебя есть, описать самочувствие и экипировку. ¶ Сначала послушай разговор, пока просто слушай.
+   17 ES: ¿Tienes una pala? | ᴮSí, tengo una pala nueva. | ᴮEs ligera. | ᴮ¿Estás listo para jugar? | ᴮTengo sed. | ᴮNecesito agua. | ¿Te duele algo? | ᴮSí, me duele el hombro. | ᴮPrefiero descansar. | Tened.
+   33 RU: Значит, иметь. ¶ Формы на сегодня.
+   36 ES: Tengo.
+   36 RU: у меня есть у
+   38 ES: Tienes.
+   38 RU: тебя есть
+   39 ES: Tiene Un nivel listo
+   41 RU: некоторые состояния испанский выражает иначе чем русский я голоден буквально звучит как у меня есть голод
+   50 ES: Tengo hambre
+   52 RU: прилагательное согласуется существительным
+   56 ES: La pala es ligera
+   57 RU: но слово
+   58 ES: Grande
+   59 RU: одинаково для мужского и женского рода. ¶ У меня есть бронь.
+   63 ES: Tengo una reserva | Tengo
+   65 RU: Значит,
+   66 ES: Umiñagist
+   67 RU: разберём с конца. Повторяй.
+   70 ES: Reserva || Una reserva || Tengo una reserva || Tengo una reserva
+   81 RU: Как сказать, у тебя есть ракетка.
+   83 ES: ¿Tienes una pala? | Pala
+   85 RU: Так в Испании называют ракетку для падала. По частям. С конца.
+   91 ES: una | pala || ¿Tienes una pala? || ¿Tienes una pala?
+   98 RU: Я голодём.
+  100 ES: Tengo hambre
+  101 RU: Голод. Выражаем через глагол
+  103 ES: Tener | hambre || Tengo hambre || Tengo una
+  109 RU: Ещё раз У меня есть бронь [P1.9]  [P1.9]
+  114 ES: reserva
+  115 RU: Нужно сказать Я хочу пить
+  118 ES: Tengo sec
+  119 RU: Буквально У меня есть жажда Повторяй По частям Я
+  124 ES: ∅ || Tengo sec || Tengo sec
+  129 RU: много устал
+  130 ES: Estoy un poco cansado.
+  132 RU: Здесь
+  133 ES: Estoy. ¿Ah? | ∅ Tengo. | Poco cansado. || Un poco cansado. || Estoy un poco cansado. || Estoy un poco cansado.
+  148 RU: Спомни Я голоден [P1.9]  [P1.9]
+  152 ES: Tengo hambre.
+  153 RU: А теперь? Ракетка лёгкая.
+  155 ES: La pala es ligera. | ¿Ligera?
+  158 RU: Согласуется СОСУНОН.
+  160 ES: Es
+  160 RU: Ещё раз по кусочкам.
+  163 ES: ligera. || Pala es ligera. || La pala es ligera. || La pala es ligera.
+  174 RU: Корт большой.
+  175 ES: La pista es grande.
+  177 RU: Услова.
+  178 ES: Grande.
+  179 RU: Нет отдельной женской формы.
+  181 ES: Es grande. || Pista es grande. || La pista es grande. || La pista es grande.
+  192 RU: Проверим. Ракетка лёгкая. [P1.9]  [P1.9]
+  197 ES: La pala es ligera.
+  199 RU: Скажем, у меня болит плечо.
+  201 ES: Me duele el hombro.
+  203 RU: Полезный готовый образец. Через боль упражнения не продолжай. Разберём с конца. Повторяй.
+  210 ES: El hombro, || duele el hombro. || Me duele el hombro. || Me duele el hombro.
+  220 RU: Ещё раз. ¶ Корт большой. [P1.8]  [P1.8]
+  224 ES: La pista es grande.
+  226 RU: Скажи, что у тебя есть бронь, но сейчас ты хочешь пить и тебе нужна вода. [P2.5]  [P2.5]
+  233 ES: Tengo una reserva, pero ahora tengo sed. || Necesito agua.
+  238 RU: Спроси партнёра, есть ли у него ракетка? И скажи, что твоя лёгкая. [P2.6]  [P2.6]
+  245 ES: ¿Tienes una pala? || Mi pala es ligera.
+  248 RU: Живая речь, так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  254 ES: ᴮUf, estoy muerto. | ᴮTengo un hambre que no vea si además me duele un poco el hombro.
+  260 RU: Ты услышал? Уф, я просто никакой. Я страшно голоден и к тому же немного болит плечо. ¶ Усталость,
+  268 ES: Estoy cansado.
+  269 RU: голод и жажда.
+  270 ES: Tengo hambre. Tengo sé.
+  272 RU: До встречи на корь.

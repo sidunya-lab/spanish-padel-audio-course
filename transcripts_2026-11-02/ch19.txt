@@ -1,0 +1,52 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создана для падл амбассадора. ¶ Глава 19. ¶ Поездка в Академию М3. ¶ Цель главы — обсудить программу, тренера, уровень и условия обучения. ¶ Сначала послуша разговор. Пока просто слушай.
+   19 ES: Hola, quiero entrenar en M3. | ᴮ¿Qué nivel tienes? | Intermedio. || ¿Podemos hacer una evaluación inicial? | ᴮSí. | ᴮ¿Qué quieres mejorar? | La toma de decisiones y el juego de pared. | ᴮMuy bien. | ᴮVamos a preparar un plan.
+   36 RU: Академию М3. Основали Хорхи Мартинес, Давид Моралес и Мигель Матия, ¶ но занятия с конкретным известным тренером не гарантировано. ¶ Передоплатой спрашивай, кто будет вести занятия, сколько человек в группе и что входит в программу. ¶ Цифра 3 по испанский трес.
+   57 ES: Tres.
+   57 RU: Поэтому название «клуба» произносится
+   61 ES: ᴮ¡Suscríbete! M3,
+   63 RU: «Я хочу тренироваться в М3».
+   65 ES: quiero entrenar en M3,
+   67 RU: Название произносим по-испански. Разберём с конца. Повторяй.
+   72 ES: M3, || entrenar en M3, || quiero entrenar en M3, || quiero entrenar en M3,
+   85 RU: Как сказать, у вас есть программа для моего уровня?
+   89 ES: tenéis un programa para mi nivel,
+   91 RU: Не каждая программа подходит всем. Почистям. с конца.
+   96 ES: mi nivel, || programa para mi nivel. || Tenéis un programa para mi nivel. || ∅
+  108 RU: Кто будет моим тренером?
+  110 ES: ¿Quién va a ser mi entrenador?
+  112 RU: Уточняем, кто конкретно будет вести.
+  115 ES: ∅ || ∅ || ∅ || ∅ || ∅ || ∅ || ∅
+  133 RU: Еще раз, у вас есть программа для моего уровня. [P1.8]  [P1.8]
+  139 ES: ¿Tenéis un programa para mi nivel?
+  141 RU: Нужно сказать, сколько человек в группе?
+  144 ES: ¿Cuántas personas hay en el grupo?
+  147 RU: Вопрос о формате занятия. Повторяй под частям.
+  151 ES: El grupo || Hay en el grupo || ¿Cuántas personas hay en el grupo? || ¿Cuántas personas hay en el grupo?
+  163 RU: Что входит в программу?
+  165 ES: ¿Qué incluye el programa?
+  167 RU: Уточняем содержание, а не только название.
+  170 ES: El programa || Incluye el programa || ¿Qué incluye el programa? || ¿Qué incluye el programa?
+  182 RU: Вспомни, сколько человек в группе. [P1.8]  [P1.8]
+  186 ES: ¿Cuántas personas hay en el grupo?
+  188 RU: А теперь можем провести начальную оценку уровня.
+  193 ES: ¿Podemos hacer una evaluación inicial?
+  196 RU: Так занятия подберут под реальную подготовку. Ещё раз по кусочкам.
+  201 ES: Lo Hacien || Valuación || Evaluación || Evaluación inicial || Hacer una evaluación inicial || ¿Podemos hacer una evaluación inicial? || ∅
+  223 RU: Я хочу научиться лучше принимать решение.
+  226 ES: Quiero mejorar la toma de decisiones.
+  229 RU: Цель не только в силе удара.
+  231 ES: Siones. || Cisiones. || Decisiones. || De decisiones. || La toma de decisiones. || Quiero mejorar la toma de || decisiones.
+  253 RU: Проверим, что входит в программу. [P1.9]  [P1.9]
+  257 ES: ¿Qué incluye el programa?
+  259 RU: Скажем, можешь дать мне план дальнейших тренировок?
+  263 ES: ¿Puedes darme un plan para seguir entrenando?
+  266 RU: Просим продолжение работы после поездки. Разберём с конца. Повторяй.
+  272 ES: Nando. || Trenando. || Entrenando. || Seguir entrenando. || Plan para seguir entrenando. || ¿Puedes darme un plan para seguir entrenando? || ¿Puedes darme un plan para seguir entrenando?
+  292 RU: Ещё раз. ¶ Можем провести начальную оценку уровня. [P1.9]  [P1.9]
+  298 ES: ¿Podemos hacer una evaluación inicial?
+  301 RU: Спроси о программе и для твоего уровня, о тренере и о том, сколько человек в группе. [P2.6]  [P2.6]
+  309 ES: ¿Tenéis un programa para mi nivel? || ¿Quién va a ser mi entrenador? || ¿Cuántas personas hay en el grupo?
+  316 RU: Живая речь, так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  322 ES: ᴮEl programa incluye dos horas de pista al día, análisis de vídeo y un entrenamiento físico. | ᴮLos grupos son de cuatro personas como máximo.
+  330 RU: Ты услышал. Программа включает два часа на корте в день, видеоразбор и физическую тренировку. В группах максимум четыре человека. ¶ Отделяя репутацию академии, отсодержание своей программы. Детали подтверждает добронирование. До встречи на корте!

@@ -1,0 +1,24 @@
+N Глава 10
+T Числа, цены и покупки
+G Цель главы: узнать цену, выбрать размер и оплатить покупку.
+D A|¿Cuánto cuesta esta pala?
+D B|Noventa euros.
+D A|¿Noventa?
+D B|Sí, noventa.
+D A|Perfecto. ¿Puedo pagar con tarjeta?
+D B|Sí, claro.
+L Сначала числа от одного до десяти: {uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez}.
+L Для счёта в игре понадобятся пятнадцать, тридцать и сорок: {quince, treinta, cuarenta}.
+L В магазине спрашиваем {¿cuánto cuesta?}, если предмет один, и {¿cuánto cuestan?}, если их несколько. Число лучше переспросить, чем услышать неправильно.
+P ¿Cuánto cuesta esta pala?|Сколько стоит эта ракетка?|Предмет один, поэтому {cuesta}.
+P Cuesta noventa euros.|Она стоит девяносто евро.|Это учебная цена, а не реальное предложение.
+P ¿Tenéis otra talla?|У вас есть другой размер?|{Tenéis} — так в Испании неформально обращаются к нескольким людям.
+P Necesito una talla más grande.|Мне нужен размер побольше.|{Más grande} значит «больше».
+P ¿Puedo probármelo?|Можно это примерить?|Готовая фраза, например, про футболку или куртку.
+P ¿Puedo pagar con tarjeta?|Можно заплатить картой?|{Con tarjeta} значит «картой».
+P ¿Son quince o cincuenta?|Это пятнадцать или пятьдесят?|Уточняем числа, похожие на слух.
+P ¿Me das el recibo, por favor?|Дашь мне чек, пожалуйста?|Просим подтверждение оплаты.
+S Узнай цену ракетки, уточни число и спроси про оплату картой.|¿Cuánto cuesta esta pala? ¿Noventa euros? ¿Puedo pagar con tarjeta?
+S Попроси размер побольше и спроси, можно ли примерить.|Necesito una talla más grande. ¿Puedo probármelo?
+V Esta pala está en oferta, antes costaba ciento veinte y ahora la tienes por noventa y cinco euros.|Ты услышал: эта ракетка по акции. Раньше стоила сто двадцать, а сейчас её можно взять за девяносто пять евро.
+E Повторяй услышанную цену вслух как вопрос. Ошибку в числе лучше заметить до оплаты. До встречи на корте.

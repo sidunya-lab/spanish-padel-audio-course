@@ -1,0 +1,68 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасадора, глава 0.1, знакомства и первые предложения. ¶ Цель главы — представиться, сказать откуда ты и попросить говорить медленнее. ¶ Сначала послушай разговор, пока просто слушай.
+   17 ES: Hola, ¿qué tal? | ᴮMuy bien, gracias. | ᴮMe llamo Pablo. | ᴮ¿Cómo te llamas? | Me llamo Alex. || Soy de Rusia. | ᴮ¡Qué bien! | ᴮHablas español. | Hablo un poco de español. || Más despacio, por favor. | ᴮ¡Claro! | ᴮencantado de conocerte
+   38 RU: В русском можно сказать — я из России. без глагола. В испанском глагол нужен,
+   44 ES: soy
+   45 RU: а значит я являюсь. ¶ Слово,
+   48 ES: yo
+   49 RU: то есть я, часто опускают. Форма глагола уже показывает о ком речь. ¶ Буква аж в слове
+   56 ES: hola
+   56 RU: не читается. ¶ Привет, как дела?
+   59 ES: hola que tal
+   61 RU: Это короткое неформальное приветствие. Учим его целиком. Разберём с конца. Повторяй.
+   67 ES: tal que || tal || hola que tal || hola que tal
+   76 RU: Как сказать? Меня зовут Алекс.
+   79 ES: me llamo alex
+   80 RU: Алекс здесь учебное имя. В ответе подставляй своё. Почистям. С конца.
+   86 ES: alex || llamo alex || me llamo alex || Me llamo Alex.
+   96 RU: Как тебя зовут?
+   97 ES: ¿Cómo te llamas?
+   98 RU: Обрати внимание на окончание. ¶ В опросе.
+  102 ES: Te llamas.
+  103 RU: А в ответе.
+  104 ES: Me llamo. | ¿Llamas? || Te llamas. || ¿Cómo te llamas? || ¿Cómo te llamas?
+  114 RU: Ещё раз. Меня зовут Алекс. [P1.9]  [P1.9]
+  118 ES: Me llamo Alex.
+  119 RU: Нужно сказать, я из России.
+  122 ES: Soy de Rusia.
+  124 RU: Для происхождения используем
+  126 ES: Soy de
+  127 RU: и название страны. Повторяй под частям.
+  131 ES: Rusia. || De Rusia. || Soy de Rusia. || ∅
+  141 RU: Я немного говорю по-испански.
+  143 ES: Hablo un poco de español. | Un poco de...
+  146 RU: Значит, немного. Сочетание учим целиком.
+  149 ES: de español. || Un poco de español. || Hablo un poco de español. || Hablo un poco de español.
+  160 RU: Вспомни, я из России. [P1.9]  [P1.9]
+  165 ES: Soy de Rusia.
+  166 RU: А теперь я учу испанский.
+  169 ES: Estoy aprendiendo español.
+  171 RU: Пока запомни это как готовую фразу. Конструкцию разберём позже. Ещё раз по кусочкам.
+  178 ES: Diendo. || aprendiendo, || aprendiendo, || español, || aprendiendo español, || estoy aprendiendo español, || estoy aprendiendo español,
+  197 RU: Помедленнее, пожалуйста.
+  199 ES: más despacio, por favor,
+  201 RU: Это вежливая фраза? ¶ Сразу помогает управлять темпом разговора.
+  207 ES: favor, || por favor, || más despacio, | por favor. || Más despacio, por favor.
+  217 RU: Проверим. ¶ Я немного говорю по-испански. [P1.9]  [P1.9]
+  222 ES: Habla un poco de español. | ¡Scajom!
+  226 RU: Рад познакомиться.
+  228 ES: Encantado de conocerte.
+  230 RU: Мужчина говорит.
+  231 ES: Encantado.
+  232 RU: А женщина говорит.
+  234 ES: Encantada.
+  235 RU: Разберём с конца. Повторяй.
+  237 ES: Prado. || Cantado. || Encantado. || Conocerte. || De conocerte. || ¡Encantado de conocerte! || ∅
+  255 RU: Ещё раз. Я учу испанский. [P1.8]  [P1.8]
+  260 ES: Estoy aprendiendo español.
+  262 RU: Представься своим именем, скажи, что ты из России, и попроси говорить помедленнее. [P2.5]  [P2.5]
+  270 ES: Me llamo Alex. || Soy de Rusia. || Más despacio, por favor.
+  276 RU: Спроси собеседника, как его зовут, и скажи, что рад познакомиться. [P2.5]  [P2.5]
+  282 ES: ¿Cómo te llamas? || ¡Encantado de conocerte!
+  286 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  292 ES: ᴮHola, ¿qué tal? | ᴮSoy Pablo, el entrenador. | ᴮ¿Eres nuevo aquí? | ᴮ¿De dónde eres?
+  300 RU: Ты услышал? Привет! Как дела? Я Пабла, тренер. Ты здесь новенький? Откуда ты? ¶ Отлично! В следующей главе разберем, почему в одной фразе звучит,
+  311 ES: Soy.
+  312 RU: а в другой?
+  312 ES: Estoy.
+  313 RU: До встречи на кольте!

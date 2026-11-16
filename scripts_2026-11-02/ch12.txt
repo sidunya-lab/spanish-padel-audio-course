@@ -1,0 +1,24 @@
+N Глава 12
+T Время, планы и договорённости
+G Цель главы: предложить время встречи и рассказать, что собираешься делать.
+D A|¿Te viene bien el viernes?
+D B|El viernes no puedo. ¿Y el sábado?
+D A|Sí. ¿A qué hora quedamos?
+D B|A las seis y media.
+D A|Perfecto. Voy a reservar una pista.
+D B|Gracias. Nos vemos el sábado.
+L План на будущее удобно строить так: {voy a} плюс действие. {Voy a entrenar} — собираюсь тренироваться. Для «мы» говорим {vamos a entrenar}.
+L Время называем через {a las}, кроме часа: {a la una}. Слово {media} значит «половина»: {a las seis y media} — в половине седьмого.
+L {Mañana} значит «завтра», а {la mañana} — утро. Смысл определяет вся фраза.
+P Voy a entrenar mañana.|Я собираюсь тренироваться завтра.|{Voy a} плюс действие в начальной форме.
+P ¿A qué hora quedamos?|Во сколько встречаемся?|{Quedamos} удобно для договорённостей.
+P A las seis y media.|В половине седьмого.|Буквально: шесть с половиной.
+P ¿Te viene bien el viernes?|Тебе удобно в пятницу?|Готовая разговорная конструкция.
+P El viernes no puedo.|В пятницу я не могу.|Частица {no} ставится прямо перед глаголом {puedo}.
+P ¿Y el sábado por la mañana?|А в субботу утром?|Короткий вопрос без повторения всей фразы.
+P Vamos a reservar una pista.|Мы собираемся забронировать корт.|{Vamos a} плюс {reservar}.
+P Te aviso cuando llegue.|Сообщу тебе, когда приеду.|Это готовая продвинутая фраза. {Llegue} пока не переносим на другие случаи.
+S Предложи субботу в половине седьмого и скажи, что собираешься забронировать корт.|¿Te viene bien el sábado a las seis y media? Voy a reservar una pista.
+S Скажи, что в пятницу не можешь, и спроси, во сколько встречаетесь.|El viernes no puedo. ¿A qué hora quedamos?
+V El viernes imposible, tengo cena. ¿Qué tal el sábado por la mañana, sobre las diez? Yo reservo la pista.|Ты услышал: в пятницу никак, у меня ужин. Как насчёт субботы утром, часов в десять? Я забронирую корт.
+E Время проговаривай целиком и дождись подтверждения. Не перепутай половину седьмого и половину шестого. До встречи на корте.

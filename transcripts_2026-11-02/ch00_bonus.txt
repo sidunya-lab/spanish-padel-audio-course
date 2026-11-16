@@ -1,0 +1,98 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создана для Паддл-Амбасадора. ¶ Бонусная глава. ¶ Хэллоу Паддл Академии в Дубай. ¶ Цель главы — познакомиться с основателем Академии Маури Андрини, рассказать о себе и задать ему пару вопросов на испанском. ¶ Сначала послуша разговор. пока просто слушай
+   23 ES: Hola, Mauri. || Encantado de conocerte. | ᴮHola. | ᴮEncantado. | ᴮ¿De dónde eres? | Soy de Rusia, pero vivo en Dubai. | ᴮQué bien. | ᴮ¿Y por qué haces el curso? | Quiero aprender a enseñar Padel. | ᴮPerfecto. | ᴮVamos a la pista.
+   42 RU: немного о Маури его полное имя Маури Сё Андрини он аргентинец из города Пьюахо ¶ там он начал играть впадал в 6 лет в одно время и в одном месте с белости гином ¶ 1998 и 2000 годах он вместе с франсиско севера Выигрывал юниорский чемпионат мира. ¶ Потом жил в Лондоне. Четыре года был первым номером в Великобритании.
+   68 ES: Tú
+   68 RU: И несколько лет тренировал мужскую сборную. ¶ Сейчас Академия Хэллоу Паддл базируется в Барселоне, ¶ а управляет Академией, его жена. ¶ Важная деталь – проречь. ¶ Маури – аргентинец вместо.
+   84 ES: eres.
+   85 RU: Аргентинцы часто говорят.
+   87 ES: Vos sos.
+   88 RU: А вместо
+   89 ES: Tú puedes.
+   90 RU: говорят.
+   91 ES: Vos podés.
+   92 RU: Звук, который в Испании похож на русское «е», аргентинцы произносят почти как «ш». ¶ Если услышишь непривычное, Это просто аргентинский вариант. ¶ Привет, Мауре. Рад познакомиться.
+  106 ES: Hola, Mauri. || Encantado de conocerte. | Encantado.
+  111 RU: Говорит мужчина. ¶ Женщина сказала бы...
+  115 ES: Encantada.
+  116 RU: Разберём с конца. Повторяй.
+  118 ES: Prado. || Cantado. || ᴮEncantado. || Conocerte. || ¡De conocerte! || ¡Hola, Mauri! || ¡Encantado de conocerte! || ¡Hola, Mauri! || ¡Encantado de conocerte!
+  141 RU: Как сказать? Я из России, но живу в Дубае.
+  144 ES: ¡Soy de Rusia, pero vivo en Dubai! | ¡Pero!
+  147 RU: Значит, но.
+  148 ES: ¡Vivo!
+  149 RU: Я живу. По частям. С конца.
+  152 ES: ¡En Dubai! || ¡Vivo en Dubai! || Pero vivo en Dubái. || Soy de Rusia, pero vivo en Dubái. || ∅ ∅
+  168 RU: Я здесь на курсе Бронс.
+  170 ES: Estoy aquí para el Curso Brans. | ∅
+  173 RU: Я здесь. ¶ А слово? Здесь показывает цель.
+  178 ES: Curso Brans. || Estoy || aquí para el Curso Brans. || Estoy aquí para el curso Brands.
+  191 RU: Еще раз привет, Маури. Рад познакомиться. [P1.9]  [P1.9]
+  196 ES: Hola, Mauri. || Encantado de conocerte.
+  200 RU: Нужно сказать, я хочу научиться преподавать падал.
+  204 ES: Quiero aprender a enseñar Padel. | Aprender.
+  207 RU: Учиться.
+  208 ES: Enseñar.
+  208 RU: учить других. ¶ После
+  211 ES: Aprender.
+  212 RU: идёт ¶ короткое, а потом второй глагол. Повторяй под частям.
+  219 ES: ∅ || Aprender a enseñar Padel. || Quiero aprender a enseñar Padel. || Quiero aprender a enseñar Padel.
+  233 RU: Я знаю, что ты из певуаха, как Белла.
+  236 ES: Sé que eres de pebajo, como Vela. | ᴮSé.
+  239 RU: Я знаю.
+  240 ES: ¿Cómo?
+  241 RU: Здесь, значит, как. Так.
+  243 ES: ¿Vela? || Como Vela. || Sé que eres de pebajo, | como Vela. || Sé que eres de pebajo, | como Vela.
+  254 RU: Вспомним. Я хочу научиться преподавать падал. [P1.9]  [P1.9]
+  259 ES: Quiero aprender a enseñar Padel.
+  261 RU: А теперь, как ты начал играть в падал?
+  264 ES: ¿Cómo empezaste a jugar al Padel? | ∅
+  267 RU: Ты начал. ¶ Это прошедшее время. [P1.7] Пока запомнится легко. Еще раз по кусочкам.
+  277 ES: ¿empezaste?, ¿zaste?, || ¿ezaste?, || ¿empezaste?, || ¿alpadel?, || ¿a jugar alpadel?, || ¿cómo empezaste a jugar alpadel?, || ¿cómo empezaste a jugar alpadel?,
+  296 RU: Что самое важное для тренера?
+  298 ES: ¿qué es lo más importante para un entrenador?, | ¿lo más importante?
+  302 RU: Самое важное.
+  304 ES: entrenador,
+  305 RU: По-русски значит тренер.
+  308 ES: tante, || portante, || importante, || un entrenador, || importante para un entrenador. || ¿Qué es lo más importante para un entrenador? || ¿Qué es lo más importante para un entrenador?
+  329 RU: Проверим. Я знаю, что ты из пиуаху, как Белла. [P1.9]  [P1.9]
+  335 ES: Sé que eres de pebajo, como vela.
+  338 RU: Скажем, можешь объяснить это ещё раз.
+  342 ES: ¿Puedes explicarlo otra vez? | ¡Otra vez!
+  345 RU: Ещё раз. Аргентинат сказал бы,
+  347 ES: ¿Puedes?
+  348 RU: разберём с конца. Повторяй.
+  351 ES: ¡Carlo! || ¡Plicarlo! || ¡Explicarlo! || ¡Otra vez! || ¡Explicarlo otra vez! || ¿Puedes explicarlo otra vez? || ¿Puedes explicarlo otra vez?
+  369 RU: Большое спасибо за занятие. Я многому научился.
+  373 ES: ¡Muchas gracias por la clase! || He aprendido mucho. | He aprendido.
+  378 RU: Я научился
+  379 ES: Mucho.
+  380 RU: много по частям, с конца.
+  383 ES: Dido. || Prendido. || Aprendido. || Mucho. || Aprendido mucho. || Muchas gracias por la clase. || He aprendido mucho. || Muchas gracias por la clase. || He aprendido mucho.
+  405 RU: Как сказать, можем сфотографироваться.
+  408 ES: ¿Podemos hacernos una foto? | Hacernos una foto.
+  411 RU: Сделать фото вместе.
+  413 ES: Una foto. || Hacernos una foto. || ¿Podemos hacernos una foto? || ¿Podemos hacernos una foto?
+  425 RU: Вспомни. ¶ Большое спасибо за занятие. Я многому научился. [P1.9]  [P1.9]
+  433 ES: Muchas gracias por la clase. || He aprendido mucho.
+  437 RU: Несколько слов, которые услышишь на корте.
+  440 ES: Calentamiento.
+  441 RU: Разминка По-английски warm up
+  444 ES: ¡Ejercicio!
+  445 RU: Упражнение drill
+  447 ES: ¡Bajar la bola!
+  448 RU: Опустить мяч ¶ Сыграть низко
+  450 ES: ¡Bolea!
+  451 RU: Удар слега
+  453 ES: ᴮPrimero calentamos después un ejercicio de bolea.
+  456 RU: Представься Маури Скажи, что ты из России Живешь в Дубае И хочешь научиться преподавать падл? [P2.6]  [P2.6]
+  466 ES: ¡Hola, Mauri! || ¡Soy de Rusia, pero vivo en Dubai! || ¡Quiero aprender a enseñar Padel!
+  473 RU: Спроси его, как он начал играть в падл? [P2.6]  [P2.6]
+  479 ES: ¿Cómo empezaste a jugar al Padel?
+  481 RU: Поблагодари за занятие и попроси сфотографироваться. [P2.6]  [P2.6]
+  487 ES: ¡Muchas gracias por la clase! || ¿Podemos hacernos una foto?
+  491 RU: Живая речь? Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  497 ES: ᴮEmpecé a jugar a los seis años en Pehuajó, el pueblo de Vela. | ᴮAhora vivo en Barcelona.
+  503 RU: Маури мог бы ответить так. Я начал играть в шесть лет в Пуахо, в городке Белы. Сейчас я живу в Барселоне.
+  511 ES: ᴮBueno chicos, primero calentamos, después hacemos un ejercicio de bolea, y al final jugamos puntos.
+  516 RU: Тренер говорит, ребята, сначала разминка, потом упражнение на удар слёта, а в конце играем розыгрыши. ¶ Отлично! Курс проходит девятого, десятого. и 11 ноября в Дань-Юб-Спорт. ¶ Повтори эту главу пару раз до поездки. Увидимся на корте!

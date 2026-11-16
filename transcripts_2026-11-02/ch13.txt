@@ -1,0 +1,66 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создана для падал-амбасадора. Глава 13. Как рассказать о вчерашнем дне. ¶ Цель главы — коротко рассказать о прошедшем матче и отличать вчерашний день от сегодняшнего. ¶ Сначала послушай разговор. Пока просто слушай.
+   19 ES: ᴮ¿Qué hiciste ayer? | Fui al club y jugué un partido. | ᴮ¿Ganasteis? | Ganamos el primer set, pero perdimos el partido. | ᴮ¿Y hoy? | Hoy he entrenado una hora.
+   30 RU: Это первая глава с прошедшим временем, поэтому новых форм немного.
+   34 ES: Ayer.
+   35 RU: Значит вчера,
+   37 ES: Ayer entrené.
+   38 RU: вчера я тренировался. ¶ У многих глаголов на
+   43 ES: ¿Ah?
+   43 RU: форму я, прошедшим, заканчивается на ударное э,
+   47 ES: Entrené. ¿Jugué?
+   49 RU: но есть особые формы.
+   50 ES: ¿Fui?
+   51 RU: Я поехал.
+   52 ES: Estuve.
+   53 RU: Я был. ¶ Про сегодняшний день в Испании часто говорят иначе.
+   58 ES: Hoy he entrenado,
+   59 RU: Сегодня я потренировался. ¶ Вчера я тренировался час.
+   64 ES: ayer entrené una hora, | ayer
+   66 RU: Задает завершенный вчерашний период. Разберём с конца. Повторяй.
+   72 ES: una hora, || entrené una hora, || ayer entrené una hora, || ayer jugué
+   83 RU: Как сказать? Вчера я сыграл матч.
+   86 ES: un partido, | jugué,
+   88 RU: Прошедшая форма под
+   90 ES: jugar,
+   91 RU: Почистям. С конца.
+   93 ES: un partido, || jugué un partido. || Ayer jugué un partido, || ∅
+  105 RU: Мы выиграли первый сет.
+  107 ES: ganamos el primer set,
+  109 RU: Из контекста понятно, что матч уже закончился.
+  112 ES: ∅ || ganamos || el primer set, || ganamos el primer set, ganamos el primer set,
+  123 RU: Еще раз. Вчера я тренировал сейчас. [P1.9]  [P1.9]
+  128 ES: ayer entrené una hora,
+  130 RU: Нужно сказать, мы проиграли второй сет.
+  133 ES: perdimos el segundo set, | perdimos. ∅
+  136 RU: Мы проиграли. Повторяй под частям.
+  140 ES: Segundo set || El segundo set || Perdimos el segundo set || Perdimos el segundo set
+  152 RU: Я поехал в клуб во второй половине дня.
+  155 ES: Fui al club por la tarde | Fui?
+  157 RU: Особая прошедшая форма глагола.
+  160 ES: Y? | La tarde || Club por la tarde || Fui al club por la tarde || Fui al club por la tarde
+  172 RU: Вспомни, мы проиграли второй сет. [P1.9]  [P1.9]
+  176 ES: perdimos el segundo set
+  178 RU: А теперь, на прошлой неделе, я был в Мадриде.
+  182 ES: estuve en madrid la semana pasada | estuve
+  185 RU: описывает пребывание в законченный период. Еще раз по кусочкам.
+  191 ES: semana pasada || madrid la semana pasada || estuve en madrid la semana pasada || estuve en madrid la semana pasada
+  205 RU: Сегодня я потренировался.
+  207 ES: hoy he entrenado | he entrenado
+  210 RU: Частый вариант в Испании.
+  212 ES: nado || Trenado, || entrenado, || he entrenado, || oye entrenado, || oye entrenado,
+  226 RU: Проверим. Я поехал в клуб во второй половине дня. [P1.9]  [P1.9]
+  231 ES: fui al club por la tarde,
+  233 RU: Скажем, я никогда не был в этой академии.
+  237 ES: nunca he estado en esa academia,
+  239 RU: Это фраза про опыт до сегодняшнего дня. Разберём с конца. Повторяй.
+  245 ES: de mía, || academia, || academia, || esa academia. || He estado en esa academia. || Nunca he estado en esa academia. || ∅
+  265 RU: Ещё раз. На прошлой неделе я был в Мадриде. [P1.9]  [P1.9]
+  270 ES: Estuve en Madrid la semana pasada.
+  272 RU: Расскажи, вчеря поехал в клуб, сыграл матч и выиграл первый сет. [P2.6]  [P2.6]
+  279 ES: Ayer fui al club. || Jugué un partido y ganamos el primer set.
+  284 RU: Скажи, что сегодня ты тренировался час. [P2.6]  [P2.6]
+  289 ES: Hoy he entrenado una hora.
+  291 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  297 ES: ᴮAyer jugamos un partidazo. | ᴮGanamos el primer set 6 a 4, ᴮpero en el segundo nos remontaron y al final perdimos.
+  305 RU: Ты услышал. ¶ Вчера мы сыграли классный матч. ¶ Первый сет выиграли 6-4, но во втором нас догнали и в итоге мы проиграли. ¶ Сначала уверенно выучи несколько нужных форм. ¶ Остальные прошедшие времена придут позже. ¶ До встречи на корте!

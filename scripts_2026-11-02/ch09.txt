@@ -1,0 +1,24 @@
+N Глава 09
+T Кафе и еда после игры
+G Цель главы: заказать еду, уточнить состав и попросить счёт.
+D B|Hola, ¿qué vais a tomar?
+D A|Para mí, pollo con arroz y agua sin gas.
+D B|¿Algo más?
+D A|Sí, un café con leche, sin azúcar.
+D B|Muy bien.
+D A|Y después, la cuenta, por favor.
+L В кафе ясность и вежливость важнее сложной грамматики. {Un café, por favor} уже работает как заказ.
+L Для заказа удобно {¿me pones?}, то есть «можешь мне подать?». Это разговорный вариант. Его часто слышно в Испании.
+L При аллергии прямо скажи об этом и уточни состав. Пример про орехи учебный.
+P Un café con leche, por favor.|Кофе с молоком, пожалуйста.|Простой заказ без лишней грамматики.
+P ¿Me pones agua sin gas?|Можно мне негазированную воду?|{Sin gas} значит «без газа».
+P ¿Qué me recomiendas?|Что ты мне посоветуешь?|Полезно, когда меню незнакомо.
+P Para mí, pollo con arroz.|Мне курицу с рисом.|{Para mí} значит «для меня».
+P Sin azúcar, por favor.|Без сахара, пожалуйста.|{Sin} значит «без».
+P ¿Este plato lleva frutos secos?|В этом блюде есть орехи?|{Lleva} здесь значит «содержит».
+P Tengo alergia a los frutos secos.|У меня аллергия на орехи.|Используй эту фразу, только если это правда.
+P La cuenta, por favor.|Счёт, пожалуйста.|Короткая стандартная просьба.
+S Закажи курицу с рисом и негазированную воду. Потом попроси счёт.|Para mí, pollo con arroz y agua sin gas. La cuenta, por favor.
+S Спроси официанта, что он посоветует, и закажи кофе с молоком без сахара.|¿Qué me recomiendas? Un café con leche sin azúcar, por favor.
+V Hoy os recomiendo el pollo con arroz, está buenísimo. ¿Y para beber? ¿Agua, una caña, algo sin alcohol?|Ты услышал: сегодня советую курицу с рисом, она отличная. А что пить? Воду, маленькое пиво, что-нибудь безалкогольное?
+E Учи несколько вариантов заказа, а важные ограничения по здоровью держи отдельно. До встречи на корте.

@@ -1,0 +1,62 @@
+    0 ES: ᴮHola amigos,
+    2 RU: Создано для падал амбасадора. ¶ Глава 10. Число, цены и покупки. ¶ Цель главы — узнать цену, выбрать размер и оплатить покупку. ¶ Сначала послушай разговор, пока просто слушай.
+   19 ES: ¿cuánto cuesta esta pala? | ᴮ90 euros. | 90? | ᴮSí, 90. | Perfecto. || ¿Puedo pagar con tarjeta? | Sí, claro.
+   29 RU: Сначала число от одного 5.
+   33 ES: 1, 2, | 3, | 4,
+   36 RU: ∅
+   37 ES: 6, 7, | ᴮ8, 9, 10,
+   41 RU: Для счета в игре понадобятся 15, 30 и 40. 15.
+   47 ES: 30... Cuarenta.
+   48 RU: В магазине спрашиваем,
+   50 ES: ¿Cuánto cuesta?
+   51 RU: если предмет один ¶ и
+   54 ES: ᴮ¿Cuánto cuesta?
+   55 RU: если их несколько. [P2.7] Число лучше переспросить? Чему слышать неправильно? ¶ Сколько стоит эта ракетка?
+   65 ES: ¿Cuánto cuesta esta pala?
+   67 RU: Предмет один? ¶ Поэтому...
+   70 ES: Cuesta.
+   70 RU: Разберём с конца. Повторяй.
+   73 ES: Esta pala. || Cuesta esta pala. || ¿Cuánto cuesta esta pala? || ¿Cuánto cuesta esta pala?
+   85 RU: Как сказать? Она стоит 90 евро.
+   88 ES: Cuesta noventa euros.
+   90 RU: Это учебная цена, а не реальное предложение. По частям, с конца.
+   95 ES: Euros. || Noventa euros. || cuesta 90 euros || cuesta 90 euros
+  106 RU: У вас есть другой размер?
+  108 ES: tenéis otra talla | tenéis
+  110 RU: Так, в Испании неформально обращаются к нескольким людям.
+  115 ES: otra | talla || tenéis otra talla || tenéis otra talla
+  124 RU: Ещё раз. [P1.7] Сколько стоит эта ракетка? [P1.9]  [P1.9]
+  130 ES: cuánto cuesta esta pala
+  132 RU: Нужно сказать, мне нужен размер побольше.
+  135 ES: necesito una talla más grande | más grande
+  138 RU: Значит, больше. Повторяй под частям.
+  142 ES: ᴮ∅ || Cesito, || necesito || más grande, || una talla más grande, || necesito una talla más grande, || necesito una talla más grande,
+  162 RU: Можно это примерить.
+  163 ES: puedo probármelo,
+  165 RU: Готовая фраза, например, про футболку или куртку.
+  168 ES: melo, || bármelo, || probármelo, || puedo probármelo? || ¿Puedo probármelo?
+  179 RU: Вспомни, мне нужен размер побольше. [P1.9]  [P1.9]
+  184 ES: Necesito una talla más grande.
+  186 RU: А теперь можно заплатить картой.
+  189 ES: ¿Puedo pagar con tarjeta? | ¿Con tarjeta?
+  192 RU: Значит, картой. Еще раз по кусочкам.
+  196 ES: ¿Con tarjeta? || ¿Pagar con tarjeta? || ¿Puedo pagar con tarjeta? || ¿Puedo pagar con tarjeta?
+  208 RU: Это 15 или 50.
+  210 ES: ¿Son 15 o 50?
+  212 RU: Уточняем число, похожие на слух.
+  215 ES: ¿O 50? || 15.50 || ¿Son 15.50? || ¿Son 15.50?
+  227 RU: Проверим, можно заплатить карты. [P1.8]  [P1.8]
+  231 ES: ¿Puedo pagar con tarjeta?
+  233 RU: Скажем, дашь мне чек, пожалуйста.
+  236 ES: ¿Me das el recibo, por favor?
+  238 RU: Просим подтверждение оплаты. Разберём с конца, повторяй.
+  244 ES: ¡Favor! || Por favor. || ¿Me das el recibo, por favor? || ¿Me das el recibo, por favor?
+  254 RU: Ещё раз, можно заплатить картой. [P1.9]  [P1.9]
+  259 ES: ¿Puedo pagar con tarjeta?
+  261 RU: Узнай цену ракетки. Уточни число и спроси про оплату картой. [P2.6]  [P2.6]
+  268 ES: ¿Cuánto cuesta esta pala? || ¿90 euros? || ¿Puedo pagar con tarjeta?
+  274 RU: Попроси размер побольше и спроси, можно ли примерить. [P2.6]  [P2.6]
+  279 ES: Necesito una talla más grande. || ¿Puedo probármelo?
+  283 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  289 ES: ᴮEsta pala está en oferta, antes costaba 120 y ahora la tienes por 95 euros.
+  295 RU: Ты услышал? Это ракетка по акции. Раньше стоила 120. А сейчас? Её можно взять за 95 евро. ¶ Повторяю услышанную цену в слух, как вопрос. Ошибку в числе лучше заметить до оплаты. До встречи на Корте!

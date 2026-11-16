@@ -1,0 +1,23 @@
+N Глава 21
+T Краснодар, Галицкий и 360 Padel
+G Цель главы: коротко рассказать испаноязычному собеседнику о спортивных проектах Краснодара.
+D B|¿Qué me recomiendas ver en Krasnodar?
+D A|El parque y el estadio. Son proyectos impulsados por Serguéi Galitski.
+D B|¿Y hay pádel?
+D A|Sí, hay un club llamado trescientos sesenta Pádel.
+D B|¿Cuántas pistas tiene?
+D A|Trece: once de dobles y dos individuales.
+L Эта глава тренирует небольшой рассказ. Сергей Галицкий основал сеть «Магнит» и футбольный клуб «Краснодар». Свою долю в «Магните» он продал в две тысячи восемнадцатом году.
+L В рассказе выделяем клуб, академию, стадион и парк.
+L Для падела берём клуб «Триста шестьдесят»: тринадцать кортов, из них одиннадцать парных и два одиночных.
+P Quiero hablarte del deporte en Krasnodar.|Я хочу рассказать тебе о спорте в Краснодаре.|{Hablarte} значит «рассказать тебе».
+P Serguéi Galitski es un empresario ruso.|Сергей Галицкий — российский предприниматель.|Короткое представление человека.
+P Fundó la cadena Magnit y el club de fútbol Krasnodar.|Он основал сеть «Магнит» и футбольный клуб «Краснодар».|{Fundó} — основал. Это прошедшее время.
+P Vendió su participación en Magnit en dos mil dieciocho.|Он продал свою долю в «Магните» в две тысячи восемнадцатом году.|Поэтому не называем его нынешним владельцем сети.
+P Impulsó una academia, un estadio y un parque.|Он создал академию, стадион и парк.|{Impulsó} передаёт вклад в развитие проектов.
+P En Krasnodar hay un club llamado trescientos sesenta Pádel.|В Краснодаре есть клуб «Триста шестьдесят Падел».|{Hay} вводит новый объект в рассказ.
+P Tiene trece pistas: once de dobles y dos individuales.|В нём тринадцать кортов: одиннадцать парных и два одиночных.|Различаем общее число и виды кортов.
+P Me gustaría enseñártelo.|Мне хотелось бы тебе его показать.|Вежливая готовая конструкция без обязательств.
+S В двух или трёх предложениях представь Галицкого и назови число кортов в клубе «Триста шестьдесят».|Serguéi Galitski es un empresario ruso. Fundó el club de fútbol Krasnodar. El club trescientos sesenta Pádel tiene trece pistas.
+V ¿En serio? No tenía ni idea de que en Krasnodar hubiera tanto pádel. Me encantaría ir algún día a ver el estadio y jugar allí.|Ты услышал: серьёзно? Я и не знал, что в Краснодаре столько падела. Очень хотел бы как-нибудь съездить, посмотреть стадион и поиграть там.
+E Факты проверены в октябре две тысячи двадцать шестого года. Перед реальной поездкой проверь их снова. До встречи на корте.

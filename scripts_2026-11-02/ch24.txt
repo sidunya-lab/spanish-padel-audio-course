@@ -1,0 +1,22 @@
+N Глава 24
+T Итоговый день на испанском
+G Цель главы: соединить знакомство, тренировку и общение без постоянного перевода.
+D B|Hola, ¿es tu primera vez aquí?
+D A|Sí. Tengo una reserva para las seis.
+D B|¿Qué quieres trabajar?
+D A|Mi revés. ¿Puedes explicar el ejercicio más despacio?
+D B|Claro. Primero te lo muestro.
+D A|Gracias. Después quiero saber qué puedo practicar por mi cuenta.
+L Финальная глава проверяет, можешь ли ты решить несколько настоящих задач знакомыми словами: представиться, переспросить, договориться об игре, понять упражнение и договориться о следующей встрече.
+L Если не хватает слова, разбей мысль на два коротких предложения. Если не понял, попроси повторить по-испански. Это тоже успешное общение.
+P Hola, soy de Rusia y estoy aprendiendo español.|Привет, я из России и учу испанский.|Сразу объясняем свой уровень.
+P ¿Puedes hablar más despacio, por favor?|Можешь говорить помедленнее, пожалуйста?|Так ты управляешь разговором.
+P Tengo una reserva para las seis.|У меня бронь на шесть.|Называем конкретное время.
+P Quiero mejorar mi revés y la toma de decisiones.|Я хочу улучшить удар слева и принятие решений.|Называем цель тренировки.
+P ¿Puedes explicarme qué tengo que corregir?|Можешь объяснить, что мне нужно исправить?|Просьба и уточнение в одной фразе.
+P Ayer jugué un partido y hoy necesito descansar.|Вчера я сыграл матч, а сегодня мне нужно отдохнуть.|Различаем прошлое и сегодняшний план.
+P ¿Te viene bien jugar mañana por la mañana?|Тебе удобно сыграть завтра утром?|Договариваемся о следующем шаге.
+P Gracias por todo. Seguimos en contacto.|Спасибо за всё. Остаёмся на связи.|Завершаем разговор.
+S Ты в новом клубе. Представься, назови цель тренировки, попроси говорить медленнее и договорись сыграть завтра.|Hola, soy de Rusia. Quiero mejorar mi revés. ¿Puedes hablar más despacio? ¿Te viene bien jugar mañana?
+V Bienvenido al club. Mira, hoy hacemos una hora de técnica y después jugamos unos puntos. Si no entiendes algo, me lo dices sin problema.|Ты услышал: добро пожаловать в клуб. Смотри, сегодня час техники, а потом сыграем несколько розыгрышей. Если что-то непонятно, просто скажи.
+E Курс закончен. Вернись к трём главам, где ответы давались труднее всего, и повтори финальный разговор без подсказок. До встречи на корте.

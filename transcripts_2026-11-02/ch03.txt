@@ -1,0 +1,68 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбассадора. Глава третья – вопросы, отрицания и спасательные фразы. ¶ Цель главы – переспросить, уточнить смысл и сказать, что ты не понял. ¶ Сначала послушай разговор, пока просто слушай.
+   18 ES: ᴮLa clase empieza en la pista de al lado. | Perdona, no entiendo. || ¿Puedes repetir? | ᴮEn la otra pista. | ¿Dónde está? | ᴮEstá a la derecha. | Ahora entiendo, gracias.
+   31 RU: Отрицание делается просто. Ставим...
+   33 ES: No. ¡Piered glogón! Entiendo.
+   36 RU: Значит, ¶ «Понимаю», ¶ а
+   39 ES: No entiendo.
+   40 RU: «Значит, не понимаю». ¶ Для вопроса часто хватает интонации или вопросительного слова.
+   46 ES: ¿Dónde?
+   47 RU: Спрашивает о месте,
+   49 ES: ¿Qué?
+   49 RU: о предмете или смысле,
+   52 ES: ¿Ah? ¿Cómo?
+   53 RU: о способе. ¶ С партнером по корту говорим на «ты». Поэтому,
+   58 ES: ¿Puedes?
+   58 RU: в более официальной ситуации, услышишь.
+   61 ES: ¿Puede?
+   62 RU: Я не понимаю,
+   63 ES: ¿No entiendo?
+   65 RU: честиться.
+   66 ES: ¿No?
+   67 RU: Всегда идет прямо перед глаголом. Разберем с конца. Повторяй.
+   72 ES: ¿Entiendo? || ¿No entiendo? || ¿No entiendo?
+   78 RU: Как сказать? Можешь повторить, пожалуйста.
+   82 ES: ¿Puedes repetir? ¿Por favor?
+   84 RU: После.
+   84 ES: ¿Puedes?
+   85 RU: Второй глагол? Остается в начальной форме, по частям, с конца.
+   91 ES: ¿Favor? || ¿Por favor? || ¿Puedes repetir? ¿Por favor? || ¿Puedes repetir, por favor?
+  101 RU: Что означает это слово?
+  104 ES: ¿Qué significa esta palabra? | ¿Esta palabra?
+  107 RU: Значит, это слово.
+  109 ES: ¿Fica? || ¿Nifica? || ¿Significa? || ¿Esta palabra? || ¿Significa esta palabra? || ¿Qué significa esta palabra? || ¿Qué significa esta palabra?
+  128 RU: Ещё раз, можешь повторить, пожалуйста? [P1.8]  [P1.8]
+  132 ES: ¿Puedes repetir, por favor?
+  134 RU: Нужно сказать? ¶ Как это сказать по-испански?
+  138 ES: ¿Cómo se dice esto en español?
+  140 RU: Это готовые конструкции, чтобы пополнять словарь. Повторяй под частям,
+  145 ES: En español. || ¿Dice esto en español? || ¿Cómo se dice esto en español? || ¿Cómo se dice esto en español?
+  158 RU: где выход.
+  159 ES: ¿Dónde está la salida?
+  161 RU: Ищем, где находится конкретный выход.
+  164 ES: La salida. || Está la salida. || ¿Dónde está la salida? || ¿Dónde está la salida?
+  175 RU: Вспомни, как это сказать по-испански. [P1.8]  [P1.8]
+  180 ES: ¿Cómo se dice esto en español?
+  182 RU: А теперь. ¶ Я не очень хорошо говорю по-испански.
+  186 ES: No hablo muy bien español. | Muy bien.
+  189 RU: Значит, очень хорошо. Ещё раз. по кусочкам.
+  194 ES: Bien español. || Hablo muy bien español. || No hablo muy bien español. || No hablo muy bien español.
+  206 RU: Можешь говорить по-медленней?
+  208 ES: ¿Puedes hablar más despacio?
+  210 RU: Просим изменить темп, а не просто повторить.
+  213 ES: más despacio || hablar más despacio || ¿puedes hablar más despacio? || ¿puedes hablar más despacio?
+  226 RU: Проверим? Я не очень хорошо говорю по-испански. [P1.9]  [P1.9]
+  231 ES: no hablo muy bien español
+  233 RU: Скажем, теперь понимаю, спасибо.
+  236 ES: ahora entiendo gracias ahora | ∅
+  239 RU: Значит, теперь или сейчас? Разберём с конца. Повторяй.
+  244 ES: ahora entiendo gracias ahora || entiendo gracias
+  251 RU: Ещё раз. Я не очень хорошо говорю по-испански. [P1.9]  [P1.9]
+  256 ES: No hablo muy bien español.
+  258 RU: Ты не понял объяснения. Попроси повторить и говорить помедленнее. [P2.6]  [P2.6]
+  266 ES: No entiendo. || ¿Puedes repetir, por favor? || ¿Puedes hablar más despacio?
+  272 RU: Спроси, что означает это слово и как это сказать по-испански. [P2.6]  [P2.6]
+  279 ES: ¿Qué significa esta palabra? || ¿Cómo se dice esto en español?
+  283 RU: Живая речь, так это звучит в обычном темпе. ¶ лови знакомые слова.
+  289 ES: ᴮVale, mira, la clase de hoy empieza en la pista de al lado, a la derecha, justo después de la cafetería.
+  295 RU: Ты услышал? Смотри. Сегодняшнее занятие начинается на соседнем корте. Справа. Сразу после кафе. ¶ Не жди конца сложного объяснения. Сразу используй короткую просьбу, а потом подтверди, что понял. ¶ До встречи на корте!

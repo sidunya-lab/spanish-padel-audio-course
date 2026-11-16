@@ -1,0 +1,68 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасадора. Глава 0,8. Хочу, могу, нужно и нравится. ¶ Цель главы — собирать новые фразы из нескольких универсальных конструкций. ¶ Сначала послушай разговор. Пока просто слушай.
+   17 ES: ¿Qué quieres hacer hoy? | ᴮQuiero entrenar, pero necesito descansar un poco. | ¿Prefieres jugar por la tarde? | ᴮSí. | ᴮMe gusta jugar contigo. | ¿Podemos empezar a las seis? | ᴮPerfecto. | ᴮA las ocho tengo que irme.
+   32 RU: Сегодня четыре опоры.
+   34 ES: ¿Quiere?
+   35 RU: Я хочу.
+   36 ES: ¿Puede?
+   37 RU: Я нау.
+   37 ES: Necesito.
+   38 RU: Мне нужно.
+   40 ES: Tengo que.
+   40 RU: Я должен. ¶ После них ставим действие в начальной форме.
+   45 ES: Quiero jugar.
+   46 RU: Хочу играть. Второй глагол не меняем. ¶ Отдельно разберем.
+   52 ES: Me gusta jugar.
+   54 RU: Мне нравится играть. [P3.5] Если нравится несколько предметов, говорим
+   62 ES: Me gustan.
+   64 RU: Я хочу играть
+   66 ES: Quiero jugar. | Quiere
+   67 RU: Плюс действие в начальной форме Разберём с конца Повторяй
+   73 ES: jugar. || Quiero jugar. || Quiero jugar.
+   78 RU: Как сказать, можно войти
+   81 ES: Puedo entrar.
+   82 RU: Глагол
+   83 ES: Puede
+   83 RU: Помогает вежливо спросить разрешения По частям с конца.
+   88 ES: entrar. || Puedo entrar. || Puedo entrar.
+   94 RU: Мне нужно отдохнуть.
+   96 ES: Necesito descansar. | Necesito.
+   98 RU: Плюс действие.
+  100 ES: Sito. || Cecito. || Necesito. || Descansar. || Necesito descansar. || Necesito descansar.
+  115 RU: Еще раз. Можно войти. [P1.9]  [P1.9]
+  120 ES: Puedo entrar.
+  121 RU: Нужно сказать. Мне нужно уйти.
+  124 ES: Tengo que irme.
+  125 RU: Слово.
+  126 ES: ¿Qué?
+  126 RU: Обязательно связывает две части. Повторяй под частям.
+  131 ES: Irme. || ¿Qué irme? || Tengo que irme, || tengo que irme,
+  139 RU: Мне нравится играть в падол,
+  141 ES: me gusta jugar al padel,
+  143 RU: потому что нравится действие,
+  146 ES: al padel, || gusta jugar al padel, || me gusta jugar al padel, || me gusta jugar al padel,
+  158 RU: вспомни, мне нужно отдохнуть, [P1.8]  [P1.8]
+  164 ES: necesito descansar,
+  165 RU: а теперь мне нравится виды спорта,
+  169 ES: me gustan los deportes, | gustan.
+  172 RU: потому что предметов много, ещё раз по кусочкам.
+  177 ES: los deportes || gustan los deportes || me gustan los deportes || me gustan los deportes
+  190 RU: Я предпочитаю тренироваться утром.
+  192 ES: prefiero entrenar por la mañana | prefiero
+  195 RU: Ещё одна удобная опора перед действием.
+  198 ES: la mañana || entrenar por la mañana || prefiero entrenar por la mañana || Prefiero entrenar por la mañana.
+  211 RU: Проверим. ¶ Мне нравится играть в падол. [P1.9]  [P1.9]
+  216 ES: Me gusta jugar al padel.
+  218 RU: Скажем, можем начинать?
+  220 ES: Podemos empezar? | Podemos
+  223 RU: Значит, мы можем. Разберём с конца. Повторяй.
+  227 ES: empezar. || Podemos empezar? || Podemos empezar?
+  234 RU: Ещё раз. я предпочитаю тренироваться.
+  238 ES: Utrom. || Prefiero entrenar por la mañana.
+  242 RU: Скажи, что хочешь играть, но сначала тебе нужно отдохнуть. Спроси, можно ли начать позже? [P2.6]  [P2.6]
+  250 ES: Quiero jugar, pero primero necesito descansar. || ¿Podemos empezar más tarde?
+  256 RU: Скажи, что тебе нравится играть в падл, и ты предпочитаешь тренироваться утром. [P2.6]  [P2.6]
+  263 ES: Me gusta jugar al padel. || Prefiero entrenar por la mañana.
+  268 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  274 ES: ᴮMe encanta jugar contigo pero hoy no puedo quedarme mucho, a las ocho tengo que irme sí o sí.
+  279 RU: Ты услышал, мне очень нравится играть с тобой, но сегодня я не могу долго, в восемь мне обязательно нужно уйти. ¶ Меняя только действия после знакомой опоры и из восьми фраз получится гораздо больше. До встречи на корте!

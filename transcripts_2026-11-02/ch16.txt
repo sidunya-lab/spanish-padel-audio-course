@@ -1,0 +1,72 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создана для падал амбасадора. Глава 16. ¶ Удары
+    7 ES: ¡Stiklo!
+    8 RU: и позиция. ¶ Цель главы ¶ — узнавать название ударов ¶ и говорить, что именно хочешь отработать. ¶ Сначала послушай разговор, пока просто слушай.
+   20 ES: ᴮ¿Qué quieres trabajar hoy? | Quiero mejorar mi revés y practicar la volea. | ᴮ¿Y la pared? | Me cuesta jugar después de la pared. | ᴮ¡Empezamos despacio! | ¡Perfecto! || ¿Puedes mostrarme el movimiento?
+   33 RU: Основные слова.
+   34 ES: ¡Derecha!
+   35 RU: Удар справа,
+   36 ES: ¡Rebes!
+   37 RU: удар слева,
+   38 ES: ¡Volea!
+   39 RU: удар слёта,
+   40 ES: ¡Globo!
+   41 RU: свеча,
+   42 ES: Remate.
+   42 RU: завершающий удар сверху, ¶ название.
+   46 ES: Bandeja y víbora.
+   48 RU: Оставляем как есть, у них нет точного русского аналога.
+   52 ES: Pare.
+   53 RU: На корте эта стена в том числе стеклянная.
+   57 ES: Re.
+   57 RU: сетка. ¶ Схема.
+   59 ES: Quiero mejorar.
+   60 RU: Позволяет подставить любой удар. ¶ Я хочу улучшить удар справа.
+   65 ES: Quiero mejorar mi derecha.
+   67 RU: Здесь
+   68 ES: Derecha.
+   69 RU: означает удар. Разберем с конца. Повторяй.
+   73 ES: Mi derecha. || Mejorar mi derecha. || Quiero mejorar mi derecha. || Quiero mejorar mi derecha.
+   85 RU: Как сказать, я хочу поработать над ударом слева.
+   89 ES: Quiero trabajar el revés. | Trabajar.
+   92 RU: Здесь ¶ Значит, отрабатывать. По частям, с конца.
+   98 ES: El revés. || Trabajar el revés. || Quiero trabajar el revés. || Quiero trabajar el revés.
+  110 RU: Мне нужно потренировать удар слёта.
+  113 ES: Necesito practicar la bolea. | Bolea.
+  116 RU: Удар до отскока от пола.
+  118 ES: ᴮSito. || Cesito. || Necesito. || La bolea. || ¡Practicar la volea! || ∅ || ∅
+  137 RU: Ещё раз, я хочу улучшить удар справа. [P1.8]  [P1.8]
+  141 ES: ¡Quiero mejorar mi derecha!
+  143 RU: Нужно сказать, я сыграю свечу.
+  146 ES: ¡Voy a jugar un globo! | ∅
+  149 RU: Высокий мяч через соперников. Повторяй под частям.
+  154 ES: ∅ || ∅ || ∅ || ∅
+  166 RU: Можешь показать не бандеху.
+  168 ES: ¿Puedes enseñarme la bandeja?
+  170 RU: Просим показать, а не угадываем технику по названию.
+  174 ES: ¡Yarme! || ¡Señarme! || ¡Enseñarme! || ¿La bandeja? || ¡Enseñarme la bandeja! || ¿Puedes enseñarme la bandeja? || ¿Puedes enseñarme la bandeja?
+  193 RU: Вспомни, я сыграю свечу. [P1.8]  [P1.8]
+  198 ES: ¡Voy a jugar un globo!
+  199 RU: А теперь, когда ты используешь вибору?
+  203 ES: ¿Cuando usas la víbora?
+  204 RU: Вопрос о выборе удара. Ещё раз по кусочкам.
+  210 ES: La víbora. || ¿Usas la víbora? || ¿Cuando usas la víbora? || ¿Cuando usas la víbora?
+  220 RU: Мне трудно играть после отскока от стены.
+  223 ES: ¿Me cuesta jugar después de la pared? | ¿Me cuesta?
+  226 RU: Значит, мне трудно.
+  228 ES: La pared. || Después de la pared. || ¿Cuesta jugar después de la pared? || ¿Me cuesta jugar después de la pared? || Me cuesta jugar después de la pared.
+  244 RU: Проверим. Можешь показать мне бандеху? [P1.9]  [P1.9]
+  248 ES: ¿Puedes enseñarme la bandeja?
+  250 RU: Скажем, ¶ выходим к сетке.
+  253 ES: ¿Subimos a la red?
+  255 RU: Согласуем действие с партнаром. Разберём с конца. Повторяй.
+  259 ES: ¿La red? || ¿A la red? || ¿Subimos a la red? || ¿Subimos a la red?
+  268 RU: Ещё раз. Когда ты используешь вибору? [P1.9]  [P1.9]
+  273 ES: ¿Cuando usas la víbora?
+  275 RU: Попроси поработать над ударом слева и показать бандеху. [P2.6]  [P2.6]
+  282 ES: ¿Quiero trabajar el revés? || ¿Puedes enseñarme la bandeja?
+  286 RU: Скажи, что тебе трудно играть после стены и нужно потренировать удар слёта. [P2.6]  [P2.6]
+  293 ES: ¿Me cuesta jugar después de la pared? || Necesito practicar la bolea.
+  298 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  304 ES: ᴮCuando el globo es bueno, no intentes rematar. | ᴮJuega una bandeja tranquila al cristal y vuelve a la red.
+  311 RU: Ты услышал, когда свеча хорошая, не пытайся бить Смэш. Сыграй с погольную бандеху в стекло и возвращайся к сетке. ¶ Учись слово вместе с действием. Хочу улучшить. Мне трудно. Покажи. До встречи на корте.

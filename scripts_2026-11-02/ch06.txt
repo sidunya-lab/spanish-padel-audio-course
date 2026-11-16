@@ -1,0 +1,24 @@
+N Глава 06
+T Hay, артикли и ориентирование
+G Цель главы: спрашивать, что есть поблизости, и находить конкретное место.
+D A|Perdona, ¿hay una cafetería aquí?
+D B|Sí, hay una al lado del gimnasio.
+D A|¿Y dónde están los vestuarios?
+D B|Están a la izquierda.
+D A|¿Hay una pista libre?
+D B|Sí, la pista dos está libre.
+L Сравни два вопроса: есть ли здесь кафе и где находится кафе. В первом мы выясняем наличие и используем {hay}. Во втором говорим о конкретном кафе и используем {está}.
+L Слово {hay} не меняется, даже если предметов несколько.
+L Существительное учи сразу с артиклем: {la pista, el club}.
+P ¿Hay una cafetería aquí?|Здесь есть кафе?|Спрашиваем о наличии, поэтому {hay}.
+P Hay dos pistas libres.|Есть два свободных корта.|Во множественном числе {hay} остаётся тем же.
+P ¿Dónde está la cafetería?|Где находится кафе?|Теперь спрашиваем о конкретном месте.
+P La recepción está a la derecha.|Стойка регистрации справа.|{A la derecha} значит «справа».
+P Los vestuarios están a la izquierda.|Раздевалки слева.|Во множественном числе говорим {están}.
+P El hotel está cerca del club.|Отель рядом с клубом.|{Cerca de} значит «близко к».
+P No hay sitio.|Нет места.|Короткая фраза о том, что свободного места нет.
+P La pista está al lado del gimnasio.|Корт рядом с тренажёрным залом.|{Al lado de} значит «рядом с».
+S Спроси, есть ли свободный корт и где находится стойка регистрации.|¿Hay una pista libre? ¿Dónde está la recepción?
+S Скажи, что раздевалки слева, а кафе рядом с залом.|Los vestuarios están a la izquierda y la cafetería está al lado del gimnasio.
+V Sí, hay dos pistas libres, pero primero pasa por recepción, que está ahí a la derecha, al lado de la cafetería.|Ты услышал: да, есть два свободных корта, но сначала зайди на ресепшен, он вон там справа, рядом с кафе.
+E Запомни: {hay} — что-то есть. {Está} — конкретный предмет где-то находится. До встречи на корте.

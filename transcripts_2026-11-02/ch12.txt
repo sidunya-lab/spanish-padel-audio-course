@@ -1,0 +1,74 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасадора. ¶ Глава 12-я — время, планы и договоренности. ¶ Цель главы — предложить время встречи и рассказать, что собираешься делать. ¶ Сначала послушай разговор, пока просто слушай.
+   18 ES: ¿Te viene bien el viernes? | ᴮEl viernes no puedo. | ᴮ¿Y el sábado?
+   23 RU: Си.
+   24 ES: ¿A qué hora quedamos? | ᴮA las seis y media. | Perfecto. || Voy a reservar una pista. | ᴮGracias. | ᴮNos vemos el sábado.
+   34 RU: План на будущее... удобно строить так
+   37 ES: Voy a...
+   38 RU: плюс действие
+   40 ES: Voy a entrenar.
+   41 RU: собираюсь тренироваться ¶ для мы говорим
+   45 ES: vamos a entrenar
+   46 RU: время называем чьи
+   48 ES: a las
+   49 RU: кроме
+   49 ES: chasa a la una
+   51 RU: слова
+   52 ES: media a
+   52 RU: значит половина
+   54 ES: las seis y media
+   55 RU: в половине седьмого
+   57 ES: mañana la
+   58 RU: значит завтра а
+   59 ES: mañana
+   60 RU: Утро. Смысло определяет вся фраза. ¶ Я собираюсь стренироваться завтра.
+   66 ES: voy a entrenar mañana | voy a
+   69 RU: Плюс действие в начальной форме. Разберём с конца. Повторяй.
+   74 ES: entrenar mañana || a entrenar mañana || voy a entrenar mañana || voy a entrenar mañana
+   86 RU: Как сказать, во сколько встречаемся?
+   89 ES: ¿a qué hora quedamos? | quedamos
+   92 RU: Удобно для договоренностей. По частям. С конца.
+   96 ES: ¿hora quedamos? || ¿qué hora quedamos? || ¿a qué hora quedamos? || ¿a qué hora quedamos?
+  107 RU: В половине седьмола.
+  109 ES: a las seis y media
+  110 RU: Буквально шесть с половиной.
+  113 ES: y media || las seis y media || a las seis y media || A las seis y media.
+  124 RU: Ещё раз. Во сколько встречаемся? [P1.9]  [P1.9]
+  129 ES: ¿A qué hora quedamos?
+  130 RU: Нужно сказать, тебе удобно в пятницу.
+  133 ES: ¿Te viene bien el viernes?
+  135 RU: Готовая разговорная конструкция. Повторяй под частям.
+  141 ES: El viernes. || ¿Viene bien el viernes? || ¿Te viene bien el viernes? || ¿Te viene bien el viernes?
+  153 RU: Пятницу я не могу.
+  154 ES: El viernes no puedo.
+  156 RU: Частица
+  157 ES: No.
+  158 RU: ставится прямо перед глаголом.
+  161 ES: ¿Puede? | No puedo. || Viernes no puedo. || ∅ || ∅
+  173 RU: Вспомни, тебе удобно в пятницу. [P1.9]  [P1.9]
+  177 ES: ¿Te viene bien el viernes?
+  179 RU: А теперь, а в субботу утром,
+  181 ES: ¿Y el sábado por la mañana?
+  183 RU: короткий вопрос без повторения всей фразы. Еще раз по кусочкам.
+  189 ES: La mañana. || ∅ || ¿Y el sábado por la mañana? || ∅
+  201 RU: Мы собираемся забронировать Корт.
+  204 ES: Vamos a reservar una pista. | vamos a
+  207 RU: Плюс.
+  208 ES: reservar | una pista a || reservar una pista || vamos a reservar una pista || vamos a reservar una pista el
+  222 RU: Проверим. ¶ В пятницу я не могу. [P1.9]  [P1.9]
+  226 ES: viernes no puedo te
+  228 RU: Скажем, сообщу тебя, когда приеду.
+  231 ES: aviso cuando llegue
+  233 RU: Это готовая продвинутая фраза.
+  235 ES: llegue
+  236 RU: Пока не переносим на другие случаи. Разберём с конца. Повторяй.
+  242 ES: cuando llegue || aviso cuando llegue || Te aviso cuando llegue. || Te aviso cuando llegue.
+  253 RU: Ещё раз. ¶ А в субботу утром. [P1.9]  [P1.9]
+  258 ES: ¿Y el sábado por la mañana?
+  260 RU: Предложи субботу в половине седьмого, и скажи, что собираешься забронировать корт. [P2.5]  [P2.5]
+  267 ES: ¿Te viene bien el sábado a las seis y media? || Voy a reservar una pista.
+  272 RU: Скажи, что в пятницу не можешь и спроси, во сколько встречаетесь. [P2.6]  [P2.6]
+  279 ES: El viernes no puedo. || ¿A qué hora quedamos?
+  282 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  288 ES: ᴮEl viernes imposible tengo cena. | ᴮ¿Qué tal el sábado por la mañana sobre las diez? | ᴮYo reservo la pista.
+  296 RU: Ты услышал в пятницу никак, у меня ужин. Как насчет субботы утром, часов в десять, я забронирую корт. ¶ Время проговаривает целиком, и дождись подтверждения. ¶ Не перепутай половину седьмого и половину шесткового. ¶ До встречи на корте!

@@ -1,0 +1,22 @@
+N Глава 18
+T Тренер: упражнение, обратная связь и нагрузка
+G Цель главы: понимать объяснение тренера и уточнять технику без языкового барьера.
+D B|Vamos a practicar la volea.
+D A|¿Puedes explicarme el ejercicio?
+D B|Sí. Primero mira el movimiento.
+D A|¿Puedes hacerlo más despacio?
+D B|Claro. Después haces diez repeticiones.
+D A|Perfecto. ¿Qué tengo que corregir primero?
+L Основные конструкции уже знакомы: {¿puedes explicarme?} — можешь мне объяснить? {¿Qué tengo que?} — что мне нужно? {Me cuesta} — мне трудно.
+L Сначала попроси показать упражнение, потом сделать медленнее, потом уточни одну деталь. Если больно, скажи прямо и остановись.
+P ¿Puedes explicarme el ejercicio?|Можешь объяснить мне упражнение?|Просим объяснить задачу.
+P ¿Puedes hacerlo más despacio?|Можешь сделать это медленнее?|Просим изменить темп показа.
+P ¿Dónde tengo que colocar los pies?|Куда мне нужно ставить ноги?|Конкретный вопрос вместо «я не понял».
+P Estoy golpeando demasiado tarde.|Я бью слишком поздно.|{Demasiado} значит «слишком».
+P ¿Qué tengo que corregir primero?|Что мне нужно исправить в первую очередь?|Просим выбрать один приоритет.
+P Me duele la rodilla. Necesito parar.|У меня болит колено. Мне нужно остановиться.|Ясно говорим о боли и прекращаем упражнение.
+P ¿Cuántas repeticiones hacemos?|Сколько повторений делаем?|Уточняем объём задания.
+P ¿Qué puedo practicar por mi cuenta?|Что я могу тренировать самостоятельно?|{Por mi cuenta} значит «самостоятельно».
+S Попроси объяснить упражнение, показать его медленнее и назвать первую ошибку, которую нужно исправить.|¿Puedes explicarme el ejercicio? ¿Puedes hacerlo más despacio? ¿Qué tengo que corregir primero?
+V Muy bien, pero estás llegando tarde a la bola. Prepara antes la pala, flexiona un poco las rodillas y golpea delante del cuerpo.|Ты услышал: очень хорошо, но ты опаздываешь к мячу. Готовь ракетку раньше, чуть согни колени и бей перед собой.
+E Цель не в том, чтобы понять каждое слово тренера, а в том, чтобы получить понятное задание. До встречи на корте.

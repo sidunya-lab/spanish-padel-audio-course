@@ -1,0 +1,54 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падл амбассадора, ¶ глава 0.9, ¶ кафе и еда после игры. ¶ Цель главы — заказать еду, уточнить состав и попросить счет. ¶ Сначала послушай разговор, пока просто слушай.
+   18 ES: ᴮHola, ¿qué vais a tomar? | Para mí, | pollo con arroz y agua sin gas. | ᴮ¿Algo más? | Sí, un café con leche, sin azúcar. | ᴮMuy bien. | Y después, la cuenta, por favor.
+   31 RU: В кафе ясность и вежливость важнее сложной грамматики.
+   35 ES: Un café, | por favor.
+   37 RU: Уже работает как заказ. ¶ Для заказа удобно.
+   41 ES: ¿Me pones?
+   42 RU: То есть можешь мне подать? ¶ Это разговорный вариант. Его часто слышно в Испании. ¶ При аллергии... Прямо скажи об этом и уточни состав. Пример про орехи – учебный. ¶ Кофе с молоком, пожалуйста.
+   55 ES: Un café con leche. Por favor,
+   58 RU: Простой заказ – без лишней грамматики. Разберём с конца. Повторяй.
+   63 ES: por favor, || por favor, || un café con leche, | por favor, || un café con leche, por favor,
+   74 RU: Как сказать? Можно мне негазированную воду?
+   78 ES: me pones agua sin gas, | sin gas,
+   80 RU: Значит, без газа. По частям. С конца.
+   85 ES: sin gas, || pones agua sin gas, || me pones agua sin gas. || ¿Me pones agua sin gas?
+   97 RU: Что ты мне посоветуешь?
+   98 ES: ¿Qué me recomiendas?
+  100 RU: Полезно, когда меню незнакомо.
+  103 ES: ¿Miendas? || ¿Comiendas? || ¿Recomiendas? || ¿Me recomiendas? || ¿Qué me recomiendas? || ¿Qué me recomiendas?
+  119 RU: Еще раз. Можно мне негазированную воду. [P1.9]  [P1.9]
+  124 ES: ¿Me pones agua sin gas?
+  126 RU: Нужно сказать, мне курицу с рисом.
+  129 ES: Para mí, pollo con arroz. | Para mí.
+  132 RU: Значит, для меня. Повторяй под частям.
+  136 ES: ᴮArroz, || con arroz, || pollo con arroz, || para mí, | pollo con arroz, || para mí, pollo con arroz,
+  149 RU: Бесахара, пожалуйста.
+  150 ES: sin azúcar, por favor, | sin,
+  153 RU: Значит, без.
+  155 ES: favor, || por favor, || sin azúcar, | por favor, || sin azúcar. Por favor.
+  166 RU: Вспомни, ¶ что ты мне посоветуешь? [P1.9]  [P1.9]
+  170 ES: ¿Qué me recomiendas?
+  172 RU: А теперь, ¶ в этом блюде есть орехи.
+  175 ES: ¿Este plato lleva frutos secos? | ¿Lleva?
+  177 RU: Здесь, значит, содержит еще раз по кусочкам.
+  183 ES: Frutos secos. || ¿Plato lleva frutos secos? || ¿Este plato lleva frutos secos? || ¿Este plato lleva frutos secos?
+  196 RU: У меня аллергия на орехи.
+  198 ES: Tengo alergia a los frutos secos.
+  201 RU: Использую эту фразу, только если это правда.
+  204 ES: frutos secos || a los frutos secos || tengo alergia a los frutos secos || tengo alergia a los frutos secos
+  217 RU: Проверим. ¶ В этом блюде есть орехи. [P1.9]  [P1.9]
+  222 ES: este plato lleva frutos secos
+  225 RU: Скажем. Счёт, пожалуйста.
+  227 ES: la cuenta por favor
+  229 RU: Короткая стандартная просьба. Разберём с конца. Повторяй.
+  234 ES: favor por || favor || la cuenta por favor || La cuenta, por favor.
+  244 RU: Ещё раз. В этом блюде есть орехи. [P1.8]  [P1.8]
+  249 ES: ¿Este plato lleva frutos secos?
+  252 RU: Закажи курицу с рисем и негазированную воду. Потом попроси счет. [P2.5]  [P2.5]
+  258 ES: Para mí, | pollo con arroz y agua sin gas. || La cuenta, por favor.
+  263 RU: Спроси официанта, что он посоветует и закажи кофе с молоком без сахара. [P2.6]  [P2.6]
+  271 ES: ¿Qué me recomiendas? || Un café con leche sin azúcar, por favor.
+  276 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  282 ES: ᴮHoy os recomiendo el pollo con arroz, está buenísimo. | ᴮ¿Y para beber? | ᴮ¿Agua una caña? ᴮ¿Algo sin alcohol?
+  289 RU: Ты услышал? Сегодня советую курицу с рисом. Она отличная. А что пить? воду, маленькое пиво, ∅ что-нибудь безалкогольное. ¶ Учти несколько вариантов заказа, а важные ограничения по здоровью держи отдельно. До встречи на корте!

@@ -1,0 +1,50 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падл амбасадора, глава 24, ¶ итоговый день на испанском. ¶ Цель главы — соединить знакомство, тренировку и общение безпостоянного перевода. ¶ Сначала послуша разговор, пока просто слуша.
+   18 ES: ᴮHola, ᴮes tu primera vez aquí.
+   20 RU: Си.
+   22 ES: Tengo una reserva para las seis. | ᴮ¿Qué quieres trabajar? | Mi revés. || ¿Puedes explicar el ejercicio más despacio? | ᴮClaro. | ᴮPrimero te lo muestro. | Gracias. || Después quiero saber que puedo practicar por mi cuenta.
+   38 RU: Финальная глава проверяет. Можешь ли ты решить несколько настоящих задач знакомыми словами? ¶ Представиться, переспросить, договориться об игре, ¶ понять упражнения и договориться о следующей встрече. ¶ Если не хватает слова, разбей мысль на два коротких предложения. Если не понял, попроси повторить по-испански. Это тоже успешное общение. ¶ Привет, я из России и учу испанский.
+   67 ES: Hola, soy de Rusia y estoy aprendiendo español.
+   71 RU: Сразу объясняем свой уровень. Разберём с конца. Повторяй.
+   76 ES: Diendo. || Prendiendo. || Aprendiendo. || Aprendiendo español. || Y estoy aprendiendo español. || Hola, soy de Rusia y estoy aprendiendo español. || Hola. Soy de Rusia y estoy aprendiendo español.
+   99 RU: Как сказать? ¶ Можешь говорить помедленнее, пожалуйста.
+  103 ES: ¿Puedes hablar más despacio? Por favor.
+  106 RU: так ты управляешь разговором по частям с конца
+  110 ES: ¡Favor! || ¡Por favor! || ¿Puedes hablar más despacio? Por favor. || ¿Puedes hablar más despacio? Por favor.
+  122 RU: у меня бронь на 6
+  123 ES: Tengo una reserva para las 6.
+  126 RU: называем конкретное время
+  128 ES: ¡Las 6! || reserva para las 6 tengo || una reserva para las 6 || tengo una reserva para las 6
+  141 RU: еще раз можешь говорить помедленнее пожалуйста нужно [P1.9]  [P1.9]
+  146 ES: puedes hablar más despacio por favor
+  149 RU: сказать я хочу улучшить удар слева и принятие решений
+  155 ES: quiero mejorar mi revés y la toma de decisiones
+  158 RU: Называем цель тренировки. Повторяй под частям.
+  163 ES: siones || decisiones || decisiones || La toma de decisiones. || Revés y la toma de decisiones. || Quiero mejorar mi revés y la toma de decisiones. || Quiero mejorar mi revés y la toma de decisiones.
+  187 RU: Можешь объяснить, что мне нужно исправить.
+  190 ES: ¿Puedes explicarme que tengo que corregir?
+  192 RU: Просьба и уточнение в допрофазе.
+  195 ES: Carme. || Plicarme. || Explicarme. || ¿Que corregir? || ¿Que tengo que corregir? || ¿Puedes explicarme que tengo que corregir? || ¿Puedes explicarme que tengo que corregir?
+  215 RU: Вспомни, я хочу улучшить удар слева и принятие решений. [P1.8]  [P1.8]
+  221 ES: Quiero mejorar mi revés y la toma de decisiones.
+  224 RU: А теперь, вчера я сыграл матч... А сегодня мне нужно отдохнуть.
+  230 ES: Ayer jugué un partido y hoy necesito descansar.
+  233 RU: Разлечаем прошлое и сегодняшний план. Еще раз по кусочкам.
+  239 ES: ᴮ¿Cito? || ¿Cesito? || Necesito. || Necesito descansar. || Y hoy necesito descansar. || Ayer jugué un partido y hoy necesito descansar. || Ayer jugué un partido y hoy necesito descansar.
+  261 RU: Тебе удобно сыграть завтра утром.
+  264 ES: ¿Te viene bien jugar mañana por la mañana?
+  266 RU: Договариваемся о следующем шаге.
+  269 ES: La mañana. || Mañana por la mañana. || Bien jugar mañana por la mañana. || ¿Te viene bien jugar mañana por la mañana? || ¿Te viene bien jugar mañana por la mañana?
+  286 RU: Проверим. Можешь объяснить, что мне нужно исправить. [P1.9]  [P1.9]
+  292 ES: ¿Puedes explicarme que tengo que corregir?
+  294 RU: Скажем. Спасибо за всё. Остаёмся на связи.
+  298 ES: Gracias por todo. || Seguimos en contacto.
+  302 RU: Завершаем разговор. Разберём с конца. Повторяй.
+  306 ES: Contacto. || En contacto? || Seguimos en contacto. || Gracias por todo. || Seguimos en contacto. || Gracias por todo. || Seguimos en contacto.
+  325 RU: Ещё раз. ¶ Тебе удобно сыграть завтра утром. [P1.9]  [P1.9]
+  330 ES: ¿Te viene bien jugar mañana por la mañana?
+  333 RU: Ты в новом клубе. ¶ Представься. Назови цель тренировки. ¶ Попроси говорить медленнее и договорись сыграть завтра. [P2.5]  [P2.5]
+  346 ES: Hola, soy de Rusia. || Quiero mejorar mi revés. || ¿Puedes hablar más despacio? || ¿Te viene bien jugar mañana?
+  355 RU: Живая речь, так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  361 ES: ᴮBienvenido al club. | ᴮMira, hoy hacemos una hora de técnica y después jugamos unos puntos. | ᴮSi no entiendes algo, me lo dices sin problema.
+  371 RU: Ты услышал, добро пожаловать в клуб. ¶ Смотри, сегодня часть техники. А потом сыграем несколько розыгрышей. ¶ Если что-то непонятно, просто скажи. ¶ Курс закончен. Вернись к трём главам, где ответы давались труднее всего и повтори финальный разговор без подсказок. ¶ До встречи на Корте!

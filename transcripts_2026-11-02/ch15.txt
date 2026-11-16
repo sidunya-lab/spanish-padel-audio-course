@@ -1,0 +1,64 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбассадора, глава 15-я, организация игры и знакомство на корте. ¶ Цель главы — найти партнеров, обсудить уровень, время и бронирование. ¶ Сначала послуша разговор, пока просто слушай.
+   20 ES: ᴮHola, ᴮ¿buscas pareja para jugar?
+   22 RU: Си.
+   23 ES: Tengo un nivel intermedio.
+   25 RU: Иду.
+   26 ES: ᴮYo también. | ᴮ¿Te viene bien a las seis?
+   30 RU: С.
+   31 ES: ¿Cuánto tiempo vamos a jugar? | ᴮUna hora y media. | Perfecto. || ¿Compartimos el coste?
+   38 RU: Теперь применяем базу к поделу. Чтобы предложить игру, говорим
+   43 ES: ᴮ¿Jugamos?
+   44 RU: Сыграем А чтобы найти партнера?
+   48 ES: Busco pareja.
+   50 RU: Уровень лучше называть словами начальной, средней или продвинутой. ¶ Шкалы в разных клубах отличаются. ¶ Сторона корта и удар разные вещи.
+   62 ES: jugar en la derecha
+   63 RU: Играть направо в коронне.
+   64 ES: golpe de derecha
+   66 RU: Удар справа. ¶ Сыграем матч.
+   69 ES: jugamos un partido?
+   71 RU: Короткое приглашение. Разберём с конца. Повторяй.
+   75 ES: partido || un partido || jugamos un partido? || jugamos un partido?
+   85 RU: Как сказать, я ищу партнёра для игны.
+   88 ES: busco pareja para jugar | busco
+   91 RU: Значит, ищу, по частям, с конца.
+   95 ES: para jugar || pareja para jugar || Busco pareja para jugar. || ∅
+  106 RU: У меня средний уровень.
+  108 ES: Tengo un nivel intermedio.
+  110 RU: Нейтральное описание без цифр.
+  113 ES: Medio? || Termedio. || Intermedio. || Nivel intermedio. || Un nivel intermedio. || Tengo un nivel intermedio. || Tengo un nivel intermedio.
+  132 RU: Ещё раз. ¶ Я ищу партнёра для игры. [P1.9]  [P1.9]
+  137 ES: Busco pareja para jugar.
+  139 RU: Нужно сказать, ¶ какой у тебя уровень.
+  142 ES: ¿Qué nivel tienes?
+  144 RU: Уточняем ожидания до игры. Повторяй. По частям.
+  148 ES: Tienes. || ¿Nivel tienes? || ¿Qué nivel tienes? || ¿Qué nivel tienes?
+  158 RU: Я предпочитаю играть справа.
+  160 ES: Prefiero jugar en la derecha.
+  162 RU: Здесь речь о стороне корта, а не об ударе.
+  166 ES: ¿La derecha? || Jugar en la derecha. || Prefiero jugar en la derecha. || Prefiero jugar en la derecha.
+  178 RU: Вспомни, у меня средний уровень. [P1.8]  [P1.8]
+  182 ES: Tengo un nivel intermedio.
+  184 RU: А теперь сколько времени будем играть?
+  187 ES: ¿Cuánto tiempo vamos a jugar?
+  189 RU: Согласуем длительность. Еще раз по кусочкам.
+  194 ES: A jugar. || ¿Tiempo vamos a jugar? || ¿Cuánto tiempo vamos a jugar? || ¿Cuánto tiempo vamos a jugar?
+  206 RU: Я забронировал корт на 6,
+  208 ES: He reservado una pista para las 6. | He reservado.
+  212 RU: сообщая, что броню уже сделана.
+  214 ES: Vado. || Cervado. || Reservado. || Las 6. || Pista para las 6. || He reservado una pista para las 6. || He reservado una pista para las 6.
+  234 RU: Проверим. ¶ Я предпочитаю играть справа. [P1.9]  [P1.9]
+  239 ES: Prefiero jugar en la derecha.
+  241 RU: Скажем, разделим стоимость корта.
+  244 ES: ¿Compartimos el coste de la pista?
+  246 RU: Оплату уточняем заранее. Разберём с конца. Повторяй.
+  251 ES: Timos. || partimos || compartimos || la pista || coste de la pista || compartimos el coste de la pista || ᴮcompartimos el coste de la pista
+  270 RU: Ещё раз. ¶ Сколько времени? Будем играть. [P1.9]  [P1.9]
+  276 ES: ¿cuánto tiempo vamos a jugar?
+  278 RU: Предложи сыграть, назови свой средний уровень и спроси, сколько будете играть. [P2.6]  [P2.6]
+  285 ES: ¿jugamos un partido? || tengo un nivel intermedio || ¿cuánto tiempo vamos a jugar?
+  292 RU: Скажи, что забронировал корт на 6 и предложи разделить стоимость. [P2.6]  [P2.6]
+  298 ES: He reservado una pista para las 6. || ¿Compartimos el coste?
+  303 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  309 ES: ᴮNos falta uno para el partido de las 7. | ᴮ¿Te animas? | ᴮSomos de nivel medio, nada serio, jugamos para pasarlo bien.
+  317 RU: Ты услышал? Нам не хватает одного на матч в 7. Присоединишься? У нас средний уровень, ничего серьёзного. Играем для удовольствия. ¶ Перед матчем согласуют четыре вещи. ¶ Уровень, время, длительность и оплату. До встречи на Корте!

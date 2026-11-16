@@ -1,0 +1,62 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создана для подел «Амбасадора». [P2.3] Глава 14. ¶ Рассказ о себе, городах и интересах. ¶ Цель главы — поддержать разговор не только о корти. ¶ Сначала послушай разговор. Пока просто слушай.
+   20 ES: ᴮ¿Por qué estudias español? | Para comunicarme mejor y conocer gente nueva. | ᴮ¿Te gusta viajar?
+   26 RU: Си.
+   27 ES: Paso tiempo en distintos países. | ᴮ¿Y qué haces en tu tiempo libre? | Juego al padre y escucho audiolibros.
+   34 RU: Короткий рассказ складывается из трех частей. Откуда ты? Чем занимаешься? И что тебе нравится? ¶ Союз
+   41 ES: Y.
+   42 RU: соединяет факт,
+   43 ES: Pero,
+   44 RU: то есть Но ¶ вводит контраст.
+   47 ES: ¿por qué?
+   48 RU: Потому что объясняет причину. ¶ Личное мнение удобно выражать через
+   54 ES: Prefiero.
+   54 RU: Я предпочитаю ИЕ.
+   57 ES: Me parece. ∅
+   59 RU: Я из России и мне нравится путешествовать.
+   62 ES: Soy de Rusia y me gusta viajar.
+   64 RU: Союз
+   65 ES: Y
+   66 RU: соединяет две мысли. Разберём с конца. Повторяй.
+   71 ES: gusta viajar || y me gusta viajar. || De Rusia y me gusta viajar. || Soy de Rusia y me gusta viajar. || Soy de Rusia y me gusta viajar. Soy de Rusia y me gusta viajar.
+   88 RU: Как сказать, я провожу время в разных странах.
+   92 ES: Paso tiempo en distintos países. | ∅
+   95 RU: Разные страны. по частям. С конца.
+  100 ES: ∅ || ∅ || ∅ || ∅
+  115 RU: Падал важная часть моей жизни.
+  117 ES: El pádel es una parte importante de mi vida.
+  120 RU: Длинную фразу разбивай на смысловые группы.
+  124 ES: ∅ || portante || importante importante || de mi vida || una parte importante de mi vida || el pádel es una parte importante de mi vida || el pádel es una parte importante de mi vida
+  146 RU: Ещё раз. Я из России, и мне нравится путешествовать. [P1.9]  [P1.9]
+  152 ES: soy de Rusia y me gusta viajar
+  155 RU: Нужно сказать, мне нравится знакомиться с новыми людьми.
+  159 ES: me gusta conocer gente nueva | conocer gente
+  162 RU: Знакомиться с людьми, повторяй по частям.
+  167 ES: gente nueva || gusta conocer gente nueva me || gusta conocer gente nueva me || gusta conocer gente nueva
+  180 RU: Я учу испанский, чтобы лучше общаться.
+  184 ES: estoy aprendiendo español para comunicarme mejor | pe
+  188 RU: Плюс действие передает цель.
+  191 ES: carme || comunicarme || ∅ || Comunicarme mejor. || Español para comunicarme mejor. || Estoy aprendiendo español para comunicarme mejor. || ∅
+  214 RU: Вспомни, подел важная часть моей жизни. [P1.9]  [P1.9]
+  219 ES: El pádel es una parte importante de mi vida.
+  222 RU: А теперь я предпочитаю города с хорошим климатом.
+  226 ES: Prefiero las ciudades con buen clima.
+  229 RU: Это личное предпочтение, а не общая оценка. Ещё раз по кусочкам.
+  235 ES: Buen clima. || Ciudades con buen clima. || Prefiero las ciudades con buen clima. || Prefiero las ciudades con buen clima.
+  249 RU: Москва и Санкт-Петербург кажутся мне интересными.
+  253 ES: Moscú y San Petersburgo me parecen interesantes. | Me parecen
+  257 RU: Вражает твоё впечатление.
+  259 ES: Santes || Teresantes || Interesantes || ¿Parecen interesantes? || Petersburgo me parecen interesantes. || Moscú y San Petersburgo me parecen interesantes. || Moscú y San Petersburgo me parecen interesantes.
+  284 RU: Проверим. ¶ Я предпочитаю города с хорошим климатом. [P1.8]  [P1.8]
+  290 ES: Prefiero las ciudades con buen clima.
+  292 RU: Скажем, что тебе нравится делать вне корта?
+  296 ES: ¿Qué te gusta hacer fuera de la pista?
+  299 RU: Открытый вопрос помогает продолжить разговор. Разберём с конца. Повторяй.
+  305 ES: La pista. || ¿Fuera de la pista? || ¿Gusta hacer fuera de la pista? || ¿Que te gusta hacer fuera de la pista? || ¿Que te gusta hacer fuera de la pista?
+  321 RU: Ещё раз. ¶ Я предпочитаю города с хорошим климатом. [P1.9]  [P1.9]
+  328 ES: Prefiero las ciudades con buen clima.
+  331 RU: Скажи откуда ты? Назови одно увлечение и зачем учишь испанский. Потом задай вопрос собеседнику. [P2.6]  [P2.6]
+  341 ES: Soy de Rusia. || Me gusta jugar al pastel. || Estudio español para comunicarme mejor. || ¿Qué te gusta hacer?
+  350 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  356 ES: ᴮPues yo soy de Valencia, pero vivo en Madrid por trabajo. | ᴮFuera de la pista me encanta cocinar y salir con los amigos.
+  363 RU: Ты услышал, а я из Валенсии, но живу в Мадриде из-за работы. ¶ Вне корта... Обожаю готовить и гулять с друзьями. ¶ Составь свою версию рассказа из трёх предложений и меняй детали под ситуацию. До встречи на Корте!

@@ -1,0 +1,24 @@
+N Глава 13
+T Как рассказать о вчерашнем дне
+G Цель главы: коротко рассказать о прошедшем матче и отличать вчерашний день от сегодняшнего.
+D B|¿Qué hiciste ayer?
+D A|Fui al club y jugué un partido.
+D B|¿Ganasteis?
+D A|Ganamos el primer set, pero perdimos el partido.
+D B|¿Y hoy?
+D A|Hoy he entrenado una hora.
+L Это первая глава с прошедшим временем, поэтому новых форм немного. {Ayer} значит «вчера», {ayer entrené} — вчера я тренировался.
+L У многих глаголов на {ar} форма «я» в прошедшем заканчивается на ударное «э»: {entrené, jugué}. Но есть особые формы: {fui} — я поехал, {estuve} — я был.
+L Про сегодняшний день в Испании часто говорят иначе: {hoy he entrenado} — сегодня я потренировался.
+P Ayer entrené una hora.|Вчера я тренировался час.|{Ayer} задаёт завершённый вчерашний период.
+P Ayer jugué un partido.|Вчера я сыграл матч.|{Jugué} — прошедшая форма от {jugar}.
+P Ganamos el primer set.|Мы выиграли первый сет.|Из контекста понятно, что матч уже закончился.
+P Perdimos el segundo set.|Мы проиграли второй сет.|{Perdimos} — мы проиграли.
+P Fui al club por la tarde.|Я поехал в клуб во второй половине дня.|{Fui} — особая прошедшая форма глагола {ir}.
+P Estuve en Madrid la semana pasada.|На прошлой неделе я был в Мадриде.|{Estuve} описывает пребывание в законченный период.
+P Hoy he entrenado.|Сегодня я потренировался.|{He entrenado} — частый вариант в Испании.
+P Nunca he estado en esa academia.|Я никогда не был в этой академии.|Это фраза про опыт до сегодняшнего дня.
+S Расскажи: вчера я поехал в клуб, сыграл матч и выиграл первый сет.|Ayer fui al club. Jugué un partido y ganamos el primer set.
+S Скажи, что сегодня ты тренировался час.|Hoy he entrenado una hora.
+V Ayer jugamos un partidazo. Ganamos el primer set seis a cuatro, pero en el segundo nos remontaron y al final perdimos.|Ты услышал: вчера мы сыграли классный матч. Первый сет выиграли шесть — четыре, но во втором нас догнали, и в итоге мы проиграли.
+E Сначала уверенно выучи несколько нужных форм. Остальные прошедшие времена придут позже. До встречи на корте.

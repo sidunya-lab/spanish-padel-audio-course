@@ -1,0 +1,54 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал амбасадора. ¶ Глава 18. ¶ Тренер. Упражнение. Обратная связь и нагрузка. ¶ Цель главы — понимать объяснение тренера и уточнять технику без языкового барьера. ¶ Сначала послушай разговор, пока просто слушай.
+   21 ES: ᴮVamos a practicar la bolea. | ¿Puedes explicarme el ejercicio? | ᴮSí. | ᴮPrimero mira el movimiento. | ¿Puedes hacerlo más despacio? | ᴮClaro. | ᴮDespués haces diez repeticiones. | Perfecto. || ¿Que tengo que corregir primero?
+   38 RU: Основные конструкции уже знакомы.
+   41 ES: ¿Puedes explicarme?
+   42 RU: Можешь мне объяснить?
+   43 ES: ¿que tengo que?
+   44 RU: Что мне нужно?
+   46 ES: me cuesta
+   47 RU: Мне трудно. ¶ Сначала попроси показать упражнения, потом сделать медленнее, потом уточни одну деталь. Если больно, скажи прямо и остановись. ¶ Можешь объяснить неупражнение?
+   62 ES: ¿puedes explicarme el ejercicio?
+   64 RU: Просим объяснить задачу. Разберём с конца. Повторяй.
+   68 ES: carme || plicarme || explicarme || el ejercicio || explicarme el ejercicio || ¿puedes explicarme el ejercicio? || ¿puedes explicarme el ejercicio?
+   89 RU: Как сказать, можешь сделать это медленнее.
+   92 ES: ¿Puedes hacerlo más despacio?
+   94 RU: Просим изменить темп показа. По частям. С конца.
+   99 ES: Más despacio || Hacerlo más despacio || ¿Puedes hacerlo más despacio? || ¿Puedes hacerlo más despacio?
+  112 RU: Куда мне нужно ставить ноги?
+  114 ES: ¿Dónde tengo que colocar los pies?
+  117 RU: конкретный вопрос, вместо я не понял.
+  120 ES: Los pies ¿Qué || colocar los pies? || ¿Dónde tengo que colocar los pies? || ¿Donde tengo que colocar los pies?
+  133 RU: Ещё раз. ¶ Можешь сделать это медленнее. [P1.9]  [P1.9]
+  139 ES: ¿Puedes hacerlo más despacio?
+  141 RU: Нужно сказать, ¶ я бью слишком поздно,
+  144 ES: ¿Estoy golpeando demasiado tarde? | Demasiado.
+  147 RU: значит слишком. Повторяй под частям.
+  151 ES: Seado. || Maseado. || Demasiado. || Demasiado tarde. || Golpeando demasiado tarde. || ¿Estoy golpeando demasiado tarde? || ∅
+  172 RU: Что мне нужно исправить в первую очередь?
+  174 ES: ¿Que tengo que corregir primero?
+  176 RU: Просим выбрать один приоритет.
+  178 ES: Corregir primero. || Tengo que corregir primero. || ¿Que tengo que corregir primero? || ¿Que tengo que corregir primero?
+  192 RU: Вспомни, куда мне нужно ставить ноги? [P1.9]  [P1.9]
+  197 ES: ¿Donde tengo que colocar los pies?
+  199 RU: А теперь, ¶ у меня болит колено. Мне нужно остановиться.
+  204 ES: Me duele la rodilla. || Necesito parar.
+  207 RU: Ясно говорим о боли и прекращаем упражнение. Еще раз по кусочкам.
+  214 ES: ᴮ∅ || ∅ || Necesito parar. || ∅ | ∅ || Me duele la rodilla. || ∅ || ∅ || ∅
+  235 RU: Сколько повторений делаем?
+  236 ES: ᴮ¿Cuántas repeticiones hacemos?
+  239 RU: уточняем объём задания.
+  241 ES: Ciones || Peticiones || Repeticiones || Hacemos || Repeticiones hacemos || ᴮ¿Cuántas repeticiones hacemos? || ᴮ¿Cuántas repeticiones hacemos?
+  261 RU: Проверим, что мне нужно исправить в первую очередь. [P1.9]  [P1.9]
+  267 ES: ¿Que tengo que corregir primero?
+  269 RU: Скажем, что я могу тренировать самостоятельно.
+  273 ES: ¿Que puedo practicar por mi cuenta? | ¡Por mi cuenta!
+  276 RU: Значит, самостоятельно. Разберём с конца. Повторяй.
+  281 ES: ¡Mi cuenta! || ¡Practicar por mi cuenta! || ¿Que puedo practicar por mi cuenta? || ¿Que puedo practicar por mi cuenta?
+  293 RU: Ещё раз. Сколько повторяй, не делай. [P1.8]  [P1.8]
+  297 ES: ¿Cuántas repeticiones hacemos?
+  299 RU: Попроси объяснить упражнения, показать его медленнее и назвать первую ошибку, которую нужно исправить. [P2.6]  [P2.6]
+  308 ES: ¿Puedes explicarme el ejercicio? || ¿Puedes hacerlo más despacio? || ¿Que tengo que corregir primero?
+  315 RU: Живая речь, так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  321 ES: ᴮMuy bien, pero estás llegando tarde a la bola. | ᴮPrepara antes la pala, flexiona un poco las rodillas y golpea delante del cuerpo.
+  329 RU: Ты услышал, очень хорошо, но ты опаздываешь к мячу. ¶ Готовь ракетку раньше. Чуть с огни колени и бей перед собой. ¶ Цель не в том, чтобы понять каждое слово тренера, а в том, чтобы получить понятное задание. До встречи на корте!

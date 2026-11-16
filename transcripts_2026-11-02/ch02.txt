@@ -1,0 +1,66 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для поделом бассадора глава 0-2. Сэр и Стар. Кто я, где я, как я. ¶ Цель главы. ¶ Разлечать, когда мы говорим, кто человек, где он находится и в каком он состоянии. ¶ Сначала послушай разговор. Пока просто слушай.
+   21 ES: Hola, ¿eres el entrenador? | ᴮSí, soy el entrenador. | ᴮ¿Estás listo?
+   26 RU: C
+   27 ES: Estoy listo. || ¿La pista está libre? | ᴮSí, está libre. | Perfecto. || Estoy un poco cansado. | ᴮNo pasa nada. | ᴮEmpezamos despacio.
+   39 RU: Для знакомства и происхождения используем
+   42 ES: Soy.
+   43 RU: Для места и состояния пряно сейчас используем
+   47 ES: Estoy.
+   49 RU: Сравни три фразы Я игрок Я на корте Я устал ¶ В первую мы называем роль, во второе место В третьей состоянии. ¶ Формы меняются вместе с лицом.
+   61 ES: Soy, eres, es y estoy, estás, está.
+   65 RU: Всю таблицу сегодня не учим. ¶ Я игрок впадал.
+   69 ES: Soy jugador de Padel.
+   71 RU: Это представление себя. Кто я и чем занимаюсь? Разберём с конца. Повторяй.
+   78 ES: De Padel. || Jugador de Padel. || Soy jugador de Padel. || Soy jugador de Padel.
+   90 RU: Как сказать, я из России.
+   92 ES: Soy de Rusia.
+   94 RU: Это происхождение, а не место где-то сейчас, по частям, с конца.
+  100 ES: Rusia. || De Rusia. || Soy de Rusia, || soy de Rusia,
+  109 RU: Я в клубе.
+  111 ES: estoy en el club,
+  112 RU: Здесь речь о том, где ты находишься прямо сейчас.
+  116 ES: el club, || en el club, || estoy en el club, || estoy en el club,
+  125 RU: Ещё раз. Я игрок в падл. [P1.9]  [P1.9]
+  129 ES: soy jugador de padel,
+  131 RU: Нужно сказать, я устал.
+  134 ES: estoy cansado,
+  136 RU: это состояние женщина скажет
+  138 ES: cansada,
+  139 RU: повторяй под шестям
+  141 ES: cansado, || estoy cansado. || Estoy cansado.
+  149 RU: ты готов
+  150 ES: ¿Estás listo?
+  152 RU: вопрос о готовности прямо сейчас к ¶ женщине обращаются
+  157 ES: ¿Estás lista? | ¿Listo? || ¿Estás listo? || ¿Estás listo?
+  164 RU: вспомни я в клубе [P1.9]  [P1.9]
+  168 ES: Estoy en el club.
+  169 RU: а теперь тренер испанец
+  172 ES: El entrenador es español.
+  174 RU: Национальность человека выражаем через
+  176 ES: Es
+  177 RU: еще раз по кусочкам.
+  180 ES: nador. || Trenador. || Entrenador. || Es español. || Entrenadores español. || El entrenador es español. || El entrenador es español.
+  199 RU: Корт свободен.
+  200 ES: La pista está libre.
+  202 RU: Говорим о том, свободен ли корт сейчас, поэтому... ∅
+  206 ES: Está libre. || Pista está libre. || La pista está libre. || La pista está libre.
+  217 RU: Проверим. Ты готов. [P1.8]  [P1.8]
+  221 ES: ¿Estás listo?
+  223 RU: Скажем, матч в шесть.
+  225 ES: El partido es a las 6.
+  227 RU: Время события. Выражаем Через
+  230 ES: Es.
+  230 RU: Аннет Через
+  231 ES: Está.
+  232 RU: Разберём с конца Повторяй
+  235 ES: Las seis. || Es a las seis. || El partido es a las seis. || El partido es a las seis.
+  246 RU: Ещё раз Тренер Испанец [P1.8]  [P1.8]
+  250 ES: El entrenador es español.
+  252 RU: Скажи, что ты игрок впадал И часто в клубе, и ты готов [P2.5]  [P2.5]
+  258 ES: Soy jugador de Padel. || Estoy en el club. || Estoy listo.
+  264 RU: Спроси, свободен лекорд И скажи, что матч в шесть [P2.6]  [P2.6]
+  270 ES: ¿La pista está libre? || El partido es a las 6.
+  274 RU: Живая речь Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  280 ES: ᴮOye, estás listo. | ᴮLa pista 2 está libre, pero el partido es a las 6, ¿vale?
+  286 RU: Ты услышал? Слушай, ты готов? Второй корт свободен? Но матч в шесть, хорошо? ¶ Проверяй смысл. Кто это? Где это? И в каком состоянии? ¶ До встречи на корте.

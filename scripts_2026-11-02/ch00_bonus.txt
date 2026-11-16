@@ -1,0 +1,30 @@
+N Бонусная глава
+T Hello Padel Academy в Дубае
+G Цель главы: познакомиться с основателем академии Маури Андрини, рассказать о себе и задать ему пару вопросов на испанском.
+D A|Hola, Mauri. Encantado de conocerte.
+D B|¡Hola! Encantado. ¿De dónde eres?
+D A|Soy de Rusia, pero vivo en Dubái.
+D B|¡Qué bien! ¿Y por qué haces el curso?
+D A|Quiero aprender a enseñar pádel.
+D B|Perfecto. Vamos a la pista.
+L Немного о Маури. Его полное имя Маурисио Андрини, он аргентинец из города Пеуахо. Там он начал играть в падел в шесть лет, в одно время и в одном месте с Беластегином.
+L В тысяча девятьсот девяносто восьмом и двухтысячном годах он вместе с Франсиско Северо выигрывал юниорский чемпионат мира.
+L Потом жил в Лондоне. Четыре года был первым номером Великобритании и несколько лет тренировал мужскую сборную. Сейчас академия Hello Padel базируется в Барселоне, а управляет академией его жена.
+L Важная деталь про речь. Маури аргентинец. Вместо {tú eres} аргентинцы часто говорят {vos sos}, а вместо {tú puedes} говорят {vos podés}. Звук, который в Испании похож на русское «й», аргентинцы произносят почти как «ш». Если услышишь непривычное, это просто аргентинский вариант.
+P Hola, Mauri. Encantado de conocerte.|Привет, Маури. Рад познакомиться.|{Encantado} говорит мужчина. Женщина сказала бы {encantada}.
+P Soy de Rusia, pero vivo en Dubái.|Я из России, но живу в Дубае.|{Pero} значит «но». {Vivo} — я живу.
+P Estoy aquí para el curso Bronze.|Я здесь на курсе Bronze.|{Estoy aquí} — я здесь. А слово {para} здесь показывает цель.
+P Quiero aprender a enseñar pádel.|Я хочу научиться преподавать падел.|{Aprender} — учиться, {enseñar} — учить других. После {aprender} идёт короткое {a}, а потом второй глагол.
+P Sé que eres de Pehuajó, como Bela.|Я знаю, что ты из Пеуахо, как Бела.|{Sé} — я знаю. {Como} здесь значит «как».
+P ¿Cómo empezaste a jugar al pádel?|Как ты начал играть в падел?|{Empezaste} — ты начал. Это прошедшее время. Пока запомни целиком.
+P ¿Qué es lo más importante para un entrenador?|Что самое важное для тренера?|{Lo más importante} — самое важное. {Entrenador} по-русски значит «тренер».
+P ¿Puedes explicarlo otra vez?|Можешь объяснить это ещё раз?|{Otra vez} — ещё раз. Аргентинец сказал бы {podés}.
+P Muchas gracias por la clase. He aprendido mucho.|Большое спасибо за занятие. Я многому научился.|{He aprendido} — я научился, {mucho} — много.
+P ¿Podemos hacernos una foto?|Можем сфотографироваться?|{Hacernos una foto} — сделать фото вместе.
+L Несколько слов, которые услышишь на корте. {Calentamiento} — разминка, по-английски warm-up. {Ejercicio} — упражнение, drill. {Bajar la bola} — опустить мяч, сыграть низко. {Bolea} — удар с лёта. {Primero calentamos, después un ejercicio de bolea.}
+S Представься Маури: скажи, что ты из России, живёшь в Дубае и хочешь научиться преподавать падел.|Hola, Mauri. Soy de Rusia, pero vivo en Dubái. Quiero aprender a enseñar pádel.
+S Спроси его, как он начал играть в падел.|¿Cómo empezaste a jugar al pádel?
+S Поблагодари за занятие и попроси сфотографироваться.|Muchas gracias por la clase. ¿Podemos hacernos una foto?
+V Empecé a jugar a los seis años en Pehuajó, el pueblo de Bela. Ahora vivo en Barcelona.|Маури мог бы ответить так: я начал играть в шесть лет в Пеуахо, в городке Белы. Сейчас я живу в Барселоне.
+V Bueno, chicos, primero calentamos, después hacemos un ejercicio de volea y al final jugamos puntos.|Тренер говорит: ребята, сначала разминка, потом упражнение на удар с лёта, а в конце играем розыгрыши.
+E Отлично. Курс проходит девятого, десятого и одиннадцатого ноября в Danube Sport. Повтори эту главу пару раз до поездки. Увидимся на корте.

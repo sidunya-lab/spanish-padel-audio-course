@@ -1,0 +1,24 @@
+N Глава 02
+T Ser и estar: кто я, где я, как я
+G Цель главы: различать, когда мы говорим, кто человек, где он находится и в каком он состоянии.
+D A|Hola, ¿eres el entrenador?
+D B|Sí, soy el entrenador. ¿Estás listo?
+D A|Sí, estoy listo. ¿La pista está libre?
+D B|Sí, está libre.
+D A|Perfecto. Estoy un poco cansado.
+D B|No pasa nada. Empezamos despacio.
+L Для знакомства и происхождения используем {soy}. Для места и состояния прямо сейчас используем {estoy}.
+L Сравни три фразы: я игрок, я на корте, я устал. В первой мы называем роль, во второй место, в третьей состояние.
+L Формы меняются вместе с лицом: {soy, eres, es y estoy, estás, está}. Всю таблицу сегодня не учим.
+P Soy jugador de pádel.|Я игрок в падел.|Это представление себя: кто я и чем занимаюсь.
+P Soy de Rusia.|Я из России.|Это происхождение, а не место, где ты сейчас.
+P Estoy en el club.|Я в клубе.|Здесь речь о том, где ты находишься прямо сейчас.
+P Estoy cansado.|Я устал.|Это состояние. Женщина скажет {cansada}.
+P ¿Estás listo?|Ты готов?|Вопрос о готовности прямо сейчас. К женщине обращаются {¿estás lista?}.
+P El entrenador es español.|Тренер испанец.|Национальность человека выражаем через {es}.
+P La pista está libre.|Корт свободен.|Говорим о том, свободен ли корт сейчас, поэтому {está}.
+P El partido es a las seis.|Матч в шесть.|Время события выражаем через {es}, а не через {está}.
+S Скажи, что ты игрок в падел, сейчас в клубе и ты готов.|Soy jugador de pádel. Estoy en el club. Estoy listo.
+S Спроси, свободен ли корт, и скажи, что матч в шесть.|¿La pista está libre? El partido es a las seis.
+V Oye, ¿estás listo? La pista dos está libre, pero el partido es a las seis, ¿vale?|Ты услышал: слушай, ты готов? Второй корт свободен, но матч в шесть, хорошо?
+E Проверяй смысл: кто это, где это и в каком состоянии. До встречи на корте.

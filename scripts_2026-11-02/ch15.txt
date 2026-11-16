@@ -1,0 +1,24 @@
+N Глава 15
+T Организация игры и знакомство на корте
+G Цель главы: найти партнёров, обсудить уровень, время и бронирование.
+D B|Hola, ¿buscas pareja para jugar?
+D A|Sí. Tengo un nivel intermedio. ¿Y tú?
+D B|Yo también. ¿Te viene bien a las seis?
+D A|Sí. ¿Cuánto tiempo vamos a jugar?
+D B|Una hora y media.
+D A|Perfecto. ¿Compartimos el coste?
+L Теперь применяем базу к паделу. Чтобы предложить игру, говорим {¿jugamos?} — сыграем? А чтобы найти партнёра: {busco pareja}.
+L Уровень лучше называть словами: начальный, средний или продвинутый. Шкалы в разных клубах отличаются.
+L Сторона корта и удар — разные вещи. {Jugar en la derecha} — играть на правой половине. {Golpe de derecha} — удар справа.
+P ¿Jugamos un partido?|Сыграем матч?|Короткое приглашение.
+P Busco pareja para jugar.|Я ищу партнёра для игры.|{Busco} значит «ищу».
+P Tengo un nivel intermedio.|У меня средний уровень.|Нейтральное описание без цифр.
+P ¿Qué nivel tienes?|Какой у тебя уровень?|Уточняем ожидания до игры.
+P Prefiero jugar en la derecha.|Я предпочитаю играть справа.|Здесь речь о стороне корта, а не об ударе.
+P ¿Cuánto tiempo vamos a jugar?|Сколько времени будем играть?|Согласуем длительность.
+P He reservado una pista para las seis.|Я забронировал корт на шесть.|{He reservado} сообщает, что бронь уже сделана.
+P ¿Compartimos el coste de la pista?|Разделим стоимость корта?|Оплату уточняем заранее.
+S Предложи сыграть, назови свой средний уровень и спроси, сколько будете играть.|¿Jugamos un partido? Tengo un nivel intermedio. ¿Cuánto tiempo vamos a jugar?
+S Скажи, что забронировал корт на шесть, и предложи разделить стоимость.|He reservado una pista para las seis. ¿Compartimos el coste?
+V Nos falta uno para el partido de las siete. ¿Te animas? Somos de nivel medio, nada serio, jugamos para pasarlo bien.|Ты услышал: нам не хватает одного на матч в семь. Присоединишься? У нас средний уровень, ничего серьёзного, играем для удовольствия.
+E Перед матчем согласуй четыре вещи: уровень, время, длительность и оплату. До встречи на корте.

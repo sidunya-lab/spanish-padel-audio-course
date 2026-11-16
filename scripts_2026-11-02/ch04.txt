@@ -1,0 +1,23 @@
+N Глава 04
+T Повседневные действия: глаголы на ar
+G Цель главы: рассказать, что ты делаешь, и задать тот же вопрос собеседнику.
+D A|¿Entrenas todos los días?
+D B|No, entreno tres días a la semana.
+D A|¿Trabajas por la mañana?
+D B|Sí. Entreno por la tarde.
+D A|¿Entrenamos juntos mañana?
+D B|Sí, perfecto.
+L Возьмём глагол {hablar}, говорить. Убираем окончание и добавляем новое. {Hablo} — я говорю, {hablas} — ты говоришь, {habla} — он говорит, {hablamos} — мы говорим.
+L Так меняются многие, но не все глаголы на {ar}. Например, {jugar}, играть, меняется иначе.
+P Hablo español.|Я говорю по-испански.|Из {hablar} получается {hablo}.
+P ¿Hablas inglés?|Ты говоришь по-английски?|Окончание {as} показывает обращение на «ты».
+P Entreno por la mañana.|Я тренируюсь утром.|{Por la mañana} значит «утром».
+P ¿Entrenas todos los días?|Ты тренируешься каждый день?|{Todos los días} значит «каждый день».
+P Trabajo por la tarde.|Я работаю во второй половине дня.|{Por la tarde} — это вторая половина дня и ранний вечер.
+P Descanso los domingos.|Я отдыхаю по воскресеньям.|{Los domingos} — по воскресеньям, то есть регулярно.
+P Entrenamos juntos.|Мы тренируемся вместе.|Окончание {amos} обозначает «мы».
+P El entrenador explica el ejercicio.|Тренер объясняет упражнение.|Для «он» и «она» окончание {a}, поэтому {explica}.
+S Скажи, что говоришь по-испански и тренируешься утром. Спроси партнёра, тренируется ли он каждый день.|Hablo español. Entreno por la mañana. ¿Entrenas todos los días?
+S Предложи потренироваться вместе завтра.|¿Entrenamos juntos mañana?
+V Yo trabajo por la mañana y entreno por la tarde, casi todos los días. Los domingos descanso, claro.|Ты услышал: я работаю утром, а тренируюсь во второй половине дня, почти каждый день. По воскресеньям, конечно, отдыхаю.
+E Держи в памяти четыре формы: {hablo, hablas, habla, hablamos}. До встречи на корте.

@@ -1,0 +1,24 @@
+N Глава 05
+T Comer, vivir, ir: еда, жизнь и движение
+G Цель главы: рассказывать о простых привычках и запомнить несколько особых форм.
+D A|¿Dónde vives?
+D B|Vivo en Dubái. Ahora estoy en Madrid.
+D A|¿Adónde vas?
+D B|Voy al club. ¿Vienes conmigo?
+D A|Sí. ¿Comemos después?
+D B|Perfecto.
+L У глаголов на {er e ir} форма «я» тоже заканчивается на «о». {Comer}, есть, даёт {como}. {Vivir}, жить, даёт {vivo}.
+L Отдельно запомним частый глагол {ir}, идти или ехать. Его форма «я» звучит {voy}, а форма «мы» звучит {vamos}.
+L Сочетание {a y el} сливается в {al}. Поэтому «я иду в клуб» звучит {voy al club}.
+P Vivo en Dubái.|Я живу в Дубае.|Если живёшь в другом месте, просто замени город.
+P ¿Dónde vives?|Где ты живёшь?|{Vives} — это форма «ты» от глагола {vivir}.
+P Como después del partido.|Я ем после матча.|{Después de} значит «после». Сочетание {de y el} сливается в {del}.
+P Bebo agua.|Я пью воду.|Глагол {beber}, пить, в форме «я» звучит {bebo}.
+P ¿Comemos juntos?|Поедим вместе?|Форма «мы» здесь работает как предложение.
+P Voy al club.|Я иду в клуб.|{Voy} — особая форма глагола {ir}.
+P Vamos a casa.|Мы идём домой.|{Vamos} значит «мы идём» или «мы едем».
+P ¿Vienes conmigo?|Ты пойдёшь со мной?|{Vienes} происходит от другого глагола, {venir}. Пока учим готовый вопрос.
+S Скажи, что идёшь в клуб, и предложи поесть вместе после матча.|Voy al club. ¿Comemos juntos después del partido?
+S Спроси, где живёт собеседник, и скажи, где живёшь ты.|¿Dónde vives? Yo vivo en Dubái.
+V Mira, yo vivo cerca del club. Después del partido vamos a comer algo, ¿vienes con nosotros?|Ты услышал: смотри, я живу рядом с клубом. После матча мы идём что-нибудь поесть, пойдёшь с нами?
+E Не путай, где ты живёшь и где ты сейчас. {Vivo} — место жительства. {Estoy} — где ты находишься. До встречи на корте.

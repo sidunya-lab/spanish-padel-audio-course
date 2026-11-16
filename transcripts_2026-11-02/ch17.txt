@@ -1,0 +1,58 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создана для падал амбассадора. [P3.1] Глава 17. Команды партнеру и простая тактика. ¶ Цель главы — понимать короткие сигналы и договариваться между розыгрышами. ¶ Сначала послуша разговор, пока просто слуша.
+   20 ES: ᴮ¿Qué hacemos ahora? | Jugamos al medio y subimos juntos. | ᴮVale. | ᴮYo cubro la derecha. | Perfecto. || Vamos punto a punto. | ᴮPerdón, ha sido culpa mía. | No pasa nada. Seguimos.
+   35 RU: Во время розыгрыша длинные предложения мешают. Нужны короткие сигналы.
+   40 ES: Mía.
+   41 RU: Моя.
+   41 ES: Tuye.
+   42 RU: Твоя.
+   43 ES: Cuidado.
+   43 RU: Осторожно. ¶ После розыгрыша тактику обсуждаем полными фразами. Команды.
+   51 ES: sube y quédate,
+   52 RU: Пока учим готовыми. ¶ Моя.
+   55 ES: mía,
+   56 RU: Короткий сигнал. Этот мяч беру. я разберем с конца повторяй
+   63 ES: mía, || mía,
+   66 RU: как сказать твоя
+   68 ES: tuya,
+   69 RU: сигнал партнеру что мяч его по частям с конца
+   73 ES: tuya, | tuya,
+   76 RU: осторожно
+   77 ES: cuidado,
+   78 RU: предупреждение о котором договариваются заранее
+   81 ES: cuidado, || cuidado,
+   84 RU: еще раз твоя [P1.9]  [P1.9]
+   88 ES: tuya,
+   89 RU: нужно сказать Выходим вперёд вместе.
+   93 ES: subimos juntos,
+   95 RU: Договоренность о совместном движении. Повторяй по частям.
+  100 ES: juntos, || subimos juntos, || subimos juntos.
+  108 RU: Останься сзади.
+  110 ES: quédate atrás,
+  111 RU: Готовая форма команды.
+  113 ES: atrás, || quédate atrás, || quédate atrás,
+  120 RU: Вспомни. ¶ Осторожно. [P1.9]  [P1.9]
+  124 ES: cuidado,
+  125 RU: А теперь играем в середину.
+  128 ES: jugamos al medio,
+  130 RU: Короткое тактическое предложение. Еще раз по кусочкам.
+  135 ES: medio, || al medio, || jugamos al medio, || jugamos al medio,
+  144 RU: Идем очко за очком.
+  146 ES: vamos punto a punto,
+  148 RU: Поддержка без разговоров о счете.
+  151 ES: a punto. || punto a punto || vamos punto a punto || vamos punto a punto
+  162 RU: Проверим, играем в середину. [P1.9]  [P1.9]
+  166 ES: jugamos al medio
+  167 RU: Скажем, ничего страшного. Продолжаем.
+  171 ES: no pasa nada, seguimos
+  173 RU: Фраза после ошибки партнера. Разберём с конца. Повторяй.
+  178 ES: no pasa nada, seguimos || no pasa nada, seguimos
+  184 RU: Ещё раз. Идём очко за очком. [P1.9]  [P1.9]
+  189 ES: vamos punto a punto
+  191 RU: Договорись играть в середину и выходить вперёд вместе. Потом поддержи партнёра после ошибки. [P2.6]  [P2.6]
+  199 ES: jugamos al medio y subimos juntos || no pasa nada seguimos
+  205 RU: Скажи партнёру, что прикрываешь правую сторону, а он пусть остаётся сзади. [P2.5]  [P2.5]
+  211 ES: yo cubro la derecha || quédate atrás
+  215 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  221 ES: ᴮtuya ᴮtuya | ᴮvenga arriba subimos | ᴮeso es bien jugado compañero seguimos así
+  229 RU: Ты услышал? Твоя, твоя, давай вперед, выходим. Вот так, отлично сыграно партнер, продолжаем так же. ¶ Заранее догнорись, что значит ваши короткие команды. Ясность? Важнее красивой фразы. ¶ До встречи на корте!

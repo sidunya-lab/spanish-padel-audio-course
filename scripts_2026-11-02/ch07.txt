@@ -1,0 +1,24 @@
+N Глава 07
+T Tener, состояние и описание
+G Цель главы: сказать, что у тебя есть, описать самочувствие и экипировку.
+D A|¿Tienes una pala?
+D B|Sí, tengo una pala nueva. Es ligera.
+D A|¿Estás listo para jugar?
+D B|Tengo sed. Necesito agua.
+D A|¿Te duele algo?
+D B|Sí, me duele el hombro. Prefiero descansar.
+L {Tener} значит «иметь». Формы на сегодня: {tengo} — у меня есть, {tienes} — у тебя есть, {tiene} — у него есть.
+L Некоторые состояния испанский выражает иначе, чем русский. «Я голоден» буквально звучит как «у меня есть голод»: {tengo hambre}.
+L Прилагательное согласуется с существительным: {la pala es ligera}. Но слово {grande} одинаково для мужского и женского рода.
+P Tengo una reserva.|У меня есть бронь.|{Tengo} значит «у меня есть».
+P ¿Tienes una pala?|У тебя есть ракетка?|{Pala} — так в Испании называют ракетку для падела.
+P Tengo hambre.|Я голоден.|Голод выражаем через глагол {tener}.
+P Tengo sed.|Я хочу пить.|Буквально: у меня есть жажда.
+P Estoy un poco cansado.|Я немного устал.|Здесь {estoy}, а не {tengo}.
+P La pala es ligera.|Ракетка лёгкая.|{Ligera} согласуется со словом {pala}.
+P La pista es grande.|Корт большой.|У слова {grande} нет отдельной женской формы.
+P Me duele el hombro.|У меня болит плечо.|Полезный готовый образец. Через боль упражнение не продолжай.
+S Скажи, что у тебя есть бронь, но сейчас ты хочешь пить и тебе нужна вода.|Tengo una reserva, pero ahora tengo sed. Necesito agua.
+S Спроси партнёра, есть ли у него ракетка, и скажи, что твоя лёгкая.|¿Tienes una pala? Mi pala es ligera.
+V Uf, estoy muerto. Tengo un hambre que no veas y además me duele un poco el hombro.|Ты услышал: уф, я просто никакой. Я страшно голоден, и к тому же немного болит плечо.
+E Усталость — {estoy cansado}. Голод и жажда — {tengo hambre}, {tengo sed}. До встречи на корте.

@@ -1,0 +1,52 @@
+    0 ES: ᴮHola, amigos.
+    2 RU: Создано для падал Амбасадора, глава 22, Екатеринбург, Алтушкин и Арсиси падал. ¶ Цель главы — рассказать об арене и лиге без неподтвержденных сравнений. ¶ Сначала послушай разговор, пока просто слушай.
+   18 ES: ᴮ¿Hay torneos de Padel en Ekaterinburgo?
+   20 RU: Си.
+   21 ES: Hay una liga internacional llamada RCCE Padel. | ᴮ¿Dónde se juega? | En la arena de Padel, en el antiguo complejo Uralets. | ᴮ¿Cuántas pistas tiene la arena? | La arena principal tiene seis pistas.
+   34 RU: Несколько проверенных фактов. Игорь Алтушкин – основатель русской медной компании. Падал арена РМК появилась после реконструкции бывшего комплекса «Уролец». ¶ В основной арене 6 кортов, и у проекта есть международная лига.
+   50 ES: RCCE Padel.
+   52 RU: Призы с другими турами не сравниваем безточных данных. ¶ В Екатеринбурге есть падал арена.
+   60 ES: En el Caterimburgo hay una arena de Padel. | ¿Hay?
+   63 RU: Вводит новый облект. Разберём с конца. Повторяй.
+   67 ES: Burgo. || Caterimburgo. || E Caterimburgo. || De Padel. || Una arena de Padel. || En el Caterimburgo hay una arena de Padel. || En el Caterimburgo hay una arena de Padel.
+   88 RU: Как сказать? ¶ Игорь Альтушкин – основатель русской медной компании.
+   94 ES: Igor Altuskin es el fundador de la compañía rusa del cobre.
+   97 RU: В испанской фразе название компании переводится. По частям. С конца.
+  103 ES: De la compañía rusa del cobre. || El fundador de la compañía rusa del cobre. || Altuskin es el fundador de la compañía rusa del cobre. || Igor Altuskin es el fundador de la compañía rusa del cobre. || Igor Altuskin es el fundador de la compañía rusa del cobre.
+  128 RU: Орена находится в бывшем комплексе Уролец.
+  131 ES: La arena está en el antiguo complejo Uralets. | Antiguo.
+  135 RU: Здесь значит бывший.
+  137 ES: Complejo Uralets. || El antiguo complejo Uralets. || Está en el antiguo complejo Uralets. || La arena está en el antiguo complejo uralets. || ∅
+  157 RU: Еще раз. ¶ В Екатеринбурге есть падаль Орена. [P1.8]  [P1.8]
+  165 ES: En Ekaterinburgo hay una arena de padel.
+  167 RU: Нужно сказать, здания реконструировали для подела.
+  172 ES: El edificio fue renovado para el padel.
+  174 RU: Готовая форма описания. Повторяй. под частям.
+  179 ES: Ficio. || Dificio. || Edificio. || El padel. || renovado para el padel. || El edificio fue renovado para el padel. || ∅
+  199 RU: В основной арене шесть кортов.
+  201 ES: La arena principal tiene seis
+  204 RU: Разные площадки в одно здание не складываем.
+  208 ES: ∅ || pistas. || ∅ || La arena principal tiene seis pistas.
+  223 RU: Вспомни, здания реконструировали для подела. [P1.9]  [P1.9]
+  228 ES: El edificio fue renovado para el Padel.
+  230 RU: А теперь еще есть. ¶ Международная Лига по Падделу.
+  235 ES: También hay una Liga Internacional de Padel. | También.
+  238 RU: Значит, также. Ещё раз по кусочкам.
+  243 ES: Sional. || Ternacional. || Internacional. || De Padel. || Liga Internacional de Padel. || También hay una Liga Internacional de || Padel.
+  265 RU: Она называется RCC Padel.
+  267 ES: Se llama RCCC-Padel.
+  270 RU: Буквы произносим по-испански.
+  272 ES: ∅ || ∅ || ∅ || ∅
+  287 RU: Проверим в основной арене 6 кортов. [P1.8]  [P1.8]
+  291 ES: La arena principal tiene seis pistas.
+  294 RU: Скажем, хочешь приехать посмотреть турнир?
+  297 ES: ¿Te gustaría venir a ver un torneo?
+  300 RU: Приглашение без обещания конкретных дат. Разберём с конца. Повторяй.
+  306 ES: Un torneo. || A ver un torneo. || ¿Gustaría venir a ver un torneo? || ¿Te gustaría venir a ver un torneo? || ¿Te gustaría venir a ver un torneo?
+  322 RU: Ещё раз. Ещё есть Международная Лига по Паделлу. [P1.9]  [P1.9]
+  327 ES: También hay una liga internacional de Padel.
+  330 RU: Расскажи, что в Екатеринбурге есть падл арена с шестью кортами и Международная Лига. [P2.6]  [P2.6]
+  338 ES: En Ekaterinburgo hay una arena de Padel. || La arena principal tiene seis pistas. || También hay una liga internacional.
+  346 RU: Живая речь. Так это звучит в обычном темпе. ¶ Лови знакомые слова.
+  352 ES: ᴮ¿Qué pasada? | ᴮUna arena de Padel en un antiguo complejo deportivo. | ᴮSi organizáis un torneo, avísame que me apunto.
+  360 RU: Ты услышал, ¶ вот это круто, подел арена в бывшем спортивном комплексе. Если будете устраивать турнир, да и знать, я запишусь. ¶ Различай факт и впечатление. Можно сказать, что проект тебе нравится без громких рекордов. ¶ До встречи на Корте!

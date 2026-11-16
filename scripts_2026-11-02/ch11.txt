@@ -1,0 +1,24 @@
+N Глава 11
+T Отель, такси и дорога
+G Цель главы: заселиться, назвать пункт назначения и решить простую проблему.
+D A|Buenas tardes. Tengo una reserva a nombre de Alex.
+D B|Un momento, por favor. Aquí tiene la llave.
+D A|Gracias. ¿A qué hora es el desayuno?
+D B|A las ocho.
+D A|¿Puede pedir un taxi para las cinco?
+D B|Sí, claro.
+L В поездке многие фразы собираются из знакомого: {tengo una reserva, necesito, ¿dónde está?}.
+L После {voy} место отвечает на вопрос «куда?», после {estoy} — на вопрос «где?». {Voy al hotel} — еду в отель, {estoy en el hotel} — я в отеле.
+L С водителем и администратором вежливо говорить на «вы»: {puede} вместо {puedes}.
+P Tengo una reserva a nombre de Alex.|У меня бронь на имя Алекс.|В реальной ситуации назови имя из брони.
+P ¿A qué hora es el desayuno?|Во сколько завтрак?|{¿A qué hora?} спрашивает о времени события.
+P La llave no funciona.|Ключ не работает.|Частицу {no} ставим перед глаголом.
+P ¿Puede ayudarme, por favor?|Вы можете мне помочь, пожалуйста?|Вежливое обращение на «вы» к одному человеку.
+P Al club de pádel, por favor.|В падел-клуб, пожалуйста.|Короткая фраза для водителя.
+P ¿Cuánto se tarda?|Сколько времени займёт дорога?|Спрашиваем о времени, а не о цене.
+P ¿Puede parar aquí?|Можете остановиться здесь?|Просьба к водителю.
+P Necesito llegar antes de las seis.|Мне нужно приехать до шести.|{Antes de} значит «до», раньше определённого времени.
+S Сообщи о брони, скажи, что ключ не работает, и попроси помочь.|Tengo una reserva a nombre de Alex. La llave no funciona. ¿Puede ayudarme, por favor?
+S Скажи таксисту, что нужно в падел-клуб, и спроси, сколько ехать.|Al club de pádel, por favor. ¿Cuánto se tarda?
+V Al club de pádel, vale. Con este tráfico se tarda unos veinte minutos, pero llegamos antes de las seis, tranquilo.|Ты услышал: в падел-клуб, хорошо. С такими пробками ехать минут двадцать, но до шести успеем, не волнуйся.
+E Не путай «сколько стоит» и «сколько ехать». Адрес держи под рукой, чтобы показать водителю. До встречи на корте.
