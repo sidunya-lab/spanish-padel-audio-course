@@ -31,6 +31,7 @@ SCENE_MAX_CHARS = 1800           # потолок по символам, что�
 DAILY_BUDGET_DEFAULT = 90        # запас от лимита 100 в сутки
 
 SCENE_PREAMBLE = ""              # при необходимости: короткая инструкция по стилю (проверяется на тесте)
+DEBUG_DIR: Optional[Path] = None
 SCENE_SEPARATOR = "\n\n"         # пустая строка между фразами даёт естественную паузу
 
 
@@ -79,10 +80,73 @@ class QuotaCounter:
 # Нарезка аудио сцены на фразы
 # ---------------------------------------------------------------------------
 
+_UNITS = ["ноль","один","два","три","четыре","пять","шесть","семь","восемь","девять","десять","одиннадцать","двенадцать","тринадцать","четырнадцать","пятнадцать","шестнадцать","семнадцать","восемнадцать","девятнадцать"]
+_TENS = {2:"двадцать",3:"тридцать",4:"сорок",5:"пятьдесят",6:"шестьдесят",7:"семьдесят",8:"восемьдесят",9:"девяносто"}
+_HUND = {1:"сто",2:"двести",3:"триста",4:"четыреста",5:"пятьсот",6:"шестьсот",7:"семьсот",8:"восемьсот",9:"девятьсот"}
+
+
+def ru_number_words(n: int) -> List[str]:
+    if n < 20:
+        return [_UNITS[n]]
+    if n < 100:
+        return [_TENS[n // 10]] + ([_UNITS[n % 10]] if n % 10 else [])
+    if n < 1000:
+        return [_HUND[n // 100]] + (ru_number_words(n % 100) if n % 100 else [])
+    return [str(n)]
+
+
 def _norm_words(text: str) -> List[str]:
     low = text.lower().replace("ё", "е")
     low = low.replace("брейк-пойнт", "брейк пойнт").replace("тай-брейк", "тай брейк")
-    return re.findall(r"[а-яa-z0-9]+", low)
+    out: List[str] = []
+    for tok in re.findall(r"[а-яa-z0-9]+", low):
+        if tok.isdigit():
+            out.extend(ru_number_words(int(tok)))
+        else:
+            out.append(tok)
+    return out
+
+
+def _wsim(a: str, b: str) -> float:
+    if a == b:
+        return 1.0
+    return difflib.SequenceMatcher(a=a, b=b).ratio()
+
+
+def _fuzzy_align(exp: List[str], rec: List[str]) -> Dict[int, int]:
+    """Монотонное выравнивание слов (Needleman–Wunsch с нечётким сходством). Возвращает exp_idx -> rec_idx."""
+    n, m = len(exp), len(rec)
+    GAP = -0.4
+    score = np.zeros((n + 1, m + 1), dtype=np.float32)
+    back = np.zeros((n + 1, m + 1), dtype=np.int8)  # 0 diag, 1 up (пропуск ожидаемого), 2 left (лишнее распознанное)
+    for i in range(1, n + 1):
+        score[i, 0] = i * GAP
+        back[i, 0] = 1
+    for j in range(1, m + 1):
+        score[0, j] = j * GAP
+        back[0, j] = 2
+    for i in range(1, n + 1):
+        for j in range(1, m + 1):
+            sim = _wsim(exp[i - 1], rec[j - 1])
+            d = score[i - 1, j - 1] + (sim * 2 - 1 if sim >= 0.6 else -1.0)
+            u = score[i - 1, j] + GAP
+            l = score[i, j - 1] + GAP
+            best = max(d, u, l)
+            score[i, j] = best
+            back[i, j] = 0 if best == d else (1 if best == u else 2)
+    pairs: Dict[int, int] = {}
+    i, j = n, m
+    while i > 0 or j > 0:
+        mv = back[i, j]
+        if i > 0 and j > 0 and mv == 0:
+            if _wsim(exp[i - 1], rec[j - 1]) >= 0.6:
+                pairs[i - 1] = j - 1
+            i, j = i - 1, j - 1
+        elif i > 0 and (mv == 1 or j == 0):
+            i -= 1
+        else:
+            j -= 1
+    return pairs
 
 
 def _read_wav_mono(path: Path) -> Tuple[np.ndarray, int]:
@@ -131,17 +195,15 @@ def split_scene_by_alignment(
         for tok in _norm_words(ph):
             exp.append((tok, i))
 
-    sm = difflib.SequenceMatcher(a=[w for w, _ in exp], b=[w for w, _, _ in rec], autojunk=False)
-    # для каждой фразы — время начала первого и конца последнего сопоставленного слова
+    pairs = _fuzzy_align([w for w, _ in exp], [w for w, _, _ in rec])
     first_start: Dict[int, float] = {}
     last_end: Dict[int, float] = {}
-    for blk in sm.get_matching_blocks():
-        for k in range(blk.size):
-            ph_i = exp[blk.a + k][1]
-            _, ws, we = rec[blk.b + k]
-            if ph_i not in first_start:
-                first_start[ph_i] = ws
-            last_end[ph_i] = we
+    for ei, rj in sorted(pairs.items()):
+        ph_i = exp[ei][1]
+        _, ws, we = rec[rj]
+        if ph_i not in first_start:
+            first_start[ph_i] = ws
+        last_end[ph_i] = we
 
     samples, rate = _read_wav_mono(scene_wav)
     total = len(samples) / rate
@@ -218,6 +280,11 @@ def synth_ru_scenes(
             synth_scene(text, scene_wav)
             parts = [scene_wav.with_suffix(f".p{k}.wav") for k in range(len(scene))]
             ok_flags = split_scene_by_alignment(scene_wav, scene, verifier.model, parts)
+            if DEBUG_DIR is not None:
+                DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+                import shutil as _sh
+                _sh.copyfile(scene_wav, DEBUG_DIR / f"scene_r{rnd}_{si}.wav")
+                (DEBUG_DIR / f"scene_r{rnd}_{si}.json").write_text(json.dumps({"phrases": scene, "cut_ok": ok_flags}, ensure_ascii=False, indent=1), encoding="utf-8")
             for phrase, part, ok_cut in zip(scene, parts, ok_flags):
                 raw, trimmed = cache_path_for(phrase)
                 good = False
@@ -226,6 +293,9 @@ def synth_ru_scenes(
                     good, rec_txt, p_rec, s_rat = verifier.verify_ru(trimmed, phrase)
                     if not good:
                         flagged[phrase] = f"recall={p_rec:.2f} sim={s_rat:.2f} asr={rec_txt!r}"
+                        log(f"[SCENES]   ASR-отказ: {phrase!r} -> {rec_txt!r}")
+                if not ok_cut:
+                    log(f"[SCENES]   граница не найдена: {phrase!r}")
                 if good:
                     flagged.pop(phrase, None)
                 else:

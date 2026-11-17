@@ -65,7 +65,7 @@ TARGET_LRA = 11.0
 TRIM_THRESHOLD_DB = "-45dB"
 
 DEFAULT_GEMINI_MODELS = [
-    "gemini-3.8-flash-lite-tts",
+    os.environ.get("GEMINI_TTS_MODEL", "gemini-3.8-flash-tts"),
 ]
 DEFAULT_RU_VOICE = "Charon"
 
@@ -544,7 +544,7 @@ def expand_chapter_to_segments(ch: ChapterDSL) -> List[Segment]:
 
 def segment_cache_key(seg: Segment, voice_id: str, provider: str) -> str:
     extra = (",".join(DEFAULT_GEMINI_MODELS) if seg.lang == "ru" else EDGE_PITCH.get(seg.voice_key, "+0Hz"))
-    payload = f"{provider}|{seg.lang}|{voice_id}|{seg.rate}|{extra}|{seg.text}".encode("utf-8")
+    payload = f"{os.environ.get('CACHE_SALT', '')}{provider}|{seg.lang}|{voice_id}|{seg.rate}|{extra}|{seg.text}".encode("utf-8")
     return hashlib.sha256(payload).hexdigest()[:24]
 
 
@@ -670,9 +670,8 @@ def synth_gemini_tts(text: str, voice_name: str, rate: str, out_wav: Path, model
 # ---------------------------------------------------------------------------
 
 def normalize_words_for_asr(text: str) -> List[str]:
-    low = text.lower().replace("ё", "е")
-    low = low.replace("брейк-пойнт", "брейк пойнт").replace("тай-брейк", "тай брейк")
-    return re.findall(r"[а-яa-z0-9]+", low)
+    import scene_tts
+    return scene_tts._norm_words(text)
 
 
 def score_asr_match(expected: str, recognized: str) -> Tuple[float, float]:
@@ -1023,6 +1022,8 @@ def run_pipeline(args: argparse.Namespace) -> None:
     counter = None
     if not args.mock_tts:
         import scene_tts
+        if os.environ.get('SCENE_DEBUG'):
+            scene_tts.DEBUG_DIR = base_dir / 'scene_debug'
         counter = scene_tts.QuotaCounter(base_dir / "quota_state.json", args.daily_budget)
         if not args.no_scenes and verifier.model is not None:
             ru_todo: List[str] = []
