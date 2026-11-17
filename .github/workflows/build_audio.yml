@@ -1,0 +1,76 @@
+name: Build Spanish Padel Audio Course (v4)
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Режим сборки (сначала test_only для проверки 2-минутной главы, затем full_course)'
+        required: true
+        default: 'test_only'
+        type: choice
+        options:
+          - test_only
+          - full_course
+      es_provider:
+        description: 'Движок испанских голосов (edge = Álvaro/Arnau/Elvira, gemini = Gemini TTS)'
+        required: true
+        default: 'edge'
+        type: choice
+        options:
+          - edge
+          - gemini
+      skip_asr:
+        description: 'Пропустить проверку faster-whisper (ускоряет облачную сборку на CPU)'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  render-audio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11 and FFmpeg
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install FFmpeg and Python packages
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Validate all 28 DSL scripts against TZ rules
+        run: python3 validate_dsl.py
+
+      - name: Restore TTS WAV cache
+        uses: actions/cache@v4
+        with:
+          path: cache_wav
+          key: padel-tts-cache-v4-${{ inputs.es_provider }}-${{ hashFiles('scripts_2026-11-17/*.txt', 'examples/test_chapter.dsl.txt') }}
+          restore-keys: |
+            padel-tts-cache-v4-${{ inputs.es_provider }}-
+
+      - name: Run audio course builder
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          EXTRA_FLAGS="--es-provider ${{ inputs.es_provider }}"
+          if [ "${{ inputs.mode }}" = "test_only" ]; then
+            EXTRA_FLAGS="$EXTRA_FLAGS --only-test"
+          fi
+          if [ "${{ inputs.skip_asr }}" = "true" ]; then
+            EXTRA_FLAGS="$EXTRA_FLAGS --skip-asr"
+          fi
+          python3 build_course.py $EXTRA_FLAGS --out-dir ./dist_audio_v4
+
+      - name: Upload built MP3 bundle as GitHub Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: spanish-padel-audio-${{ inputs.mode }}
+          path: dist_audio_v4/
+          retention-days: 30
