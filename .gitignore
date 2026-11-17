@@ -17,3 +17,5 @@ nohup.out
 up3/
 dist_lite/
 t5.log
+quota_state.json
+cache_wav/

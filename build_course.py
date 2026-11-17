@@ -1020,6 +1020,48 @@ def run_pipeline(args: argparse.Namespace) -> None:
     silence_anomalies_report: List[str] = []
     chapter_entries: List[Tuple[str, Path, float]] = []
 
+    counter = None
+    if not args.mock_tts:
+        import scene_tts
+        counter = scene_tts.QuotaCounter(base_dir / "quota_state.json", args.daily_budget)
+        if not args.no_scenes and verifier.model is not None:
+            ru_todo: List[str] = []
+            for ch in parsed_chapters:
+                for seg in expand_chapter_to_segments(ch):
+                    if seg.lang == "ru":
+                        ck = segment_cache_key(seg, args.ru_voice, "gemini")
+                        if not (cache_dir / f"{ck}_trim.wav").exists():
+                            ru_todo.append(seg.text)
+            ru_todo = list(dict.fromkeys(ru_todo))
+            print(f"[SCENES] русских фраз без озвучки в кэше: {len(ru_todo)}")
+            if ru_todo:
+                def _paths(text: str):
+                    ck = segment_cache_key(Segment("ru", "RU", "+0%", text, 0.0), args.ru_voice, "gemini")
+                    return cache_dir / f"{ck}_raw.wav", cache_dir / f"{ck}_trim.wav"
+                try:
+                    left = scene_tts.synth_ru_scenes(
+                        ru_todo,
+                        cache_path_for=_paths,
+                        synth_scene=lambda text, out: synth_gemini_tts(text, args.ru_voice, "+0%", out, DEFAULT_GEMINI_MODELS),
+                        trim=trim_silence_wav,
+                        verifier=verifier,
+                        counter=counter,
+                        scene_size=args.scene_size,
+                    )
+                except scene_tts.QuotaStop as exc:
+                    print(f"[STOP] {exc}")
+                    print("[STOP] Готовые фразы сохранены в cache_wav, продолжение — следующим запуском.")
+                    sys.exit(3)
+                except RuntimeError as exc:
+                    if "Суточный лимит" in str(exc):
+                        counter.mark_exhausted()
+                        print(f"[STOP] {exc}")
+                        print("[STOP] Готовые фразы сохранены в cache_wav, продолжение — следующим запуском.")
+                        sys.exit(3)
+                    raise
+                if left:
+                    print(f"[SCENES] после всех раундов не прошли проверку {len(left)} фраз — они будут озвучены отдельными запросами.")
+
     with tempfile.TemporaryDirectory(prefix="padel_sil_") as sil_tmp:
         sil_dir = Path(sil_tmp)
         silence_cache: Dict[int, Path] = {}
@@ -1065,6 +1107,12 @@ def run_pipeline(args: argparse.Namespace) -> None:
                         accepted = False
                         last_info = ""
                         for attempt in range(1, 4):
+                            if counter is not None:
+                                try:
+                                    counter.take()
+                                except Exception as exc:
+                                    print(f"[STOP] {exc}")
+                                    sys.exit(3)
                             synth_gemini_tts(seg.text, voice_id, seg.rate, raw_wav, DEFAULT_GEMINI_MODELS)
                             trim_silence_wav(raw_wav, trimmed_wav)
                             ok, rec_txt, p_rec, s_rat = verifier.verify_ru(trimmed_wav, seg.text)
@@ -1185,6 +1233,9 @@ def build_arg_parser() -> argparse.ArgumentParser:
     p.add_argument("--with-shadowing", action="store_true", default=True, help="Генерировать дорожки Режима Тень")
     p.add_argument("--skip-asr", action="store_true", help="Пропустить проверку faster-whisper")
     p.add_argument("--dry-run", action="store_true", help="Проверить развёртку и статистику без синтеза звука")
+    p.add_argument("--scene-size", type=int, default=12, help="Сколько русских фраз озвучивать одним запросом (сцена)")
+    p.add_argument("--daily-budget", type=int, default=90, help="Максимум запросов к Gemini TTS за сутки (по тихоокеанскому времени)")
+    p.add_argument("--no-scenes", action="store_true", help="Озвучивать каждую русскую фразу отдельным запросом (старый режим)")
     p.add_argument("--mock-tts", action="store_true", help="Офлайн-самотест всего тракта ffmpeg/LUFS/ID3 без сети")
     return p
 
