@@ -71,11 +71,12 @@ DEFAULT_RU_VOICE = "Charon"
 
 EDGE_ES_VOICES = {
     "A": "es-ES-AlvaroNeural",   # Ученик + испанские эталоны и разбор (мужской, Испания)
-    "M": "es-ES-ArnauNeural",    # Собеседник-мужчина: тренер, Маури, Пабло, партнёр, комментатор (мужской, Испания)
+    "M": "es-ES-AlvaroNeural",   # Собеседник-мужчина (Arnau/Dario недоступны в edge-tts: тот же Alvaro, но с понижением тона, см. EDGE_M_PITCH)
     "F": "es-ES-ElviraNeural",   # Собеседница-женщина: ресепшен, кафе, магазин, отель, партнёрша (женский, Испания)
     "B": "es-ES-ElviraNeural",   # Обратная совместимость со старыми DSL
 }
-EDGE_M_FALLBACK = "es-ES-DarioNeural"
+EDGE_M_FALLBACK = "es-ES-AlvaroNeural"
+EDGE_M_PITCH = "-18Hz"  # отличие роли M от A при одном доступном мужском голосе Испании
 
 GEMINI_ES_VOICES = {
     "A": "Orus",
@@ -572,11 +573,11 @@ def generate_mock_wav(path: Path, text: str, lang: str, rate: str) -> None:
         wf.writeframes(bytes(buf))
 
 
-async def synth_edge_tts(text: str, voice: str, rate: str, out_wav: Path) -> None:
+async def synth_edge_tts(text: str, voice: str, rate: str, out_wav: Path, pitch: str = "+0Hz") -> None:
     import edge_tts  # type: ignore
 
     tmp_mp3 = out_wav.with_suffix(".edge_tmp.mp3")
-    comm = edge_tts.Communicate(text=text, voice=voice, rate=rate)
+    comm = edge_tts.Communicate(text=text, voice=voice, rate=rate, pitch=pitch)
     await comm.save(str(tmp_mp3))
     subprocess.run(
         [
@@ -591,14 +592,14 @@ async def synth_edge_tts(text: str, voice: str, rate: str, out_wav: Path) -> Non
 
 
 def synth_gemini_tts(text: str, voice_name: str, rate: str, out_wav: Path, model_candidates: List[str]) -> None:
-    from google import genai  # type: ignore
-    from google.genai import types  # type: ignore
+    """Gemini TTS через REST (generateContent); не зависит от версии SDK google-genai."""
+    import base64
+    import requests  # type: ignore
 
     api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
     if not api_key:
         raise RuntimeError("Не задан GEMINI_API_KEY (или GOOGLE_API_KEY) в переменных окружения.")
 
-    client = genai.Client(api_key=api_key)
     style_hint = None
     if rate == "-35%":
         style_hint = "speaking slowly and clearly for language learners"
@@ -610,27 +611,26 @@ def synth_gemini_tts(text: str, voice_name: str, rate: str, out_wav: Path, model
     last_err: Optional[Exception] = None
     for model_name in model_candidates:
         try:
-            speech_cfg = types.SpeechConfig(
-                voice_config=types.VoiceConfig(
-                    prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=voice_name)
-                )
-            )
-            cfg_kwargs = {
-                "response_modalities": ["AUDIO"],
-                "speech_config": speech_cfg,
-            }
             prompt_text = text
             if style_hint and "2.5" in model_name:
                 prompt_text = f"Say {style_hint}: {text}"
-
-            resp = client.models.generate_content(
-                model=model_name,
-                contents=prompt_text,
-                config=types.GenerateContentConfig(**cfg_kwargs),
+            body = {
+                "contents": [{"parts": [{"text": prompt_text}]}],
+                "generationConfig": {
+                    "responseModalities": ["AUDIO"],
+                    "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice_name}}},
+                },
+            }
+            r = requests.post(
+                f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent",
+                headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
+                json=body, timeout=180,
             )
-            part = resp.candidates[0].content.parts[0]
-            pcm_bytes = part.inline_data.data
-            mime = (part.inline_data.mime_type or "").lower()
+            if r.status_code != 200:
+                raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
+            part = r.json()["candidates"][0]["content"]["parts"][0]["inlineData"]
+            pcm_bytes = base64.b64decode(part["data"])
+            mime = (part.get("mimeType") or "").lower()
             if "wav" in mime or pcm_bytes[:4] == b"RIFF":
                 tmp_raw = out_wav.with_suffix(".gem_raw.wav")
                 tmp_raw.write_bytes(pcm_bytes)
@@ -1068,7 +1068,7 @@ def run_pipeline(args: argparse.Namespace) -> None:
                     else:
                         if provider == "edge":
                             try:
-                                asyncio.run(synth_edge_tts(seg.text, voice_id, seg.rate, raw_wav))
+                                asyncio.run(synth_edge_tts(seg.text, voice_id, seg.rate, raw_wav, EDGE_M_PITCH if seg.voice_key == "M" else "+0Hz"))
                             except Exception:
                                 if seg.voice_key == "M":
                                     asyncio.run(synth_edge_tts(seg.text, EDGE_M_FALLBACK, seg.rate, raw_wav))
