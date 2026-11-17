@@ -8,3 +8,9 @@ dist_ch17/
 up/
 t1.log
 t2.log
+dist_*/
+up2/
+done.flag
+t3.log
+t4.log
+nohup.out

@@ -76,7 +76,8 @@ EDGE_ES_VOICES = {
     "B": "es-ES-ElviraNeural",   # Обратная совместимость со старыми DSL
 }
 EDGE_M_FALLBACK = "es-ES-AlvaroNeural"
-EDGE_M_PITCH = "-18Hz"  # отличие роли M от A при одном доступном мужском голосе Испании
+EDGE_PITCH = {"A": "+5Hz", "M": "-13Hz", "F": "+4Hz", "B": "+4Hz"}  # чуть выше прежнего: мужские на 5 Гц, женские на 4 Гц
+EDGE_M_PITCH = "-13Hz"  # отличие роли M от A при одном доступном мужском голосе Испании
 
 GEMINI_ES_VOICES = {
     "A": "Orus",
@@ -1068,7 +1069,7 @@ def run_pipeline(args: argparse.Namespace) -> None:
                     else:
                         if provider == "edge":
                             try:
-                                asyncio.run(synth_edge_tts(seg.text, voice_id, seg.rate, raw_wav, EDGE_M_PITCH if seg.voice_key == "M" else "+0Hz"))
+                                asyncio.run(synth_edge_tts(seg.text, voice_id, seg.rate, raw_wav, EDGE_PITCH.get(seg.voice_key, "+0Hz")))
                             except Exception:
                                 if seg.voice_key == "M":
                                     asyncio.run(synth_edge_tts(seg.text, EDGE_M_FALLBACK, seg.rate, raw_wav))
