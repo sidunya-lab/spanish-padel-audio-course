@@ -65,8 +65,7 @@ TARGET_LRA = 11.0
 TRIM_THRESHOLD_DB = "-45dB"
 
 DEFAULT_GEMINI_MODELS = [
-    "gemini-3.8-flash-tts",
-    "gemini-2.5-flash-preview-tts",
+    "gemini-3.8-flash-lite-tts",
 ]
 DEFAULT_RU_VOICE = "Charon"
 
@@ -544,7 +543,8 @@ def expand_chapter_to_segments(ch: ChapterDSL) -> List[Segment]:
 # ---------------------------------------------------------------------------
 
 def segment_cache_key(seg: Segment, voice_id: str, provider: str) -> str:
-    payload = f"{provider}|{seg.lang}|{voice_id}|{seg.rate}|{seg.text}".encode("utf-8")
+    extra = (",".join(DEFAULT_GEMINI_MODELS) if seg.lang == "ru" else EDGE_PITCH.get(seg.voice_key, "+0Hz"))
+    payload = f"{provider}|{seg.lang}|{voice_id}|{seg.rate}|{extra}|{seg.text}".encode("utf-8")
     return hashlib.sha256(payload).hexdigest()[:24]
 
 
