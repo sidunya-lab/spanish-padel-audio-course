@@ -32,6 +32,7 @@
 from __future__ import annotations
 
 import argparse
+import time
 import asyncio
 import csv
 import difflib
@@ -622,11 +623,18 @@ def synth_gemini_tts(text: str, voice_name: str, rate: str, out_wav: Path, model
                     "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice_name}}},
                 },
             }
-            r = requests.post(
-                f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent",
-                headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
-                json=body, timeout=180,
-            )
+            for _try in range(10):
+                r = requests.post(
+                    f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent",
+                    headers={"x-goog-api-key": api_key, "Content-Type": "application/json"},
+                    json=body, timeout=180,
+                )
+                if r.status_code == 429 and "per_day" in r.text:
+                    raise RuntimeError(f"Суточный лимит запросов исчерпан для {model_name}: {r.text[:200]}")
+                if r.status_code in (429, 500, 503):
+                    time.sleep(min(15 * (_try + 1), 90))
+                    continue
+                break
             if r.status_code != 200:
                 raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
             part = r.json()["candidates"][0]["content"]["parts"][0]["inlineData"]
